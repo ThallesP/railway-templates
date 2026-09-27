@@ -591,8 +591,8 @@
           "total": 50,
           "top": [
             "n8n (MRazvG, 4126 active, health 100)",
-            "n8n (n8n-9, 2 active, health 100)",
-            "N8N (n8n-4, 1 active, health 100)"
+            "N8N (n8n-latest, 79 active, health 100)",
+            "n8n (n8n-9, 2 active, health 100)"
           ]
         },
         {
