@@ -1,0 +1,433 @@
+{
+  "date": "2026-09-27",
+  "sampledAt": "2026-09-27T17:34:41.601Z",
+  "templates": {
+    "zsaPAU": {
+      "id": "a29e1d22-e2b9-4623-81b2-bb7dfde71e70",
+      "name": "ASP.NET Minimal API",
+      "totalEarnings": 4.61,
+      "earningsLast30Days": 0.49,
+      "earningsLast90Days": 1.4,
+      "totalDeployments": 87,
+      "deploymentsLast90Days": 16,
+      "activeDeployments": 33,
+      "templateHealth": 100,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "clickstack": {
+      "id": "505f751b-5819-4e81-bfd9-f86d7204fef2",
+      "name": "ClickStack",
+      "totalEarnings": 2944.45,
+      "earningsLast30Days": 269.71,
+      "earningsLast90Days": 838.25,
+      "totalDeployments": 83,
+      "deploymentsLast90Days": 14,
+      "activeDeployments": 12,
+      "templateHealth": 92,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "comentario": {
+      "id": "ad58e599-c70b-4c35-88f6-6fbbecfae9c6",
+      "name": "Comentario",
+      "totalEarnings": 22.66,
+      "earningsLast30Days": 4.01,
+      "earningsLast90Days": 14.17,
+      "totalDeployments": 31,
+      "deploymentsLast90Days": 11,
+      "activeDeployments": 15,
+      "templateHealth": 80,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "dispatcher": {
+      "id": "581f0cc5-e596-4e45-865d-ff890988171e",
+      "name": "Dispatcher",
+      "totalEarnings": 0,
+      "earningsLast30Days": 0,
+      "earningsLast90Days": 0,
+      "totalDeployments": 12,
+      "deploymentsLast90Days": 12,
+      "activeDeployments": 2,
+      "templateHealth": 100,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "AMx6AD": {
+      "id": "12bd26e1-9577-4b3e-9923-0e0b2a573247",
+      "name": "GlitchTip",
+      "totalEarnings": 2572.13,
+      "earningsLast30Days": 162.9,
+      "earningsLast90Days": 489.94,
+      "totalDeployments": 249,
+      "deploymentsLast90Days": 15,
+      "activeDeployments": 43,
+      "templateHealth": 96,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "tFqAVW": {
+      "id": "959fe9cb-77f1-478e-b5a1-4ef045a4d4aa",
+      "name": "Interval",
+      "totalEarnings": 302.35,
+      "earningsLast30Days": 6.75,
+      "earningsLast90Days": 21.8,
+      "totalDeployments": 27,
+      "deploymentsLast90Days": 0,
+      "activeDeployments": 11,
+      "templateHealth": 94,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "microsoftsql-server-mssql": {
+      "id": "7dbe091f-d291-49a5-acbb-7edbb87ae2e7",
+      "name": "Microsoft SQL Server (MSSQL)",
+      "totalEarnings": 73.96,
+      "earningsLast30Days": 36.71,
+      "earningsLast90Days": 67.07,
+      "totalDeployments": 40,
+      "deploymentsLast90Days": 22,
+      "activeDeployments": 14,
+      "templateHealth": 100,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "BLEtpx": {
+      "id": "ef6e3e44-2ae9-443c-b6c1-abb704bc8e3a",
+      "name": "Minecraft Server",
+      "totalEarnings": 2423.37,
+      "earningsLast30Days": 49.25,
+      "earningsLast90Days": 166.57,
+      "totalDeployments": 497,
+      "deploymentsLast90Days": 143,
+      "activeDeployments": 172,
+      "templateHealth": 69,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "MRazvG": {
+      "id": "72e39019-e3a6-4bf2-974b-f6203b63c6f4",
+      "name": "n8n",
+      "totalEarnings": 24537.9,
+      "earningsLast30Days": 1903.17,
+      "earningsLast90Days": 5883.35,
+      "totalDeployments": 7735,
+      "deploymentsLast90Days": 305,
+      "activeDeployments": 5449,
+      "templateHealth": 100,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "postgresql-18": {
+      "id": "e40ad48d-e484-47f8-9d15-25a1bb5d4821",
+      "name": "PostgreSQL 18",
+      "totalEarnings": 29.03,
+      "earningsLast30Days": 4.06,
+      "earningsLast90Days": 10.59,
+      "totalDeployments": 48,
+      "deploymentsLast90Days": 8,
+      "activeDeployments": 6,
+      "templateHealth": 63,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "probo": {
+      "id": "79bb2c8f-6beb-44e2-9332-19d39057a6ef",
+      "name": "Probo",
+      "totalEarnings": 45.09,
+      "earningsLast30Days": 6.84,
+      "earningsLast90Days": 33.01,
+      "totalDeployments": 52,
+      "deploymentsLast90Days": 15,
+      "activeDeployments": 15,
+      "templateHealth": 100,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "jOiNFt": {
+      "id": "41f8ced2-ecd0-4c14-82ae-299ebea46082",
+      "name": "SQLite",
+      "totalEarnings": 180.68,
+      "earningsLast30Days": 1.51,
+      "earningsLast90Days": 4.65,
+      "totalDeployments": 1156,
+      "deploymentsLast90Days": 44,
+      "activeDeployments": 202,
+      "templateHealth": 68,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    },
+    "tRFTHR": {
+      "id": "982c0cf9-1cea-4c7a-826d-1a663a17b31a",
+      "name": "Turborepo Remote Cache",
+      "totalEarnings": 825.4,
+      "earningsLast30Days": 103.99,
+      "earningsLast90Days": 288.85,
+      "totalDeployments": 202,
+      "deploymentsLast90Days": 19,
+      "activeDeployments": 72,
+      "templateHealth": 100,
+      "supportHealth": 100,
+      "eligibleForSupportBonus": true
+    }
+  },
+  "dispatcher": {
+    "sampledAt": "2026-09-27T17:00:04.99338Z",
+    "totalPayout": {
+      "current": 33961.63,
+      "previous": 33410.41,
+      "changePct": 1.6498450632602049
+    },
+    "balance": {
+      "availableCents": 4318,
+      "minimumCents": 10000
+    },
+    "autoWithdraw": {
+      "enabled": true,
+      "schedule": "0 * * * *"
+    },
+    "withdrawals": {
+      "last30Cents": 254500,
+      "previous30Cents": 276000,
+      "lifetimeCents": 3413644,
+      "lastPayoutAt": "2026-09-27T01:00:01.875Z",
+      "lastStatus": "COMPLETED",
+      "pendingCount": 0
+    },
+    "dayEnd": {
+      "2026-08-30": {
+        "AMx6AD": 2411.65,
+        "clickstack": 2691.82,
+        "MRazvG": 22829.07,
+        "tRFTHR": 723.93,
+        "BLEtpx": 2380.61,
+        "other": 599.61
+      },
+      "2026-08-31": {
+        "AMx6AD": 2417.81,
+        "clickstack": 2691.82,
+        "MRazvG": 22863.5,
+        "tRFTHR": 724.17,
+        "BLEtpx": 2380.66,
+        "other": 600.21
+      },
+      "2026-09-01": {
+        "AMx6AD": 2432.38,
+        "clickstack": 2700.85,
+        "MRazvG": 22945.78,
+        "tRFTHR": 724.99,
+        "BLEtpx": 2385.55,
+        "other": 600.6899999999999
+      },
+      "2026-09-02": {
+        "AMx6AD": 2432.38,
+        "clickstack": 2700.85,
+        "MRazvG": 22945.78,
+        "tRFTHR": 724.99,
+        "BLEtpx": 2385.55,
+        "other": 600.7800000000001
+      },
+      "2026-09-03": {
+        "AMx6AD": 2434.51,
+        "clickstack": 2700.85,
+        "MRazvG": 23006.92,
+        "tRFTHR": 729.25,
+        "BLEtpx": 2386.03,
+        "other": 600.7800000000001
+      },
+      "2026-09-04": {
+        "AMx6AD": 2437.15,
+        "clickstack": 2700.85,
+        "MRazvG": 23074.95,
+        "tRFTHR": 732.19,
+        "BLEtpx": 2386.17,
+        "other": 623.5000000000001
+      },
+      "2026-09-05": {
+        "AMx6AD": 2439.91,
+        "clickstack": 2700.85,
+        "MRazvG": 23137.76,
+        "tRFTHR": 732.49,
+        "BLEtpx": 2386.19,
+        "other": 625.94
+      },
+      "2026-09-06": {
+        "AMx6AD": 2439.91,
+        "clickstack": 2700.85,
+        "MRazvG": 23181.07,
+        "tRFTHR": 732.49,
+        "BLEtpx": 2386.2,
+        "other": 625.94
+      },
+      "2026-09-07": {
+        "AMx6AD": 2455.35,
+        "clickstack": 2700.85,
+        "MRazvG": 23242.44,
+        "tRFTHR": 733.94,
+        "BLEtpx": 2386.2,
+        "other": 625.94
+      },
+      "2026-09-08": {
+        "AMx6AD": 2457.25,
+        "clickstack": 2700.85,
+        "MRazvG": 23325.86,
+        "tRFTHR": 733.94,
+        "BLEtpx": 2386.2,
+        "other": 627.5200000000001
+      },
+      "2026-09-09": {
+        "AMx6AD": 2458.76,
+        "clickstack": 2700.85,
+        "MRazvG": 23394.24,
+        "tRFTHR": 744.49,
+        "BLEtpx": 2386.52,
+        "other": 631.58
+      },
+      "2026-09-10": {
+        "AMx6AD": 2462.98,
+        "clickstack": 2700.85,
+        "MRazvG": 23452.39,
+        "tRFTHR": 745.45,
+        "BLEtpx": 2386.52,
+        "other": 631.66
+      },
+      "2026-09-11": {
+        "AMx6AD": 2462.98,
+        "clickstack": 2728.9,
+        "MRazvG": 23548.36,
+        "tRFTHR": 745.45,
+        "BLEtpx": 2390.68,
+        "other": 631.7099999999999
+      },
+      "2026-09-12": {
+        "AMx6AD": 2462.98,
+        "clickstack": 2728.9,
+        "MRazvG": 23633.45,
+        "tRFTHR": 746.99,
+        "BLEtpx": 2390.82,
+        "other": 633.0299999999999
+      },
+      "2026-09-13": {
+        "AMx6AD": 2464.77,
+        "clickstack": 2728.9,
+        "MRazvG": 23704.71,
+        "tRFTHR": 747.22,
+        "BLEtpx": 2390.82,
+        "other": 633.0299999999999
+      },
+      "2026-09-14": {
+        "AMx6AD": 2467.08,
+        "clickstack": 2728.9,
+        "MRazvG": 23767.81,
+        "tRFTHR": 747.22,
+        "BLEtpx": 2391.18,
+        "other": 633.0299999999999
+      },
+      "2026-09-15": {
+        "AMx6AD": 2472.12,
+        "clickstack": 2895.69,
+        "MRazvG": 23813.33,
+        "tRFTHR": 777.63,
+        "BLEtpx": 2391.18,
+        "other": 633.2899999999998
+      },
+      "2026-09-16": {
+        "AMx6AD": 2482.85,
+        "clickstack": 2895.69,
+        "MRazvG": 23896.49,
+        "tRFTHR": 778.53,
+        "BLEtpx": 2391.18,
+        "other": 633.38
+      },
+      "2026-09-17": {
+        "AMx6AD": 2489.34,
+        "clickstack": 2895.69,
+        "MRazvG": 23973,
+        "tRFTHR": 778.7,
+        "BLEtpx": 2391.32,
+        "other": 633.4899999999999
+      },
+      "2026-09-18": {
+        "AMx6AD": 2489.34,
+        "clickstack": 2895.69,
+        "MRazvG": 24029.58,
+        "tRFTHR": 781.36,
+        "BLEtpx": 2391.32,
+        "other": 633.9499999999999
+      },
+      "2026-09-19": {
+        "AMx6AD": 2489.34,
+        "clickstack": 2895.69,
+        "MRazvG": 24082.17,
+        "tRFTHR": 786.33,
+        "BLEtpx": 2392.29,
+        "other": 635.1099999999999
+      },
+      "2026-09-20": {
+        "AMx6AD": 2491.09,
+        "clickstack": 2937.26,
+        "MRazvG": 24164.46,
+        "tRFTHR": 787.05,
+        "BLEtpx": 2392.29,
+        "other": 638.26
+      },
+      "2026-09-21": {
+        "AMx6AD": 2495.2,
+        "clickstack": 2937.26,
+        "MRazvG": 24222.37,
+        "tRFTHR": 788,
+        "BLEtpx": 2397.48,
+        "other": 638.26
+      },
+      "2026-09-22": {
+        "AMx6AD": 2496.68,
+        "clickstack": 2937.26,
+        "MRazvG": 24306.9,
+        "tRFTHR": 802.08,
+        "BLEtpx": 2401.74,
+        "other": 646.03
+      },
+      "2026-09-23": {
+        "AMx6AD": 2498.59,
+        "clickstack": 2944.45,
+        "MRazvG": 24368.97,
+        "tRFTHR": 804.32,
+        "BLEtpx": 2410.37,
+        "other": 646.03
+      },
+      "2026-09-24": {
+        "AMx6AD": 2568.64,
+        "clickstack": 2944.45,
+        "MRazvG": 24425.9,
+        "tRFTHR": 804.54,
+        "BLEtpx": 2412.01,
+        "other": 646.28
+      },
+      "2026-09-25": {
+        "AMx6AD": 2568.64,
+        "clickstack": 2944.45,
+        "MRazvG": 24495.76,
+        "tRFTHR": 822.35,
+        "BLEtpx": 2422.89,
+        "other": 646.3599999999999
+      },
+      "2026-09-26": {
+        "AMx6AD": 2572.13,
+        "clickstack": 2944.45,
+        "MRazvG": 24537.9,
+        "tRFTHR": 825.4,
+        "BLEtpx": 2423.37,
+        "other": 658.38
+      },
+      "2026-09-27": {
+        "AMx6AD": 2572.13,
+        "clickstack": 2944.45,
+        "MRazvG": 24537.9,
+        "tRFTHR": 825.4,
+        "BLEtpx": 2423.37,
+        "other": 658.38
+      }
+    }
+  }
+}

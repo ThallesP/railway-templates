@@ -4,7 +4,7 @@
 // through the CLI or API; a mismatch is reported for a manual dashboard edit.
 import { $ } from 'bun'
 import { join } from 'node:path'
-import { gql, loadTemplates } from './lib'
+import { appendChange, gql, loadTemplates } from './lib'
 
 type Live = { name: string; description: string | null; category: string | null; image: string | null; readme: string | null; status: string }
 
@@ -53,6 +53,7 @@ const main = async () => {
       process.exitCode = 1
       continue
     }
+    await appendChange({ code: meta.code, kind: 'publish', detail: changes.join(', ') })
     published += 1
   }
   console.log(`${published} template(s) published`)

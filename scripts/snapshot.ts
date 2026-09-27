@@ -32,7 +32,7 @@ export type Snapshot = {
     string,
     {
       live: Omit<Live, 'readme'> & { readmeWords: number }
-      page: { status: number; title: string; description: string; canonical: string; h1: string }
+      page: { status: number; title: string; description: string; canonical: string; h1: string; inSitemap?: boolean }
       manifest: { status: string; successRate30d: number | null; failedChecks: string[] }
       icon: { url: string | null; status: number; type: string }
       thread: { slug: string | null; replies: number | null; lastReplyAt: string }
@@ -109,9 +109,16 @@ const thread = async (slug: string | null) => {
   return { slug, replies, lastReplyAt: dates.at(-1)?.slice(1, 11) ?? '' }
 }
 
+const sitemap = async () => {
+  const res = await fetch('https://railway.com/templates-sitemap.xml', { headers: { 'user-agent': 'Mozilla/5.0' } }).catch(() => null)
+  if (!res?.ok) return null
+  return res.text().catch(() => null)
+}
+
 const main = async () => {
   const templates = await loadTemplates()
   const snapshot: Snapshot = { date: today(), templates: {} }
+  const sitemapXml = await sitemap()
   for (const { meta } of templates) {
     const data = await gql<{ template: Live | null }>(templateQuery, { code: meta.code })
     const live = data?.template
@@ -123,9 +130,11 @@ const main = async () => {
     const icon = live.image ? await probe(live.image) : { ok: false, status: 0, type: '' }
     const ranks: Rank[] = []
     for (const keyword of meta.keywords) ranks.push(await rank(keyword, meta.code))
+    const pageInfo = await page(meta.code)
+    if (sitemapXml !== null && pageInfo.canonical) pageInfo.inSitemap = sitemapXml.includes(`<loc>${pageInfo.canonical}</loc>`)
     snapshot.templates[meta.code] = {
       live: { ...rest, readmeWords: (readme ?? '').split(/\s+/).filter(Boolean).length },
-      page: await page(meta.code),
+      page: pageInfo,
       manifest: await manifest(meta.code),
       icon: { url: live.image, status: icon.status, type: icon.type },
       thread: await thread(live.communityThreadSlug),

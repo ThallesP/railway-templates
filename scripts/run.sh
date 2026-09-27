@@ -13,7 +13,9 @@ git pull -q --rebase origin main || { git rebase --abort 2>/dev/null || true; lo
 
 railway whoami >/dev/null            # refreshes the CLI token
 bun run scripts/snapshot.ts
+bun run scripts/revenue.ts || log "revenue snapshot failed, the report will say so"
 bun run scripts/report.ts
+bun run scripts/notify.ts || log "notify failed"
 
 if [[ -e PAUSE ]]; then
   log "PAUSE present, skipping agent and publish"

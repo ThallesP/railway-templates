@@ -22,7 +22,8 @@
         "title": "Deploy & Host ASP.NET Minimal API | Railway",
         "description": "Deploy and host ASP.NET Minimal API on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. ASP.NET Core minimal API on .NET 9 (dotnet) with a Dockerfile build",
         "canonical": "https://railway.com/deploy/aspnet-minimal-api--zsaPAU",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "validated",
@@ -66,7 +67,7 @@
           "top": [
             "ASP.NET Minimal API (zsaPAU, 28 active, health 100)",
             "Minimal API .NET 10 (dynamic-truth, 4 active, health n/a)",
-            "Evolution API (evolution-api-minimal, 160 active, health 100)"
+            "Evolution API (evolution-api-minimal, 162 active, health 100)"
           ]
         }
       ]
@@ -92,7 +93,8 @@
         "title": "Deploy & Host ClickStack | Railway",
         "description": "Deploy and host ClickStack on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. HyperDX observability on ClickHouse: OpenTelemetry logs, traces, metrics",
         "canonical": "https://railway.com/deploy/clickstack",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "validated",
@@ -125,7 +127,7 @@
           "total": 23,
           "top": [
             "ClickHouse Cluster (clickhouse-cluster, 9 active, health 100)",
-            "ClickHouse (clickhouse, 136 active, health 92)",
+            "ClickHouse (clickhouse, 137 active, health 92)",
             "ClickHouse (clickhouse-1, 6 active, health 83)"
           ]
         },
@@ -162,7 +164,8 @@
         "title": "Deploy & Host Comentario | Railway",
         "description": "Deploy and host Comentario on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Privacy-first comments for blogs, a Disqus alternative, on PostgreSQL",
         "canonical": "https://railway.com/deploy/comentario",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "degraded",
@@ -225,7 +228,7 @@
         "recentProjects": 3,
         "projects": 3,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:07:22.054Z",
+        "updatedAt": "2026-09-27T13:37:35.514Z",
         "communityThreadSlug": "dispatcher-c774a599",
         "readmeWords": 585
       },
@@ -234,7 +237,8 @@
         "title": "Deploy & Host Dispatcher | Railway",
         "description": "Deploy and host Dispatcher on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Earnings, deploys and health dashboard for your Railway templates",
         "canonical": "https://railway.com/deploy/dispatcher",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "validated",
@@ -283,16 +287,17 @@
         "recentProjects": 3,
         "projects": 173,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:57:58.147Z",
+        "updatedAt": "2026-09-27T13:40:57.978Z",
         "communityThreadSlug": "glitch-tip-1ffa76ac",
-        "readmeWords": 731
+        "readmeWords": 730
       },
       "page": {
         "status": 200,
         "title": "Deploy & Host GlitchTip | Railway",
         "description": "Deploy and host GlitchTip on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Sentry-compatible open source error tracking with PostgreSQL and Redis",
         "canonical": "https://railway.com/deploy/glitchtip--AMx6AD",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "degraded",
@@ -365,7 +370,8 @@
         "title": "Deploy & Host Interval | Railway",
         "description": "Deploy and host Interval on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Self-hosted Interval Server for internal tools, with PostgreSQL and MinIO",
         "canonical": "https://railway.com/deploy/interval--tFqAVW",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "unvalidated",
@@ -408,7 +414,7 @@
     "microsoftsql-server-mssql": {
       "live": {
         "code": "microsoftsql-server-mssql",
-        "name": "MicrosoftSQL Server (MSSQL)",
+        "name": "Microsoft SQL Server (MSSQL)",
         "description": "SQL Server 2025, 2022 or 2019 (MSSQL) on a volume, edition set at deploy",
         "category": "Storage",
         "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg",
@@ -417,16 +423,17 @@
         "recentProjects": 5,
         "projects": 16,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:07:25.124Z",
+        "updatedAt": "2026-09-27T13:40:59.786Z",
         "communityThreadSlug": "microsoft-sql-server-mssql-6b199ee5",
-        "readmeWords": 708
+        "readmeWords": 709
       },
       "page": {
         "status": 200,
-        "title": "Deploy & Host MicrosoftSQL Server (MSSQL) | Railway",
-        "description": "Deploy and host MicrosoftSQL Server (MSSQL) on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. SQL Server 2025, 2022 or 2019 (MSSQL) on a volume, edition set at deploy",
-        "canonical": "https://railway.com/deploy/microsoftsql-server-mssql",
-        "h1": ""
+        "title": "Deploy & Host Microsoft SQL Server (MSSQL) | Railway",
+        "description": "Deploy and host Microsoft SQL Server (MSSQL) on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. SQL Server 2025, 2022 or 2019 (MSSQL) on a volume, edition set at deploy",
+        "canonical": "https://railway.com/deploy/microsoft-sql-server-mssql--microsoftsql-server-mssql",
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "unvalidated",
@@ -446,32 +453,32 @@
       "ranks": [
         {
           "keyword": "sql server",
-          "position": 9,
+          "position": 1,
           "total": 12,
           "top": [
+            "Microsoft SQL Server (MSSQL) (microsoftsql-server-mssql, 11 active, health 100)",
             "MS SQL Server 2017 (aNgXG5, 58 active, health 100)",
-            "Microsoft SQL Server, MSSQL | Enterprise Database on Railway (microsoft-sql-server, 46 active, health 100)",
-            "SQL Server (sql-server, 3 active, health n/a)"
-          ]
-        },
-        {
-          "keyword": "mssql",
-          "position": 2,
-          "total": 5,
-          "top": [
-            "mssql2019 (mssql2019, 0 active, health n/a)",
-            "MicrosoftSQL Server (MSSQL) (microsoftsql-server-mssql, 11 active, health 100)",
             "Microsoft SQL Server, MSSQL | Enterprise Database on Railway (microsoft-sql-server, 46 active, health 100)"
           ]
         },
         {
+          "keyword": "mssql",
+          "position": 3,
+          "total": 5,
+          "top": [
+            "mssql2019 (mssql2019, 0 active, health n/a)",
+            "Microsoft SQL Server, MSSQL | Enterprise Database on Railway (microsoft-sql-server, 46 active, health 100)",
+            "Microsoft SQL Server (MSSQL) (microsoftsql-server-mssql, 11 active, health 100)"
+          ]
+        },
+        {
           "keyword": "microsoft sql server",
-          "position": 8,
+          "position": 2,
           "total": 8,
           "top": [
             "Microsoft SQL Server, MSSQL | Enterprise Database on Railway (microsoft-sql-server, 46 active, health 100)",
-            "Microsoft SQL Server 2022 (microsoft-sql-server-2022, 0 active, health n/a)",
-            "Microsoft SQL Server | (Just Updated) The One Whose Engine Actually Starts (microsoft-sql-server-or-just-updated-the, 0 active, health n/a)"
+            "Microsoft SQL Server (MSSQL) (microsoftsql-server-mssql, 11 active, health 100)",
+            "Microsoft SQL Server 2022 (microsoft-sql-server-2022, 0 active, health n/a)"
           ]
         }
       ]
@@ -479,7 +486,7 @@
     "BLEtpx": {
       "live": {
         "code": "BLEtpx",
-        "name": "Minecraft Server (w/ dashboard)",
+        "name": "Minecraft Server",
         "description": "Java Minecraft server (Paper) with a web console, file browser and volume",
         "category": "Other",
         "image": "https://pub-be57d7e4de8e43cbb04106b33b260bf4.r2.dev/minecraft_logo_icon_168974.webp",
@@ -488,16 +495,17 @@
         "recentProjects": 86,
         "projects": 1526,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:58:03.450Z",
+        "updatedAt": "2026-09-27T13:38:25.579Z",
         "communityThreadSlug": "minecraft-server-d8f44b9b",
         "readmeWords": 803
       },
       "page": {
         "status": 200,
-        "title": "Deploy & Host Minecraft Server (w/ dashboard) | Railway",
-        "description": "Deploy and host Minecraft Server (w/ dashboard) on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Java Minecraft server (Paper) with a web console, file browser and volume",
+        "title": "Deploy & Host Minecraft Server | Railway",
+        "description": "Deploy and host Minecraft Server on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Java Minecraft server (Paper) with a web console, file browser and volume",
         "canonical": "https://railway.com/deploy/minecraft-server",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "unvalidated",
@@ -517,7 +525,7 @@
       "ranks": [
         {
           "keyword": "minecraft",
-          "position": 10,
+          "position": 9,
           "total": 26,
           "top": [
             "Minecraft (minecraft-server-p-1, 0 active, health n/a)",
@@ -527,7 +535,7 @@
         },
         {
           "keyword": "minecraft server",
-          "position": 8,
+          "position": 7,
           "total": 23,
           "top": [
             "Minecraft Server Spigot (Fm2T4D, 35 active, health 100)",
@@ -540,25 +548,26 @@
     "MRazvG": {
       "live": {
         "code": "MRazvG",
-        "name": "n8n (w/ postgres)",
+        "name": "n8n",
         "description": "n8n workflow automation on PostgreSQL, webhooks and secrets preconfigured",
         "category": "Automation",
         "image": "https://devicons.railway.app/i/n8n.svg",
         "health": 100,
-        "activeProjects": 4123,
-        "recentProjects": 215,
-        "projects": 5439,
+        "activeProjects": 4126,
+        "recentProjects": 217,
+        "projects": 5442,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:58:05.020Z",
+        "updatedAt": "2026-09-27T13:38:20.893Z",
         "communityThreadSlug": "n8n-w-postgres-7186a4e9",
         "readmeWords": 900
       },
       "page": {
         "status": 200,
-        "title": "Deploy & Host n8n (w/ postgres) | Railway",
-        "description": "Deploy and host n8n (w/ postgres) on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. n8n workflow automation on PostgreSQL, webhooks and secrets preconfigured",
-        "canonical": "https://railway.com/deploy/n8n-w-postgres--MRazvG",
-        "h1": ""
+        "title": "Deploy & Host n8n | Railway",
+        "description": "Deploy and host n8n on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. n8n workflow automation on PostgreSQL, webhooks and secrets preconfigured",
+        "canonical": "https://railway.com/deploy/n8n--MRazvG",
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "validated",
@@ -578,22 +587,22 @@
       "ranks": [
         {
           "keyword": "n8n",
-          "position": 19,
+          "position": 1,
           "total": 50,
           "top": [
-            "n8n (n8n-basic, 24 active, health 100)",
+            "n8n (MRazvG, 4126 active, health 100)",
             "n8n (n8n-9, 2 active, health 100)",
             "N8N (n8n-4, 1 active, health 100)"
           ]
         },
         {
           "keyword": "n8n postgres",
-          "position": 1,
+          "position": 28,
           "total": 50,
           "top": [
-            "n8n (w/ postgres) (MRazvG, 4123 active, health 100)",
             "n8n with Postgres (n8n-with-postgres-1, 5 active, health 100)",
-            "n8n + Postgres — Durable Workflow Automation (n8n-postgres-durable, 3 active, health 100)"
+            "n8n + Postgres — Durable Workflow Automation (n8n-postgres-durable, 3 active, health 100)",
+            "N8N (w/ postgresql and persistent nodes) (n8n-w-postgresql-and-persistent-nodes, 8 active, health 100)"
           ]
         },
         {
@@ -629,7 +638,8 @@
         "title": "Deploy & Host PostgreSQL 18 | Railway",
         "description": "Deploy and host PostgreSQL 18 on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. PostgreSQL 18 with SSL on, a persistent volume and a public TCP proxy URL",
         "canonical": "https://railway.com/deploy/postgresql-18",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "degraded",
@@ -692,7 +702,8 @@
         "title": "Deploy & Host Probo | Railway",
         "description": "Deploy and host Probo on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Open source GRC platform for SOC 2, ISO 27001, HIPAA and GDPR compliance",
         "canonical": "https://railway.com/deploy/probo",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "degraded",
@@ -734,25 +745,26 @@
     "jOiNFt": {
       "live": {
         "code": "jOiNFt",
-        "name": "SQLite3",
+        "name": "SQLite",
         "description": "SQLite (sqlite3) database on a persistent volume with the sqlite-web UI",
         "category": "Storage",
         "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/sqlite.svg",
-        "health": 67,
+        "health": 68,
         "activeProjects": 360,
         "recentProjects": 15,
         "projects": 868,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:07:31.393Z",
+        "updatedAt": "2026-09-27T13:38:29.710Z",
         "communityThreadSlug": "sq-lite3-fbf84862",
         "readmeWords": 682
       },
       "page": {
         "status": 200,
-        "title": "Deploy & Host SQLite3 | Railway",
-        "description": "Deploy and host SQLite3 on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. SQLite (sqlite3) database on a persistent volume with the sqlite-web UI",
-        "canonical": "https://railway.com/deploy/sqlite3--jOiNFt",
-        "h1": ""
+        "title": "Deploy & Host SQLite | Railway",
+        "description": "Deploy and host SQLite on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. SQLite (sqlite3) database on a persistent volume with the sqlite-web UI",
+        "canonical": "https://railway.com/deploy/sqlite--jOiNFt",
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "degraded",
@@ -774,21 +786,21 @@
       "ranks": [
         {
           "keyword": "sqlite",
-          "position": 3,
+          "position": 1,
           "total": 50,
           "top": [
+            "SQLite (jOiNFt, 360 active, health 68)",
             "SQLite | Database on a Volume with a Web UI (sqlite-or-database-on-a-volume-with-a-we, 0 active, health n/a)",
-            "sqlite3-railway-template (sqlite3-railway-template, 0 active, health n/a)",
-            "SQLite3 (jOiNFt, 360 active, health 67)"
+            "sqlite3-railway-template (sqlite3-railway-template, 0 active, health n/a)"
           ]
         },
         {
           "keyword": "sqlite3",
-          "position": 1,
+          "position": 2,
           "total": 2,
           "top": [
-            "SQLite3 (jOiNFt, 360 active, health 67)",
-            "sqlite3-railway-template (sqlite3-railway-template, 0 active, health n/a)"
+            "sqlite3-railway-template (sqlite3-railway-template, 0 active, health n/a)",
+            "SQLite (jOiNFt, 360 active, health 68)"
           ]
         }
       ]
@@ -814,7 +826,8 @@
         "title": "Deploy & Host Turborepo Remote Cache | Railway",
         "description": "Deploy and host Turborepo Remote Cache on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Self-hosted Turborepo remote cache with a generated token and a volume",
         "canonical": "https://railway.com/deploy/turborepo-remote-cache--tRFTHR",
-        "h1": ""
+        "h1": "",
+        "inSitemap": true
       },
       "manifest": {
         "status": "validated",

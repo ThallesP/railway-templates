@@ -7,14 +7,18 @@ Source of truth for the Railway templates published under Thalles Passos's works
 - `assets/`: icons served through jsDelivr (`https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/<file>`)
 - `docs/guidelines.md`: what Railway does with each field, how marketplace search ranks (measured), and the Google Search Central rules we follow
 - `data/ranking/`: the search results and the script used to fit the ranking model
-- `data/latest.json`, `data/history/`: daily snapshots of live metadata, validation, icon health, thread activity and search positions
+- `data/latest.json`, `data/history/`: daily snapshots of live metadata, validation, icon health, thread activity, sitemap presence and search positions
+- `data/revenue/`: daily earnings snapshots (Railway `templateMetrics` per template plus Dispatcher's hourly history, balance and withdrawals) and the derived `daily.json` (earnings per template per complete day)
+- `data/changes.jsonl`: one line per change made to a template (publish, rename, config, repo fix), used to compare earnings before and after
 - `reports/`: daily reports and the agent's log
 
 ## Scripts
 
 ```
 bun run scripts/snapshot.ts            # read-only, unauthenticated
-bun run scripts/report.ts              # reports/<date>.md from the last two snapshots
+bun run scripts/revenue.ts             # earnings snapshot (Railway templateMetrics + dispatcherctl)
+bun run scripts/report.ts              # reports/<date>.md: ranks, health, revenue, since-the-changes, attention list
+bun run scripts/notify.ts              # push the attention list to the ntfy topic Dispatcher already uses
 bun run scripts/check.ts               # lint metadata and overviews, resolve every link
 bun run scripts/publish.ts --dry-run   # show what differs from Railway
 bun run scripts/publish.ts             # railway templates update ... for templates that differ
@@ -27,7 +31,9 @@ Publishing uses the Railway CLI's stored login. `scripts/rename.ts` applies name
 
 ## Daily job
 
-A systemd user timer runs `scripts/run.sh` every morning. It snapshots, reports, lets Claude Code revise pages under `docs/guidelines.md` with a hard budget, lints, publishes only what changed, and commits. Create a file named `PAUSE` in the repository root to keep the snapshot and report but skip the agent and publishing.
+A systemd user timer runs `scripts/run.sh` every morning. It snapshots public state and revenue, writes the report, pushes anything that needs attention to your phone, lets Claude Code revise pages under `docs/guidelines.md` with a hard budget, lints, renames and publishes only what changed, and commits.
+
+Revenue needs two logins on the box: the Railway CLI (`railway login`, for `templateMetrics`) and `dispatcherctl login` against your Dispatcher instance (for hourly history, balance and withdrawals). Both sessions renew themselves. Create a file named `PAUSE` in the repository root to keep the snapshot and report but skip the agent and publishing.
 
 ```
 systemctl --user status railway-templates.timer

@@ -2,16 +2,9 @@
 // change-set mutations the dashboard's template editor uses (stage a metadata
 // patch, then apply it). These live on backboard's /graphql/internal endpoint,
 // which needs the CLI's stored login token. `--dry-run` only reports.
-import { join } from 'node:path'
-import { homedir } from 'node:os'
-import { gql, loadTemplates } from './lib'
+import { appendChange, gql, loadTemplates, railwayToken } from './lib'
 
 const internal = 'https://backboard.railway.com/graphql/internal'
-
-const token = async () => {
-  const config = (await Bun.file(join(homedir(), '.railway', 'config.json')).json().catch(() => null)) as { user?: { accessToken?: string } } | null
-  return config?.user?.accessToken ?? ''
-}
 
 const internalGql = async <T>(accessToken: string, query: string, variables: Record<string, unknown>): Promise<T | null> => {
   const res = await fetch(internal, {
@@ -34,7 +27,7 @@ type Live = { id: string; name: string; status: string }
 const dryRun = process.argv.includes('--dry-run')
 
 const main = async () => {
-  const accessToken = await token()
+  const accessToken = await railwayToken()
   if (!accessToken) {
     console.error('no Railway token in ~/.railway/config.json, run `railway login`')
     process.exit(1)
@@ -80,6 +73,7 @@ const main = async () => {
       process.exitCode = 1
       continue
     }
+    await appendChange({ code: meta.code, kind: 'rename', detail: `${live.name} -> ${meta.name}` })
     renamed += 1
   }
   console.log(`${renamed} template(s) renamed`)

@@ -1,0 +1,22 @@
+{"date":"2026-09-27","at":"2026-09-27T04:40:00Z","code":"jOiNFt","kind":"repo","detail":"railwayapp-templates/sqlite PR #4: pass database path as a list to sqlite_web (fixes crash within 30s)"}
+{"date":"2026-09-27","at":"2026-09-27T04:41:00Z","code":"comentario","kind":"repo","detail":"comentario-on-railway: set SECRETS_FILE so Comentario 3.x reads the rendered secrets (fixes failed deploy)"}
+{"date":"2026-09-27","at":"2026-09-27T04:42:00Z","code":"postgresql-18","kind":"repo","detail":"postgres-ssl: merged add-postgres-18 into main so Dockerfile.18 exists (fixes failed build)"}
+{"date":"2026-09-27","at":"2026-09-27T04:45:00Z","code":"microsoftsql-server-mssql","kind":"repo","detail":"microsoft-sql-server: MSSQL_VERSION now selects the image tag"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"zsaPAU","kind":"publish","detail":"description, category (Starters), overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"clickstack","kind":"publish","detail":"description, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"comentario","kind":"publish","detail":"description, category (Blogs), image, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"dispatcher","kind":"publish","detail":"description, image, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"AMx6AD","kind":"publish","detail":"description, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"tFqAVW","kind":"publish","detail":"description, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"microsoftsql-server-mssql","kind":"publish","detail":"description, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"BLEtpx","kind":"publish","detail":"description, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"MRazvG","kind":"publish","detail":"description, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"postgresql-18","kind":"publish","detail":"description, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"probo","kind":"publish","detail":"description, image, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"jOiNFt","kind":"publish","detail":"description, image, overview"}
+{"date":"2026-09-27","at":"2026-09-27T05:05:00Z","code":"tRFTHR","kind":"publish","detail":"description, overview"}
+{"date":"2026-09-27","at":"2026-09-27T13:38:00Z","code":"MRazvG","kind":"rename","detail":"n8n (w/ postgres) -> n8n"}
+{"date":"2026-09-27","at":"2026-09-27T13:38:00Z","code":"BLEtpx","kind":"rename","detail":"Minecraft Server (w/ dashboard) -> Minecraft Server"}
+{"date":"2026-09-27","at":"2026-09-27T13:38:00Z","code":"jOiNFt","kind":"rename","detail":"SQLite3 -> SQLite"}
+{"date":"2026-09-27","at":"2026-09-27T13:38:00Z","code":"microsoftsql-server-mssql","kind":"rename","detail":"MicrosoftSQL Server (MSSQL) -> Microsoft SQL Server (MSSQL)"}
+{"date":"2026-09-27","at":"2026-09-27T13:40:00Z","code":"AMx6AD","kind":"config","detail":"removed the dead glitchtip-worker service from the template"}

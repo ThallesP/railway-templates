@@ -1,0 +1,532 @@
+{
+  "codes": [
+    "zsaPAU",
+    "clickstack",
+    "comentario",
+    "dispatcher",
+    "AMx6AD",
+    "tFqAVW",
+    "microsoftsql-server-mssql",
+    "BLEtpx",
+    "MRazvG",
+    "postgresql-18",
+    "probo",
+    "jOiNFt",
+    "tRFTHR"
+  ],
+  "rows": {
+    "2026-08-31": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 6.16,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.05,
+        "MRazvG": 34.43,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.24
+      },
+      "total": 41.48,
+      "source": "dispatcher"
+    },
+    "2026-09-01": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 9.03,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 14.57,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 4.89,
+        "MRazvG": 82.28,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.82
+      },
+      "total": 112.07,
+      "source": "dispatcher"
+    },
+    "2026-09-02": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 0,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 0,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0
+      },
+      "total": 0.09,
+      "source": "dispatcher"
+    },
+    "2026-09-03": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 2.13,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.48,
+        "MRazvG": 61.14,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 4.26
+      },
+      "total": 68.01,
+      "source": "dispatcher"
+    },
+    "2026-09-04": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 2.64,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.14,
+        "MRazvG": 68.03,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 2.94
+      },
+      "total": 96.47,
+      "source": "dispatcher"
+    },
+    "2026-09-05": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 2.76,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.02,
+        "MRazvG": 62.81,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.3
+      },
+      "total": 68.33,
+      "source": "dispatcher"
+    },
+    "2026-09-06": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 0,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.01,
+        "MRazvG": 43.31,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0
+      },
+      "total": 43.32,
+      "source": "dispatcher"
+    },
+    "2026-09-07": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 15.44,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 61.37,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 1.45
+      },
+      "total": 78.26,
+      "source": "dispatcher"
+    },
+    "2026-09-08": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 1.9,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 83.42,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0
+      },
+      "total": 86.9,
+      "source": "dispatcher"
+    },
+    "2026-09-09": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 1.51,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.32,
+        "MRazvG": 68.38,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 10.55
+      },
+      "total": 84.82,
+      "source": "dispatcher"
+    },
+    "2026-09-10": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 4.22,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 58.15,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.96
+      },
+      "total": 63.41,
+      "source": "dispatcher"
+    },
+    "2026-09-11": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 28.05,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 0,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 4.16,
+        "MRazvG": 95.97,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0
+      },
+      "total": 128.23,
+      "source": "dispatcher"
+    },
+    "2026-09-12": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 0,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.14,
+        "MRazvG": 85.09,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 1.54
+      },
+      "total": 88.09,
+      "source": "dispatcher"
+    },
+    "2026-09-13": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 1.79,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 71.26,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.23
+      },
+      "total": 73.28,
+      "source": "dispatcher"
+    },
+    "2026-09-14": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 2.31,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.36,
+        "MRazvG": 63.1,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0
+      },
+      "total": 65.77,
+      "source": "dispatcher"
+    },
+    "2026-09-15": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 166.79,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 5.04,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 45.52,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 30.41
+      },
+      "total": 248.02,
+      "source": "dispatcher"
+    },
+    "2026-09-16": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 10.73,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 83.16,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.9
+      },
+      "total": 94.88,
+      "source": "dispatcher"
+    },
+    "2026-09-17": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 6.49,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.14,
+        "MRazvG": 76.51,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.17
+      },
+      "total": 83.42,
+      "source": "dispatcher"
+    },
+    "2026-09-18": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 0,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 56.58,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 2.66
+      },
+      "total": 59.7,
+      "source": "dispatcher"
+    },
+    "2026-09-19": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 0,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.97,
+        "MRazvG": 52.59,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 4.97
+      },
+      "total": 59.69,
+      "source": "dispatcher"
+    },
+    "2026-09-20": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 41.57,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 1.75,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0,
+        "MRazvG": 82.29,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.72
+      },
+      "total": 129.48,
+      "source": "dispatcher"
+    },
+    "2026-09-21": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 4.11,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 5.19,
+        "MRazvG": 57.91,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.95
+      },
+      "total": 68.16,
+      "source": "dispatcher"
+    },
+    "2026-09-22": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 1.48,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 4.26,
+        "MRazvG": 84.53,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 14.08
+      },
+      "total": 112.12,
+      "source": "dispatcher"
+    },
+    "2026-09-23": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 7.19,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 1.91,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 8.63,
+        "MRazvG": 62.07,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 2.24
+      },
+      "total": 82.04,
+      "source": "dispatcher"
+    },
+    "2026-09-24": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 70.05,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 1.64,
+        "MRazvG": 56.93,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 0.22
+      },
+      "total": 129.09,
+      "source": "dispatcher"
+    },
+    "2026-09-25": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 0,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 10.88,
+        "MRazvG": 69.86,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 17.81
+      },
+      "total": 98.63,
+      "source": "dispatcher"
+    },
+    "2026-09-26": {
+      "byCode": {
+        "zsaPAU": null,
+        "clickstack": 0,
+        "comentario": null,
+        "dispatcher": null,
+        "AMx6AD": 3.49,
+        "tFqAVW": null,
+        "microsoftsql-server-mssql": null,
+        "BLEtpx": 0.48,
+        "MRazvG": 42.14,
+        "postgresql-18": null,
+        "probo": null,
+        "jOiNFt": null,
+        "tRFTHR": 3.05
+      },
+      "total": 61.18,
+      "source": "dispatcher"
+    }
+  }
+}
