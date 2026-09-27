@@ -31,8 +31,8 @@ The server also supports S3, DigitalOcean Spaces, Google Cloud Storage, Azure Bl
 After deploying, copy `TURBO_TOKEN` and `TURBO_API_URL` from the service variables and set these in your monorepo, locally and in CI:
 
 ```
-TURBO_API=<TURBO_API_URL>
-TURBO_TOKEN=<TURBO_TOKEN>
+TURBO_API=https://your-cache.up.railway.app   # the TURBO_API_URL variable
+TURBO_TOKEN=the-generated-token             # the TURBO_TOKEN variable
 TURBO_TEAM=my-team            # any slug; artifacts are stored per team
 ```
 

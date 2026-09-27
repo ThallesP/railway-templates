@@ -10,6 +10,9 @@ type Live = { name: string; description: string | null; category: string | null;
 
 const query = `query t($code: String!) { template(code: $code) { name description category image readme status } }`
 
+// Railway strips HTML tags and trailing whitespace from the stored overview; compare what it would keep.
+const normalize = (md: string) => md.replace(/<[^>]*>/g, '').split('\n').map((l) => l.trimEnd()).join('\n').trim()
+
 const dryRun = process.argv.includes('--dry-run')
 const only = process.argv.find((a) => a.startsWith('--only='))?.slice('--only='.length)
 
@@ -34,7 +37,7 @@ const main = async () => {
     if ((live.description ?? '') !== meta.description) changes.push('description')
     if ((live.category ?? '') !== meta.category) changes.push('category')
     if ((live.image ?? '') !== (meta.image ?? '')) changes.push('image')
-    if ((live.readme ?? '').trim() !== overview.trim()) changes.push('overview')
+    if (normalize(live.readme ?? '') !== normalize(overview)) changes.push('overview')
     if (!changes.length) {
       console.log(`${meta.code}: up to date`)
       continue

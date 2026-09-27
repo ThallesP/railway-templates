@@ -34,8 +34,8 @@ The service builds from a small repository: a Python image with `sqlite3` and `s
 The entrypoint, in short:
 
 ```
-if /data/database.db is missing:  sqlite3 /data/database.db < init_db.sql
-if seed_db.sql changed and never ran: sqlite3 /data/database.db < seed_db.sql
+if /data/database.db is missing:       run init_db.sql against it with sqlite3
+if seed_db.sql changed and never ran:  run seed_db.sql against it with sqlite3
 python wsgi.py /data/database.db  # sqlite-web on $PORT with SQLITE_WEB_UI_PASSWORD
 ```
 

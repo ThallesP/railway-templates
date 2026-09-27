@@ -17,7 +17,7 @@ Railway cannot pull directly from Microsoft's container registry, so the templat
 
 ## Dependencies for Microsoft SQL Server Hosting
 
-- `mcr.microsoft.com/mssql/server:<version>-latest`, built from the template repository
+- `mcr.microsoft.com/mssql/server` at the `2025-latest`, `2022-latest` or `2019-latest` tag, built from the template repository
 - A Railway volume at `/var/opt/mssql`
 
 ### Deployment Dependencies
@@ -33,11 +33,11 @@ Railway cannot pull directly from Microsoft's container registry, so the templat
 ACCEPT_EULA=Y                  # required
 MSSQL_PID=Developer            # Evaluation, Developer, Express, Web, Standard, Enterprise, EnterpriseCore or a product key
 MSSQL_VERSION=2025             # 2025, 2022 or 2019
-MSSQL_SA_PASSWORD=<generated>
+MSSQL_SA_PASSWORD=generated-at-deploy
 RAILWAY_RUN_UID=0
 ```
 
-SQL Server listens on port 1433. Services in the same Railway project connect to `<service private domain>,1433` over the private network. To connect from your laptop or an external app, add a TCP proxy for port 1433 in the service's Networking settings; Railway then gives you a public host and port to use in SSMS or Azure Data Studio as `host,port` with SQL Server authentication and the `sa` user.
+SQL Server listens on port 1433. Services in the same Railway project connect to the service's private domain on port 1433 (written `host,1433` in SQL Server tools) over the private network. To connect from your laptop or an external app, add a TCP proxy for port 1433 in the service's Networking settings; Railway then gives you a public host and port to use in SSMS or Azure Data Studio as `host,port` with SQL Server authentication and the `sa` user.
 
 ## Why Deploy Microsoft SQL Server on Railway?
 

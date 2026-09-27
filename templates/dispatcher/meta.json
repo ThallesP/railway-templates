@@ -1,7 +1,7 @@
 {
   "code": "dispatcher",
   "name": "Dispatcher",
-  "description": "Earnings, deploys and health dashboard for Railway template publishers",
+  "description": "Earnings, deploys and health dashboard for your Railway templates",
   "category": "Analytics",
   "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/dispatcher.svg",
   "keywords": [

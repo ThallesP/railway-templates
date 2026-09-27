@@ -36,7 +36,7 @@ SECRET=${{secret()}}
 WSS_API_SECRET=${{secret()}}
 AUTH_COOKIE_SECRET=${{secret(32)}}
 POSTMARK_API_KEY=            # optional
-EMAIL_FROM=                  # optional, "Name <address>"
+EMAIL_FROM=                  # optional, for example: Interval Bot bot@example.com
 ```
 
 In your application, install `@interval/sdk` (or the Python package), point it at your instance with the endpoint option, and use the API key you create in the Interval dashboard.

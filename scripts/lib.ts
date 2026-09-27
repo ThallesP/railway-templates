@@ -38,7 +38,8 @@ export const gql = async <T>(query: string, variables: Record<string, unknown> =
     body: JSON.stringify({ query, variables }),
   }).catch(() => null)
   if (!res?.ok) return null
-  const body = (await res.json()) as { data?: T; errors?: { message: string }[] }
+  const body = (await res.json().catch(() => null)) as { data?: T; errors?: { message: string }[] } | null
+  if (!body) return null
   if (body.errors?.length) {
     console.error(body.errors.map((e) => e.message).join('; '))
     return null

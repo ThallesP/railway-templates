@@ -1,7 +1,7 @@
 {
   "code": "comentario",
   "name": "Comentario",
-  "description": "Privacy-first comment server for blogs, a Disqus alternative, on PostgreSQL",
+  "description": "Privacy-first comments for blogs, a Disqus alternative, on PostgreSQL",
   "category": "Blogs",
   "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/comentario.png",
   "keywords": [

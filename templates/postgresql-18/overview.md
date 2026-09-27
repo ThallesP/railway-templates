@@ -35,10 +35,10 @@ RAILWAY_DOCKERFILE_PATH=Dockerfile.18
 PGDATA=/var/lib/postgresql/data/pgdata
 POSTGRES_USER=postgres
 POSTGRES_DB=railway
-POSTGRES_PASSWORD=<generated>
+POSTGRES_PASSWORD=generated-at-deploy
 SSL_CERT_DAYS=820
-DATABASE_URL=postgresql://postgres:<password>@<private domain>:5432/railway
-DATABASE_PUBLIC_URL=postgresql://postgres:<password>@<proxy domain>:<proxy port>/railway
+DATABASE_URL=postgresql://postgres:PASSWORD@postgresql-18.railway.internal:5432/railway
+DATABASE_PUBLIC_URL=postgresql://postgres:PASSWORD@roundhouse.proxy.rlwy.net:PORT/railway
 ```
 
 Use `DATABASE_URL` from services in the same project and `DATABASE_PUBLIC_URL` from anywhere else. Both accept `sslmode=require`; the certificate is self-signed, so tools that verify the chain need `sslmode=require` rather than `verify-full`.

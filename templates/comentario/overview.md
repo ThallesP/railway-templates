@@ -49,7 +49,7 @@ A comment server is a long-running service with a database, which is two Railway
 
 ### How do I add comments to my site?
 
-In the Comentario admin UI, add your site under Domains. It shows a snippet like `<script src="https://<your comentario domain>/comentario.js"></script>` plus a `<comentario-comments>` tag; put both where the comments should render.
+In the Comentario admin UI, add your site under Domains. It shows a two-line embed snippet: a script tag loading `comentario.js` from your Comentario domain, and a `comentario-comments` custom element. Put both where the comments should render.
 
 ### Can readers comment without an account?
 

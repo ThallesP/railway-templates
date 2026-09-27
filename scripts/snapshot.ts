@@ -24,7 +24,7 @@ type Live = {
 
 type SearchNode = { code: string; name: string; deploymentCount: number; healthScore: number | null }
 
-export type Rank = { keyword: string; position: number | null; total: number; top: string[] }
+export type Rank = { keyword: string; position: number | null; total: number | null; top: string[] }
 
 export type Snapshot = {
   date: string
@@ -35,7 +35,7 @@ export type Snapshot = {
       page: { status: number; title: string; description: string; canonical: string; h1: string }
       manifest: { status: string; successRate30d: number | null; failedChecks: string[] }
       icon: { url: string | null; status: number; type: string }
-      thread: { slug: string | null; replies: number; lastReplyAt: string }
+      thread: { slug: string | null; replies: number | null; lastReplyAt: string }
       ranks: Rank[]
     }
   >
@@ -48,19 +48,20 @@ const templateQuery = `query t($code: String!) { template(code: $code) {
 const searchQuery = `query s($q: String!) { templateSearch(query: $q, first: 60) {
   edges { node { code name deploymentCount healthScore } } } }`
 
-const searchCache = new Map<string, SearchNode[]>()
+const searchCache = new Map<string, SearchNode[] | null>()
 
 const search = async (keyword: string) => {
   const cached = searchCache.get(keyword)
-  if (cached) return cached
+  if (cached !== undefined) return cached
   const data = await gql<{ templateSearch: { edges: { node: SearchNode }[] } }>(searchQuery, { q: keyword })
-  const nodes = data?.templateSearch.edges.map((e) => e.node) ?? []
+  const nodes = data ? data.templateSearch.edges.map((e) => e.node) : null
   searchCache.set(keyword, nodes)
   return nodes
 }
 
 const rank = async (keyword: string, code: string): Promise<Rank> => {
   const nodes = await search(keyword)
+  if (!nodes) return { keyword, position: null, total: null, top: [] }
   const index = nodes.findIndex((n) => n.code === code)
   return {
     keyword,
@@ -74,7 +75,8 @@ const page = async (code: string) => {
   const res = await fetch(`https://railway.com/deploy/${code}`, { headers: { 'user-agent': 'Mozilla/5.0' } }).catch(() => null)
   const empty = { status: res?.status ?? 0, title: '', description: '', canonical: '', h1: '' }
   if (!res?.ok) return empty
-  const html = await res.text()
+  const html = await res.text().catch(() => null)
+  if (html === null) return empty
   const pick = (re: RegExp) => decodeEntities(html.match(re)?.[1] ?? '')
   return {
     status: res.status,
@@ -87,12 +89,12 @@ const page = async (code: string) => {
 
 const manifest = async (code: string) => {
   const res = await fetch(`https://railway.com/deploy/${code}/manifest.json`).catch(() => null)
-  if (!res?.ok) return { status: 'unavailable', successRate30d: null, failedChecks: [] as string[] }
-  const m = (await res.json()) as {
+  const m = (await res.json().catch(() => null)) as null | {
     status?: string
     success_rate_30d?: number | null
     validation?: { checks?: { name: string; passed: boolean; detail?: string }[] }
   }
+  if (!res?.ok || !m) return { status: 'unavailable', successRate30d: null, failedChecks: [] as string[] }
   const failed = (m.validation?.checks ?? []).filter((c) => !c.passed).map((c) => (c.detail ? `${c.name}: ${c.detail}` : c.name))
   return { status: m.status ?? 'unknown', successRate30d: m.success_rate_30d ?? null, failedChecks: failed }
 }
@@ -100,8 +102,8 @@ const manifest = async (code: string) => {
 const thread = async (slug: string | null) => {
   if (!slug) return { slug, replies: 0, lastReplyAt: '' }
   const res = await fetch(`https://station-server.railway.com/api/threads/${slug}?format=md`).catch(() => null)
-  if (!res?.ok) return { slug, replies: 0, lastReplyAt: '' }
-  const md = await res.text()
+  const md = res?.ok ? await res.text().catch(() => null) : null
+  if (md === null) return { slug, replies: null, lastReplyAt: '' }
   const replies = (md.match(/^### Reply \d+/gm) ?? []).length
   const dates = md.match(/^\*\d{4}-\d{2}-\d{2}T[^*]*\*$/gm) ?? []
   return { slug, replies, lastReplyAt: dates.at(-1)?.slice(1, 11) ?? '' }
@@ -114,8 +116,8 @@ const main = async () => {
     const data = await gql<{ template: Live | null }>(templateQuery, { code: meta.code })
     const live = data?.template
     if (!live) {
-      console.error(`no live data for ${meta.code}`)
-      continue
+      console.error(`no live data for ${meta.code}, snapshot not written`)
+      process.exit(1)
     }
     const { readme, ...rest } = live
     const icon = live.image ? await probe(live.image) : { ok: false, status: 0, type: '' }

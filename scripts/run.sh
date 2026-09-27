@@ -9,7 +9,7 @@ cd "$(dirname "$0")/.."
 
 log() { printf '%s %s\n' "$(date -u +%FT%TZ)" "$*"; }
 
-git pull -q --rebase origin main || log "pull failed, continuing with local state"
+git pull -q --rebase origin main || { git rebase --abort 2>/dev/null || true; log "pull failed, aborting"; exit 1; }
 
 railway whoami >/dev/null            # refreshes the CLI token
 bun run scripts/snapshot.ts
@@ -30,6 +30,7 @@ else
   else
     log "check failed, not publishing; reverting template edits"
     git checkout -- templates
+    git clean -qfd templates
   fi
 fi
 

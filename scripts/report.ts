@@ -34,6 +34,7 @@ const main = async () => {
         const before = p?.ranks.find((x) => x.keyword === r.keyword)?.position ?? null
         const now = r.position
         const moved = before !== null && now !== null && before !== now ? ` (was ${before})` : ''
+        if (r.total === null) return `${r.keyword}: unavailable`
         return `${r.keyword}: ${now ?? '-'}/${r.total}${moved}`
       })
       .join('<br>')
@@ -48,8 +49,9 @@ const main = async () => {
     if (t.icon.url && t.icon.status !== 200) attention.push(`${meta.code}: icon ${t.icon.url} returns ${t.icon.status}`)
     if (!t.icon.url) attention.push(`${meta.code}: no icon set`)
     if (t.page.status !== 200) attention.push(`${meta.code}: page returned ${t.page.status}`)
-    if (p && t.thread.replies > p.thread.replies) attention.push(`${meta.code}: ${t.thread.replies - p.thread.replies} new reply(ies) on https://station.railway.com/templates/${t.thread.slug}`)
+    if (p && t.thread.replies !== null && p.thread.replies !== null && t.thread.replies > p.thread.replies) attention.push(`${meta.code}: ${t.thread.replies - p.thread.replies} new reply(ies) on https://station.railway.com/templates/${t.thread.slug}`)
     for (const r of t.ranks) {
+      if (r.total === null) continue
       const before = p?.ranks.find((x) => x.keyword === r.keyword)?.position ?? null
       if (before !== null && r.position !== null && r.position > before) attention.push(`${meta.code}: dropped from ${before} to ${r.position} for "${r.keyword}"`)
       if (before !== null && r.position === null) attention.push(`${meta.code}: no longer in the top ${r.total} for "${r.keyword}"`)

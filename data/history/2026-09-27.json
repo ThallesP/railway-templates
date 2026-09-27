@@ -5,7 +5,7 @@
       "live": {
         "code": "zsaPAU",
         "name": "ASP.NET Minimal API",
-        "description": "ASP.NET Core minimal API on .NET 9, Dockerfile build, hello-world endpoints",
+        "description": "ASP.NET Core minimal API on .NET 9 (dotnet) with a Dockerfile build",
         "category": "Starters",
         "image": "https://devicons.railway.com/i/csharp.svg",
         "health": 100,
@@ -13,7 +13,7 @@
         "recentProjects": 5,
         "projects": 40,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:57:48.719Z",
+        "updatedAt": "2026-09-27T05:04:08.752Z",
         "communityThreadSlug": "asp-net-minimal-api-a7ed473f",
         "readmeWords": 551
       },
@@ -52,10 +52,11 @@
         },
         {
           "keyword": "dotnet",
-          "position": null,
-          "total": 1,
+          "position": 2,
+          "total": 2,
           "top": [
-            "Openfort Dotnet Quickstart (L-kdsI, 5 active, health n/a)"
+            "Openfort Dotnet Quickstart (L-kdsI, 5 active, health n/a)",
+            "ASP.NET Minimal API (zsaPAU, 28 active, health 100)"
           ]
         },
         {
@@ -74,7 +75,7 @@
       "live": {
         "code": "clickstack",
         "name": "ClickStack",
-        "description": "ClickHouse, HyperDX and OpenTelemetry collector for logs, traces, metrics",
+        "description": "HyperDX observability on ClickHouse: OpenTelemetry logs, traces, metrics",
         "category": "Observability",
         "image": "https://devicons.railway.com/i/clickhouse.svg",
         "health": 92,
@@ -82,7 +83,7 @@
         "recentProjects": 2,
         "projects": 33,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:57:52.879Z",
+        "updatedAt": "2026-09-27T05:04:10.194Z",
         "communityThreadSlug": "clickstack-28daf7e9",
         "readmeWords": 695
       },
@@ -120,7 +121,7 @@
         },
         {
           "keyword": "clickhouse",
-          "position": 10,
+          "position": 11,
           "total": 23,
           "top": [
             "ClickHouse Cluster (clickhouse-cluster, 9 active, health 100)",
@@ -144,7 +145,7 @@
       "live": {
         "code": "comentario",
         "name": "Comentario",
-        "description": "Privacy-first comment server for blogs, a Disqus alternative, on PostgreSQL",
+        "description": "Privacy-first comments for blogs, a Disqus alternative, on PostgreSQL",
         "category": "Blogs",
         "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/comentario.png",
         "health": 80,
@@ -152,7 +153,7 @@
         "recentProjects": 3,
         "projects": 21,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:57:55.036Z",
+        "updatedAt": "2026-09-27T05:04:11.919Z",
         "communityThreadSlug": "comentario-7306d1c1",
         "readmeWords": 571
       },
@@ -192,12 +193,12 @@
         },
         {
           "keyword": "comments",
-          "position": null,
-          "total": 3,
+          "position": 3,
+          "total": 4,
           "top": [
             "Comentario (comentario-comments, 0 active, health n/a)",
             "Remark42 (remark42-comments, 0 active, health n/a)",
-            "Waline — Self-Hosted Disqus Alternative for Blogs (waline-disqus-alternative, 1 active, health n/a)"
+            "Comentario (comentario, 14 active, health 80)"
           ]
         },
         {
@@ -216,7 +217,7 @@
       "live": {
         "code": "dispatcher",
         "name": "Dispatcher",
-        "description": "Earnings, deploys and health dashboard for Railway template publishers",
+        "description": "Earnings, deploys and health dashboard for your Railway templates",
         "category": "Analytics",
         "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/dispatcher.svg",
         "health": 100,
@@ -224,7 +225,7 @@
         "recentProjects": 3,
         "projects": 3,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:57:56.597Z",
+        "updatedAt": "2026-09-27T05:04:13.390Z",
         "communityThreadSlug": "dispatcher-c774a599",
         "readmeWords": 579
       },
@@ -261,9 +262,10 @@
         },
         {
           "keyword": "railway templates",
-          "position": null,
-          "total": 1,
+          "position": 1,
+          "total": 2,
           "top": [
+            "Dispatcher (dispatcher, 1 active, health 100)",
             "N8N (n8n-on-railway, 362 active, health 68)"
           ]
         }
@@ -354,7 +356,7 @@
         "recentProjects": 0,
         "projects": 25,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:58:00.492Z",
+        "updatedAt": "2026-09-27T05:04:14.976Z",
         "communityThreadSlug": "interval-bec8134c",
         "readmeWords": 603
       },
@@ -415,7 +417,7 @@
         "recentProjects": 5,
         "projects": 16,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:58:01.973Z",
+        "updatedAt": "2026-09-27T05:04:16.969Z",
         "communityThreadSlug": "microsoft-sql-server-mssql-6b199ee5",
         "readmeWords": 689
       },
@@ -618,7 +620,7 @@
         "recentProjects": 0,
         "projects": 10,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:58:08.909Z",
+        "updatedAt": "2026-09-27T05:04:18.794Z",
         "communityThreadSlug": "postgresql-18-eab45ea7",
         "readmeWords": 652
       },
@@ -681,7 +683,7 @@
         "recentProjects": 10,
         "projects": 34,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:58:10.329Z",
+        "updatedAt": "2026-09-27T05:04:20.371Z",
         "communityThreadSlug": "probo-dc504f0b",
         "readmeWords": 625
       },
@@ -733,7 +735,7 @@
       "live": {
         "code": "jOiNFt",
         "name": "SQLite3",
-        "description": "SQLite database on a persistent volume with the sqlite-web browser UI",
+        "description": "SQLite (sqlite3) database on a persistent volume with the sqlite-web UI",
         "category": "Storage",
         "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/sqlite.svg",
         "health": 67,
@@ -741,7 +743,7 @@
         "recentProjects": 15,
         "projects": 868,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:58:11.825Z",
+        "updatedAt": "2026-09-27T05:04:21.914Z",
         "communityThreadSlug": "sq-lite3-fbf84862",
         "readmeWords": 678
       },
@@ -803,7 +805,7 @@
         "recentProjects": 1,
         "projects": 66,
         "isVerified": false,
-        "updatedAt": "2026-09-27T04:58:13.363Z",
+        "updatedAt": "2026-09-27T05:04:23.736Z",
         "communityThreadSlug": "turborepo-remote-cache-8ccd5af8",
         "readmeWords": 634
       },

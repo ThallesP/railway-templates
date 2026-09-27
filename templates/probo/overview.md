@@ -36,7 +36,7 @@ SMTP is optional. Without it Probo runs but does not send invitations or notific
 
 ```
 PROBOD_BASE_URL=https://${{RAILWAY_PUBLIC_DOMAIN}}
-API_CORS_ALLOWED_ORIGINS=https://<your domain>
+API_CORS_ALLOWED_ORIGINS=https://probo.example.com   # your Probo domain
 PG_ADDR=${{Postgres.PGHOST}}:${{Postgres.PGPORT}}
 CHROME_DP_ADDR=${{Chrome.RAILWAY_PRIVATE_DOMAIN}}:9229
 AWS_BUCKET=${{Bucket.BUCKET}}
