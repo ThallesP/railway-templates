@@ -20,7 +20,7 @@
       "page": {
         "status": 200,
         "title": "Deploy & Host ASP.NET Minimal API | Railway",
-        "description": "Deploy and host ASP.NET Minimal API on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. ASP.NET Core minimal API on .NET 9, Dockerfile build, hello-world endpoints",
+        "description": "Deploy and host ASP.NET Minimal API on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. ASP.NET Core minimal API on .NET 9 (dotnet) with a Dockerfile build",
         "canonical": "https://railway.com/deploy/aspnet-minimal-api--zsaPAU",
         "h1": ""
       },
@@ -90,7 +90,7 @@
       "page": {
         "status": 200,
         "title": "Deploy & Host ClickStack | Railway",
-        "description": "Deploy and host ClickStack on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. ClickHouse, HyperDX and OpenTelemetry collector for logs, traces, metrics",
+        "description": "Deploy and host ClickStack on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. HyperDX observability on ClickHouse: OpenTelemetry logs, traces, metrics",
         "canonical": "https://railway.com/deploy/clickstack",
         "h1": ""
       },
@@ -153,14 +153,14 @@
         "recentProjects": 3,
         "projects": 21,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:04:11.919Z",
+        "updatedAt": "2026-09-27T05:07:20.719Z",
         "communityThreadSlug": "comentario-7306d1c1",
-        "readmeWords": 571
+        "readmeWords": 581
       },
       "page": {
         "status": 200,
         "title": "Deploy & Host Comentario | Railway",
-        "description": "Deploy and host Comentario on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Privacy-first comment server for blogs, a Disqus alternative, on PostgreSQL",
+        "description": "Deploy and host Comentario on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Privacy-first comments for blogs, a Disqus alternative, on PostgreSQL",
         "canonical": "https://railway.com/deploy/comentario",
         "h1": ""
       },
@@ -225,14 +225,14 @@
         "recentProjects": 3,
         "projects": 3,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:04:13.390Z",
+        "updatedAt": "2026-09-27T05:07:22.054Z",
         "communityThreadSlug": "dispatcher-c774a599",
-        "readmeWords": 579
+        "readmeWords": 585
       },
       "page": {
         "status": 200,
         "title": "Deploy & Host Dispatcher | Railway",
-        "description": "Deploy and host Dispatcher on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Earnings, deploys and health dashboard for Railway template publishers",
+        "description": "Deploy and host Dispatcher on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. Earnings, deploys and health dashboard for your Railway templates",
         "canonical": "https://railway.com/deploy/dispatcher",
         "h1": ""
       },
@@ -356,9 +356,9 @@
         "recentProjects": 0,
         "projects": 25,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:04:14.976Z",
+        "updatedAt": "2026-09-27T05:07:23.707Z",
         "communityThreadSlug": "interval-bec8134c",
-        "readmeWords": 603
+        "readmeWords": 605
       },
       "page": {
         "status": 200,
@@ -417,9 +417,9 @@
         "recentProjects": 5,
         "projects": 16,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:04:16.969Z",
+        "updatedAt": "2026-09-27T05:07:25.124Z",
         "communityThreadSlug": "microsoft-sql-server-mssql-6b199ee5",
-        "readmeWords": 689
+        "readmeWords": 708
       },
       "page": {
         "status": 200,
@@ -517,7 +517,7 @@
       "ranks": [
         {
           "keyword": "minecraft",
-          "position": 11,
+          "position": 10,
           "total": 26,
           "top": [
             "Minecraft (minecraft-server-p-1, 0 active, health n/a)",
@@ -620,7 +620,7 @@
         "recentProjects": 0,
         "projects": 10,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:04:18.794Z",
+        "updatedAt": "2026-09-27T05:07:27.877Z",
         "communityThreadSlug": "postgresql-18-eab45ea7",
         "readmeWords": 652
       },
@@ -683,9 +683,9 @@
         "recentProjects": 10,
         "projects": 34,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:04:20.371Z",
+        "updatedAt": "2026-09-27T05:07:29.952Z",
         "communityThreadSlug": "probo-dc504f0b",
-        "readmeWords": 625
+        "readmeWords": 629
       },
       "page": {
         "status": 200,
@@ -743,14 +743,14 @@
         "recentProjects": 15,
         "projects": 868,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:04:21.914Z",
+        "updatedAt": "2026-09-27T05:07:31.393Z",
         "communityThreadSlug": "sq-lite3-fbf84862",
-        "readmeWords": 678
+        "readmeWords": 682
       },
       "page": {
         "status": 200,
         "title": "Deploy & Host SQLite3 | Railway",
-        "description": "Deploy and host SQLite3 on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. SQLite database on a persistent volume with the sqlite-web browser UI",
+        "description": "Deploy and host SQLite3 on Railway in one click — always-on servers, built-in databases, and GitHub auto-deploys. SQLite (sqlite3) database on a persistent volume with the sqlite-web UI",
         "canonical": "https://railway.com/deploy/sqlite3--jOiNFt",
         "h1": ""
       },
@@ -805,9 +805,9 @@
         "recentProjects": 1,
         "projects": 66,
         "isVerified": false,
-        "updatedAt": "2026-09-27T05:04:23.736Z",
+        "updatedAt": "2026-09-27T05:07:33.199Z",
         "communityThreadSlug": "turborepo-remote-cache-8ccd5af8",
-        "readmeWords": 634
+        "readmeWords": 642
       },
       "page": {
         "status": 200,
@@ -838,7 +838,7 @@
           "total": 2,
           "top": [
             "Turborepo Remote Cache (tRFTHR, 26 active, health 100)",
-            "JXLR Boilerplate (jxlr-boilerplate, 3 active, health 100)"
+            "JXLR Boilerplate (jxlr-boilerplate, 2 active, health 100)"
           ]
         },
         {

@@ -1,0 +1,23 @@
+Review done. No edits made. Writing summary.
+
+**Result: no page edits today.** Checker run: `13 templates, 0 errors, 0 warnings`. Every link and image resolves, all descriptions within 25 to 75 chars, all required sections present.
+
+**Why nothing qualified**
+
+- **No prior report exists.** Only today's report and one history snapshot. Diff since last commit is only the descriptions republished by the last commit, plus one rank move (Minecraft 11 to 10 on "minecraft"). No new facts.
+- **No new thread replies.** Last reply dates: GlitchTip 2025-03-06, Minecraft 2024-12-02, SQLite 2025-02-02, Probo 2026-07-13. All predate the page rewrite in commit 4c4d90a, and those FAQs already answer them (worker crash, CORS scheme, OAuth signing key, SAML TXT record). Eight threads have zero replies.
+- **Keywords present.** Every tracked keyword appears in name or description for all 13 templates. Low ranks trace to name mismatch or health tier, not to description text.
+- **Facts spot-checked, nothing wrong.** Ports 4318, 8123, 1433, 25565 match upstream defaults. Volume rate $0.15/GB and $10/GB RAM match Railway pricing docs. Postgres 18 volume path at `/var/lib/postgresql` matches the official image change in 18.
+- **Validation failures are config or source issues, not page issues.** Pages already say what users need where a cause is known.
+
+**Needs a human**
+
+- **Renames in dashboard** (API cannot rename): `MicrosoftSQL Server (MSSQL)` to `Microsoft SQL Server`; `Minecraft Server (w/ dashboard)` to `Minecraft Server`; `n8n (w/ postgres)` to `n8n`; `SQLite3` to `SQLite`. Repo meta.json already carries target names. n8n rename is the biggest lever: exact match would move it from rank 19 on "n8n".
+- **GlitchTip (AMx6AD)**: CRASHED service is `glitchtip-worker`. GlitchTip 6 removed the standalone worker. Fix: delete worker service from template config in dashboard. Page FAQ already covers it. Until removed, validation stays degraded and health drops.
+- **postgresql-18**: `all_services_deployed: FAILED`, health 63. Single service builds `Dockerfile.18` from fork `ThallesP/postgres-ssl`. Likely build failure in fork. Check build logs on a test deploy. Not a page fix.
+- **comentario**: one of two services FAILED. Comentario service builds from `ThallesP/comentario-on-railway` with `POSTGRES_*` build args. Likely build-arg rendering or image pull. Check build logs. Postgres side SUCCESS.
+- **sqlite (jOiNFt)**: `stays_up` crash within 30s, health 67. Entrypoint from `railwayapp-templates/sqlite`. Likely init script or volume mount issue on first boot. Check deploy logs.
+- **probo**: `workflow_completed: Your workspace has been restricted. Please contact support.` Account-level block on the validation workspace, not template. Contact Railway support.
+- **Interval, MSSQL, Minecraft**: `unvalidated`, no recent TemplateCI runs. Nothing to do on page.
+
+Nothing committed. Working tree still holds the uncommitted data/report changes from the daily job.
