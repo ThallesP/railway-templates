@@ -1,0 +1,42 @@
+[
+  {
+    "pos": 1,
+    "code": "comentario",
+    "name": "Comentario",
+    "deploymentCount": 14,
+    "healthScore": 80,
+    "isVerified": false,
+    "description": "Fast, flexible, and powerful free comment server for web pages",
+    "live": {
+      "code": "comentario",
+      "name": "Comentario",
+      "health": 80,
+      "activeProjects": 14,
+      "recentProjects": 3,
+      "projects": 21,
+      "isVerified": false,
+      "createdAt": "2025-10-18T17:04:46.667Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "comentario-comments",
+    "name": "Comentario",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Comment system that adds discussions to any web page",
+    "live": {
+      "code": "comentario-comments",
+      "name": "Comentario",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-25T12:50:26.441Z",
+      "category": "Blogs"
+    }
+  }
+]

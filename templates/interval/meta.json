@@ -1,0 +1,11 @@
+{
+  "code": "tFqAVW",
+  "name": "Interval",
+  "description": "Self-hosted Interval Server for internal tools, with PostgreSQL and MinIO",
+  "category": "Other",
+  "image": "https://pub-be57d7e4de8e43cbb04106b33b260bf4.r2.dev/logo.svg",
+  "keywords": [
+    "interval",
+    "internal tools"
+  ]
+}

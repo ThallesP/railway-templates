@@ -1,0 +1,11 @@
+{
+  "code": "probo",
+  "name": "Probo",
+  "description": "Open source GRC platform for SOC 2, ISO 27001, HIPAA and GDPR compliance",
+  "category": "Other",
+  "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/probo.png",
+  "keywords": [
+    "probo",
+    "compliance"
+  ]
+}

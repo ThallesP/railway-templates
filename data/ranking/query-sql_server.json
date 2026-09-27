@@ -1,0 +1,222 @@
+[
+  {
+    "pos": 1,
+    "code": "aNgXG5",
+    "name": "MS SQL Server 2017",
+    "deploymentCount": 58,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Easily deploy an MSSQL Server 2017 instance with pre-configured settings",
+    "live": {
+      "code": "aNgXG5",
+      "name": "MS SQL Server 2017",
+      "health": 100,
+      "activeProjects": 58,
+      "recentProjects": 7,
+      "projects": 88,
+      "isVerified": false,
+      "createdAt": "2024-12-08T18:22:05.373Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "microsoft-sql-server",
+    "name": "Microsoft SQL Server, MSSQL | Enterprise Database on Railway",
+    "deploymentCount": 46,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-host MsSQL Server. Persistent storage, TCP proxy, SSMS-ready",
+    "live": {
+      "code": "microsoft-sql-server",
+      "name": "Microsoft SQL Server, MSSQL | Enterprise Database on Railway",
+      "health": 100,
+      "activeProjects": 46,
+      "recentProjects": 31,
+      "projects": 71,
+      "isVerified": false,
+      "createdAt": "2026-04-16T15:14:56.686Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "sql-server",
+    "name": "SQL Server",
+    "deploymentCount": 3,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Reliable relational database for APIs, backend services, and business apps.",
+    "live": {
+      "code": "sql-server",
+      "name": "SQL Server",
+      "health": null,
+      "activeProjects": 3,
+      "recentProjects": 3,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-08-27T16:36:17.502Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "sql-server-2022-en-railway-optimizado",
+    "name": "SQL Server 2022 en Railway (Optimizado)",
+    "deploymentCount": 24,
+    "healthScore": 85,
+    "isVerified": false,
+    "description": "Configuración Docker lista para producción para desplegar SQL Server 2022",
+    "live": {
+      "code": "sql-server-2022-en-railway-optimizado",
+      "name": "SQL Server 2022 en Railway (Optimizado)",
+      "health": 85,
+      "activeProjects": 24,
+      "recentProjects": 16,
+      "projects": 33,
+      "isVerified": false,
+      "createdAt": "2026-03-11T03:41:07.233Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "microsoft-sql-server-2022",
+    "name": "Microsoft SQL Server 2022",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "SQL Server 2022 with persistent storage. EULA and edition choice required.",
+    "live": {
+      "code": "microsoft-sql-server-2022",
+      "name": "Microsoft SQL Server 2022",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-07T23:39:57.869Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "microsoft-sql-server-or-just-updated-the",
+    "name": "Microsoft SQL Server | (Just Updated) The One Whose Engine Actually Starts",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "SQL Server 2022 that actually starts, with backups that survive redeploys",
+    "live": {
+      "code": "microsoft-sql-server-or-just-updated-the",
+      "name": "Microsoft SQL Server | (Just Updated) The One Whose Engine Actually Starts",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-08T00:01:20.621Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "dolt-sql-server",
+    "name": "Dolt SQL Server",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Versioned MySQL-compatible SQL with persistent storage.",
+    "live": {
+      "code": "dolt-sql-server",
+      "name": "Dolt SQL Server",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-08T08:28:49.304Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "wcAazg",
+    "name": "Microsoft SQL Server",
+    "deploymentCount": 505,
+    "healthScore": 68,
+    "isVerified": false,
+    "description": "A relational model database server produced by Microsoft",
+    "live": {
+      "code": "wcAazg",
+      "name": "Microsoft SQL Server",
+      "health": 68,
+      "activeProjects": 505,
+      "recentProjects": 20,
+      "projects": 780,
+      "isVerified": false,
+      "createdAt": "2024-04-10T23:39:03.662Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "GY653h",
+    "name": "Microsoft SQL Server 2022",
+    "deploymentCount": 65,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "Deploy MSSQL Server 2022 with persistent storage and TCP connectivity",
+    "live": {
+      "code": "GY653h",
+      "name": "Microsoft SQL Server 2022",
+      "health": 0,
+      "activeProjects": 65,
+      "recentProjects": 1,
+      "projects": 94,
+      "isVerified": false,
+      "createdAt": "2025-03-25T17:25:48.997Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "microsoft-sql-server-2025",
+    "name": "Microsoft SQL Server 2025",
+    "deploymentCount": 35,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "Relational database server with persistent storage and TCP connectivity",
+    "live": {
+      "code": "microsoft-sql-server-2025",
+      "name": "Microsoft SQL Server 2025",
+      "health": 0,
+      "activeProjects": 35,
+      "recentProjects": 10,
+      "projects": 59,
+      "isVerified": false,
+      "createdAt": "2026-01-07T21:50:48.246Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "mssql2019",
+    "name": "mssql2019",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Microsoft SQL Server 2019 with persistent storage and TCP access",
+    "live": {
+      "code": "mssql2019",
+      "name": "mssql2019",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-31T09:42:57.686Z",
+      "category": "Storage"
+    }
+  }
+]

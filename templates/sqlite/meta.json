@@ -1,0 +1,11 @@
+{
+  "code": "jOiNFt",
+  "name": "SQLite",
+  "description": "SQLite database on a persistent volume with the sqlite-web browser UI",
+  "category": "Storage",
+  "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/sqlite.svg",
+  "keywords": [
+    "sqlite",
+    "sqlite3"
+  ]
+}

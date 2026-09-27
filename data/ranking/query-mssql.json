@@ -1,0 +1,102 @@
+[
+  {
+    "pos": 1,
+    "code": "mssql2019",
+    "name": "mssql2019",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Microsoft SQL Server 2019 with persistent storage and TCP access",
+    "live": {
+      "code": "mssql2019",
+      "name": "mssql2019",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-31T09:42:57.686Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "microsoftsql-server-mssql",
+    "name": "MicrosoftSQL Server (MSSQL)",
+    "deploymentCount": 11,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy a MicrosoftSQL Server (MSSQL) on Railway!",
+    "live": {
+      "code": "microsoftsql-server-mssql",
+      "name": "MicrosoftSQL Server (MSSQL)",
+      "health": 100,
+      "activeProjects": 11,
+      "recentProjects": 5,
+      "projects": 16,
+      "isVerified": false,
+      "createdAt": "2026-05-03T00:25:49.336Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "microsoft-sql-server",
+    "name": "Microsoft SQL Server, MSSQL | Enterprise Database on Railway",
+    "deploymentCount": 46,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-host MsSQL Server. Persistent storage, TCP proxy, SSMS-ready",
+    "live": {
+      "code": "microsoft-sql-server",
+      "name": "Microsoft SQL Server, MSSQL | Enterprise Database on Railway",
+      "health": 100,
+      "activeProjects": 46,
+      "recentProjects": 31,
+      "projects": 71,
+      "isVerified": false,
+      "createdAt": "2026-04-16T15:14:56.686Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "aNgXG5",
+    "name": "MS SQL Server 2017",
+    "deploymentCount": 58,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Easily deploy an MSSQL Server 2017 instance with pre-configured settings",
+    "live": {
+      "code": "aNgXG5",
+      "name": "MS SQL Server 2017",
+      "health": 100,
+      "activeProjects": 58,
+      "recentProjects": 7,
+      "projects": 88,
+      "isVerified": false,
+      "createdAt": "2024-12-08T18:22:05.373Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "GY653h",
+    "name": "Microsoft SQL Server 2022",
+    "deploymentCount": 65,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "Deploy MSSQL Server 2022 with persistent storage and TCP connectivity",
+    "live": {
+      "code": "GY653h",
+      "name": "Microsoft SQL Server 2022",
+      "health": 0,
+      "activeProjects": 65,
+      "recentProjects": 1,
+      "projects": 94,
+      "isVerified": false,
+      "createdAt": "2025-03-25T17:25:48.997Z",
+      "category": "Storage"
+    }
+  }
+]

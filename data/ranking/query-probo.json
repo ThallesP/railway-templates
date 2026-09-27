@@ -1,0 +1,42 @@
+[
+  {
+    "pos": 1,
+    "code": "probo",
+    "name": "Probo",
+    "deploymentCount": 11,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Hands-off compliance: get SOC 2, ISO & HIPAA certified with ease.",
+    "live": {
+      "code": "probo",
+      "name": "Probo",
+      "health": 100,
+      "activeProjects": 11,
+      "recentProjects": 10,
+      "projects": 34,
+      "isVerified": false,
+      "createdAt": "2025-12-02T23:21:16.940Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "probo-latest-1",
+    "name": "Probo — Latest",
+    "deploymentCount": 3,
+    "healthScore": 89,
+    "isVerified": false,
+    "description": "Latest tested Probo for Railway, MCP-first with ISO 27001 starter kit.",
+    "live": {
+      "code": "probo-latest-1",
+      "name": "Probo — Latest",
+      "health": 89,
+      "activeProjects": 3,
+      "recentProjects": 3,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-08-30T17:52:35.448Z",
+      "category": "Other"
+    }
+  }
+]

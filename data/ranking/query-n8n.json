@@ -1,0 +1,1002 @@
+[
+  {
+    "pos": 1,
+    "code": "n8n-basic",
+    "name": "n8n",
+    "deploymentCount": 23,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A minimal n8n setup to save on costs, build workflows, and automate tasks.",
+    "live": {
+      "code": "n8n-basic",
+      "name": "n8n",
+      "health": 100,
+      "activeProjects": 23,
+      "recentProjects": 29,
+      "projects": 29,
+      "isVerified": false,
+      "createdAt": "2026-08-13T04:21:54.602Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "n8n-9",
+    "name": "n8n",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "n8n on Postgres, your owner account created at deploy",
+    "live": {
+      "code": "n8n-9",
+      "name": "n8n",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 4,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-09-26T12:04:16.602Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "n8n-4",
+    "name": "N8N",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "n8n in queue mode: main, workers, Redis and Postgres. Scale workers.",
+    "live": {
+      "code": "n8n-4",
+      "name": "N8N",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-25T12:32:23.536Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "n8n",
+    "name": "n8n",
+    "deploymentCount": 13908,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "n8n [Sep '26] (Workflows/Integrations/API Automation/AI Coding) Self Host",
+    "live": {
+      "code": "n8n",
+      "name": "n8n",
+      "health": 96,
+      "activeProjects": 13908,
+      "recentProjects": 4233,
+      "projects": 16747,
+      "isVerified": false,
+      "createdAt": "2025-07-02T07:10:34.940Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "n8n-1",
+    "name": "n8n",
+    "deploymentCount": 633,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "A flexible automation platform for workflows, integrations, and AI.",
+    "live": {
+      "code": "n8n-1",
+      "name": "n8n",
+      "health": 96,
+      "activeProjects": 633,
+      "recentProjects": 203,
+      "projects": 746,
+      "isVerified": false,
+      "createdAt": "2025-08-19T03:30:43.046Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "xIplv6",
+    "name": "n8n",
+    "deploymentCount": 132,
+    "healthScore": 90,
+    "isVerified": false,
+    "description": "Simple and dependable automation platform using n8n + PostgreSQL.",
+    "live": {
+      "code": "xIplv6",
+      "name": "n8n",
+      "health": 90,
+      "activeProjects": 132,
+      "recentProjects": 7,
+      "projects": 226,
+      "isVerified": false,
+      "createdAt": "2025-03-25T08:45:18.829Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "n8n-railway",
+    "name": "N8N",
+    "deploymentCount": 80,
+    "healthScore": 92,
+    "isVerified": false,
+    "description": "Workflow automation tool with AI agents, 400+ integrations, and more",
+    "live": {
+      "code": "n8n-railway",
+      "name": "N8N",
+      "health": 92,
+      "activeProjects": 80,
+      "recentProjects": 93,
+      "projects": 93,
+      "isVerified": false,
+      "createdAt": "2026-08-02T06:13:30.597Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "a_pour",
+    "name": "n8n",
+    "deploymentCount": 76,
+    "healthScore": 80,
+    "isVerified": false,
+    "description": "N8N Template for Scalable n8n with Integrated Backup",
+    "live": {
+      "code": "a_pour",
+      "name": "n8n",
+      "health": 80,
+      "activeProjects": 76,
+      "recentProjects": 0,
+      "projects": 126,
+      "isVerified": false,
+      "createdAt": "2025-05-12T07:13:41.083Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "n8n-railway-template",
+    "name": "N8N",
+    "deploymentCount": 62,
+    "healthScore": 84,
+    "isVerified": false,
+    "description": "Simple n8n starter with Postgres. Deploy in 1 click, it just works 🚀",
+    "live": {
+      "code": "n8n-railway-template",
+      "name": "N8N",
+      "health": 84,
+      "activeProjects": 62,
+      "recentProjects": 67,
+      "projects": 67,
+      "isVerified": false,
+      "createdAt": "2026-07-23T06:40:38.478Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "railway-n8n",
+    "name": "n8n",
+    "deploymentCount": 37,
+    "healthScore": 94,
+    "isVerified": false,
+    "description": "n8n — workflow automation with 400+ integrations, Zapier alternative",
+    "live": {
+      "code": "railway-n8n",
+      "name": "n8n",
+      "health": 94,
+      "activeProjects": 37,
+      "recentProjects": 49,
+      "projects": 49,
+      "isVerified": false,
+      "createdAt": "2026-07-07T01:47:04.474Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "n8n-3",
+    "name": "n8n",
+    "deploymentCount": 1,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Workflow automation with queue mode: n8n main + worker, Postgres, Redis.",
+    "live": {
+      "code": "n8n-3",
+      "name": "n8n",
+      "health": null,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-28T18:59:27.227Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "n8n-5",
+    "name": "N8N",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Deploy n8n with Postgres.",
+    "live": {
+      "code": "n8n-5",
+      "name": "N8N",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-25T12:32:21.878Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "n8n-6",
+    "name": "N8N",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "n8n queue mode with workers and webhook processors behind one URL.",
+    "live": {
+      "code": "n8n-6",
+      "name": "N8N",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-25T12:32:25.964Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "n8n-7",
+    "name": "N8N",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "n8n on SQLite in a single service with a volume. Cheapest to run.",
+    "live": {
+      "code": "n8n-7",
+      "name": "N8N",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-25T12:32:26.745Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 15,
+    "code": "n8n-8",
+    "name": "N8N",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "n8n + Postgres with external task runners.",
+    "live": {
+      "code": "n8n-8",
+      "name": "N8N",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-25T12:32:28.230Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 16,
+    "code": "nIAh-Q",
+    "name": "n8n",
+    "deploymentCount": 998,
+    "healthScore": 60,
+    "isVerified": false,
+    "description": "The cheapest n8n with PostgreSQL database.",
+    "live": {
+      "code": "nIAh-Q",
+      "name": "n8n",
+      "health": 60,
+      "activeProjects": 998,
+      "recentProjects": 375,
+      "projects": 1295,
+      "isVerified": false,
+      "createdAt": "2025-01-15T15:21:28.648Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 17,
+    "code": "zo8wVU",
+    "name": "N8N",
+    "deploymentCount": 545,
+    "healthScore": 67,
+    "isVerified": false,
+    "description": "A powerful workflow automation tool for technical people",
+    "live": {
+      "code": "zo8wVU",
+      "name": "N8N",
+      "health": 67,
+      "activeProjects": 545,
+      "recentProjects": 0,
+      "projects": 1551,
+      "isVerified": false,
+      "createdAt": "2022-08-31T13:15:26.889Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 18,
+    "code": "n8n-on-railway",
+    "name": "N8N",
+    "deploymentCount": 362,
+    "healthScore": 68,
+    "isVerified": false,
+    "description": "Self-host n8n w/ workers. Automate with 400+ integrations, 7k+ templates.",
+    "live": {
+      "code": "n8n-on-railway",
+      "name": "N8N",
+      "health": 68,
+      "activeProjects": 362,
+      "recentProjects": 182,
+      "projects": 457,
+      "isVerified": false,
+      "createdAt": "2025-10-29T20:28:25.144Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 19,
+    "code": "MRazvG",
+    "name": "n8n (w/ postgres)",
+    "deploymentCount": 4123,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Simple n8n deploy. It just works.",
+    "live": {
+      "code": "MRazvG",
+      "name": "n8n (w/ postgres)",
+      "health": 100,
+      "activeProjects": 4123,
+      "recentProjects": 215,
+      "projects": 5439,
+      "isVerified": false,
+      "createdAt": "2024-08-01T20:02:32.412Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 20,
+    "code": "n8n-with-webhook-processors",
+    "name": "N8N (w/ webhook processors)",
+    "deploymentCount": 1667,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A powerful workflow automation tool for technical people",
+    "live": {
+      "code": "n8n-with-webhook-processors",
+      "name": "N8N (w/ webhook processors)",
+      "health": 100,
+      "activeProjects": 1667,
+      "recentProjects": 61,
+      "projects": 3387,
+      "isVerified": false,
+      "createdAt": "2024-02-04T13:09:22.491Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 21,
+    "code": "simple-n8n",
+    "name": "Simple N8N",
+    "deploymentCount": 103,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "N8N (self-hosted), PostgreSQL, simple and fast. [Updated 2026]",
+    "live": {
+      "code": "simple-n8n",
+      "name": "Simple N8N",
+      "health": 100,
+      "activeProjects": 103,
+      "recentProjects": 15,
+      "projects": 136,
+      "isVerified": false,
+      "createdAt": "2025-06-27T21:40:17.525Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 22,
+    "code": "msyuqd",
+    "name": "N8N (w/ pgvector)",
+    "deploymentCount": 100,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "N8N AI complete kit. N8N with Postgres pgvector enabled.",
+    "live": {
+      "code": "msyuqd",
+      "name": "N8N (w/ pgvector)",
+      "health": 100,
+      "activeProjects": 100,
+      "recentProjects": 9,
+      "projects": 137,
+      "isVerified": false,
+      "createdAt": "2025-05-11T09:21:29.975Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 23,
+    "code": "n8n-single-node",
+    "name": "n8n Single Node",
+    "deploymentCount": 93,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Workflow automation platform",
+    "live": {
+      "code": "n8n-single-node",
+      "name": "n8n Single Node",
+      "health": 100,
+      "activeProjects": 93,
+      "recentProjects": 66,
+      "projects": 106,
+      "isVerified": false,
+      "createdAt": "2026-02-05T06:41:06.113Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 24,
+    "code": "n8n-main-worker",
+    "name": "N8N Main + Worker",
+    "deploymentCount": 89,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host N8N with Inactive worker.",
+    "live": {
+      "code": "n8n-main-worker",
+      "name": "N8N Main + Worker",
+      "health": 100,
+      "activeProjects": 89,
+      "recentProjects": 6,
+      "projects": 120,
+      "isVerified": false,
+      "createdAt": "2025-07-30T03:43:25.288Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 25,
+    "code": "n8n-wworkers-and-webhooks",
+    "name": "N8N (w/Workers & Webhooks)",
+    "deploymentCount": 85,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host N8N (w/Workers & Webhooks) with Railway",
+    "live": {
+      "code": "n8n-wworkers-and-webhooks",
+      "name": "N8N (w/Workers & Webhooks)",
+      "health": 100,
+      "activeProjects": 85,
+      "recentProjects": 17,
+      "projects": 119,
+      "isVerified": false,
+      "createdAt": "2025-08-13T12:38:28.603Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 26,
+    "code": "n8n-latest",
+    "name": "N8N [Updated Sep'26]",
+    "deploymentCount": 79,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "N8N: unlimited executions, no Zapier fees. 188k+ GitHub stars.",
+    "live": {
+      "code": "n8n-latest",
+      "name": "N8N [Updated Sep'26]",
+      "health": 100,
+      "activeProjects": 79,
+      "recentProjects": 33,
+      "projects": 90,
+      "isVerified": false,
+      "createdAt": "2025-09-20T11:19:34.202Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 27,
+    "code": "n8n-workflow-automation",
+    "name": "N8N | AI Worklow Automation | Zapier Alternative",
+    "deploymentCount": 31,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-host n8n workflow automation with workers, postgres, webhooks & Redis",
+    "live": {
+      "code": "n8n-workflow-automation",
+      "name": "N8N | AI Worklow Automation | Zapier Alternative",
+      "health": 100,
+      "activeProjects": 31,
+      "recentProjects": 8,
+      "projects": 44,
+      "isVerified": false,
+      "createdAt": "2026-03-06T21:32:08.772Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 28,
+    "code": "n8n-20-pro-queue-mode-workers-webhooks-m",
+    "name": "N8N Pro (Queue Mode with Webhooks, Workers, Code Runners, MCP & Auto-Updates)",
+    "deploymentCount": 27,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "🪄1-Click Deploy | High Performance N8N setup with Postgres17 + Redis + MCP",
+    "live": {
+      "code": "n8n-20-pro-queue-mode-workers-webhooks-m",
+      "name": "N8N Pro (Queue Mode with Webhooks, Workers, Code Runners, MCP & Auto-Updates)",
+      "health": 100,
+      "activeProjects": 27,
+      "recentProjects": 3,
+      "projects": 90,
+      "isVerified": false,
+      "createdAt": "2025-12-17T17:39:35.004Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 29,
+    "code": "n8n-v200-still-cheapest-regular-update",
+    "name": "n8n (cheapest to run, latest)",
+    "deploymentCount": 24,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Lowest-cost n8n deploy here, with workflows and credentials persisted",
+    "live": {
+      "code": "n8n-v200-still-cheapest-regular-update",
+      "name": "n8n (cheapest to run, latest)",
+      "health": 100,
+      "activeProjects": 24,
+      "recentProjects": 2,
+      "projects": 46,
+      "isVerified": false,
+      "createdAt": "2025-12-11T03:13:52.975Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 30,
+    "code": "n8n-asiataipei-1",
+    "name": "n8n-Asia/Taipei",
+    "deploymentCount": 21,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "預先設好台灣時區的n8n，使用PostgreSQL",
+    "live": {
+      "code": "n8n-asiataipei-1",
+      "name": "n8n-Asia/Taipei",
+      "health": 100,
+      "activeProjects": 21,
+      "recentProjects": 24,
+      "projects": 24,
+      "isVerified": false,
+      "createdAt": "2026-08-23T03:30:16.188Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 31,
+    "code": "n8n-mcp-2",
+    "name": "n8n-MCP",
+    "deploymentCount": 16,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "n8n-MCP for dev/prod use. by czlonkowski",
+    "live": {
+      "code": "n8n-mcp-2",
+      "name": "n8n-MCP",
+      "health": 100,
+      "activeProjects": 16,
+      "recentProjects": 5,
+      "projects": 23,
+      "isVerified": false,
+      "createdAt": "2026-01-21T22:25:14.813Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 32,
+    "code": "n8n-evolution-api-whatsapp",
+    "name": "Evolution API with n8n [Updated Sep'26]",
+    "deploymentCount": 15,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Evolution API + n8n — WhatsApp automation stack, no per-message fees.",
+    "live": {
+      "code": "n8n-evolution-api-whatsapp",
+      "name": "Evolution API with n8n [Updated Sep'26]",
+      "health": 100,
+      "activeProjects": 15,
+      "recentProjects": 20,
+      "projects": 26,
+      "isVerified": false,
+      "createdAt": "2026-05-31T12:51:30.097Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 33,
+    "code": "71sXeU",
+    "name": "n8n-DTA",
+    "deploymentCount": 14,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A worflow automation for Digital Team Academy",
+    "live": {
+      "code": "71sXeU",
+      "name": "n8n-DTA",
+      "health": 100,
+      "activeProjects": 14,
+      "recentProjects": 0,
+      "projects": 35,
+      "isVerified": false,
+      "createdAt": "2024-05-14T09:03:14.953Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 34,
+    "code": "n8n-ai-automation",
+    "name": "n8n AI Automation",
+    "deploymentCount": 12,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Automate intelligent workflows with AI agents and app integrations.",
+    "live": {
+      "code": "n8n-ai-automation",
+      "name": "n8n AI Automation",
+      "health": 100,
+      "activeProjects": 12,
+      "recentProjects": 10,
+      "projects": 16,
+      "isVerified": false,
+      "createdAt": "2026-06-05T04:38:59.144Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 35,
+    "code": "n8n-production-starter-with-workers",
+    "name": "n8n Production Setup with Workers",
+    "deploymentCount": 10,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Production-ready latest n8n with workers, Redis & Postgres - Jul 2026",
+    "live": {
+      "code": "n8n-production-starter-with-workers",
+      "name": "n8n Production Setup with Workers",
+      "health": 100,
+      "activeProjects": 10,
+      "recentProjects": 5,
+      "projects": 13,
+      "isVerified": false,
+      "createdAt": "2026-04-02T15:06:43.279Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 36,
+    "code": "n8n-with-webhook-processor",
+    "name": "n8n with Webhook Processor",
+    "deploymentCount": 9,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A scalable automation stack with workers, webhook processing, and queues.",
+    "live": {
+      "code": "n8n-with-webhook-processor",
+      "name": "n8n with Webhook Processor",
+      "health": 100,
+      "activeProjects": 9,
+      "recentProjects": 0,
+      "projects": 13,
+      "isVerified": false,
+      "createdAt": "2025-12-28T15:50:04.677Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 37,
+    "code": "n8n-w-postgresql-and-persistent-nodes",
+    "name": "N8N (w/ postgresql and persistent nodes)",
+    "deploymentCount": 8,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Now you can install your desired nodes once and it's done forever!",
+    "live": {
+      "code": "n8n-w-postgresql-and-persistent-nodes",
+      "name": "N8N (w/ postgresql and persistent nodes)",
+      "health": 100,
+      "activeProjects": 8,
+      "recentProjects": 5,
+      "projects": 11,
+      "isVerified": false,
+      "createdAt": "2026-02-22T22:55:31.011Z",
+      "category": "Bots"
+    }
+  },
+  {
+    "pos": 38,
+    "code": "n8n-with-postgres-1",
+    "name": "n8n with Postgres",
+    "deploymentCount": 5,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "n8n 2.32.5 with Postgres 17 on a volume: workflows and credentials persist",
+    "live": {
+      "code": "n8n-with-postgres-1",
+      "name": "n8n with Postgres",
+      "health": 100,
+      "activeProjects": 5,
+      "recentProjects": 5,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2026-07-26T10:49:33.770Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 39,
+    "code": "n8n-puppeteer",
+    "name": "N8N-PUPPETEER",
+    "deploymentCount": 4,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy n8n with Puppeteer browser automation and PostgreSQL on Railway.",
+    "live": {
+      "code": "n8n-puppeteer",
+      "name": "N8N-PUPPETEER",
+      "health": 100,
+      "activeProjects": 4,
+      "recentProjects": 1,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2026-05-17T12:47:59.791Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 40,
+    "code": "n8n-scalable-queue-mode-workers-webhooks",
+    "name": "n8n — Queue Mode, Workers, Webhooks & Task Runners",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Production-ready n8n with Redis queue, workers, webhooks, and task runners",
+    "live": {
+      "code": "n8n-scalable-queue-mode-workers-webhooks",
+      "name": "n8n — Queue Mode, Workers, Webhooks & Task Runners",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 2,
+      "projects": 20,
+      "isVerified": false,
+      "createdAt": "2026-02-25T20:03:49.777Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 41,
+    "code": "n8n-postgres-durable",
+    "name": "n8n + Postgres — Durable Workflow Automation",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Single-instance n8n with Postgres — cheap, and survives redeploys",
+    "live": {
+      "code": "n8n-postgres-durable",
+      "name": "n8n + Postgres — Durable Workflow Automation",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 4,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-07-22T12:23:24.182Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 42,
+    "code": "n8n-pro-stack-production-automation-with",
+    "name": "n8n Pro Stack — Production Automation with Workers",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy n8n with Worker, Task Runner, Redis & PostgreSQL—ready to scale.",
+    "live": {
+      "code": "n8n-pro-stack-production-automation-with",
+      "name": "n8n Pro Stack — Production Automation with Workers",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 4,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-09-09T15:04:46.701Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 43,
+    "code": "n8n-instagram",
+    "name": "n8n Instagram",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Instagram content and alerts",
+    "live": {
+      "code": "n8n-instagram",
+      "name": "n8n Instagram",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-09-18T09:35:53.217Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 44,
+    "code": "n8n-mcp-1",
+    "name": "N8N MCP (@czlonkowski)",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "100% Working ✅ The most capable N8N MCP far beyond the native MCP server.",
+    "live": {
+      "code": "n8n-mcp-1",
+      "name": "N8N MCP (@czlonkowski)",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2025-12-29T13:53:06.707Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 45,
+    "code": "n8n-complete-setup",
+    "name": "n8n Complete Setup",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Automate AI workflows with workers, queues, database, and local LLMs.",
+    "live": {
+      "code": "n8n-complete-setup",
+      "name": "n8n Complete Setup",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-05-31T23:09:33.501Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 46,
+    "code": "n8n-queue-mode",
+    "name": "n8n Queue Mode",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "n8n in queue mode with workers",
+    "live": {
+      "code": "n8n-queue-mode",
+      "name": "n8n Queue Mode",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-08-29T15:40:15.822Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 47,
+    "code": "n8n-with-workers",
+    "name": "N8N (w/ workers)",
+    "deploymentCount": 80649,
+    "healthScore": 84,
+    "isVerified": false,
+    "description": "A powerful workflow automation tool for technical people",
+    "live": {
+      "code": "n8n-with-workers",
+      "name": "N8N (w/ workers)",
+      "health": 84,
+      "activeProjects": 80649,
+      "recentProjects": 5559,
+      "projects": 113552,
+      "isVerified": false,
+      "createdAt": "2023-07-07T15:23:18.128Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 48,
+    "code": "EfkjX2",
+    "name": "n8n with workers",
+    "deploymentCount": 2115,
+    "healthScore": 84,
+    "isVerified": false,
+    "description": "A complete setup for n8n with workers",
+    "live": {
+      "code": "EfkjX2",
+      "name": "n8n with workers",
+      "health": 84,
+      "activeProjects": 2115,
+      "recentProjects": 76,
+      "projects": 4051,
+      "isVerified": false,
+      "createdAt": "2023-08-27T20:49:44.886Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 49,
+    "code": "Xx4_lu",
+    "name": "flowise-with-n8n-ai-automation",
+    "deploymentCount": 1291,
+    "healthScore": 80,
+    "isVerified": false,
+    "description": "n8n ai automation template",
+    "live": {
+      "code": "Xx4_lu",
+      "name": "flowise-with-n8n-ai-automation",
+      "health": 80,
+      "activeProjects": 1291,
+      "recentProjects": 9,
+      "projects": 1982,
+      "isVerified": false,
+      "createdAt": "2024-06-08T15:44:32.819Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 50,
+    "code": "n8n-mcp",
+    "name": "n8n-mcp",
+    "deploymentCount": 921,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Deploy n8n-mcp to enable AI agents to build and edit n8n workflows",
+    "live": {
+      "code": "n8n-mcp",
+      "name": "n8n-mcp",
+      "health": 96,
+      "activeProjects": 921,
+      "recentProjects": 39,
+      "projects": 1359,
+      "isVerified": false,
+      "createdAt": "2025-07-16T21:35:47.908Z",
+      "category": "AI/ML"
+    }
+  }
+]

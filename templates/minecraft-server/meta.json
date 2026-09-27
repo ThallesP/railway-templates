@@ -1,0 +1,11 @@
+{
+  "code": "BLEtpx",
+  "name": "Minecraft Server",
+  "description": "Java Minecraft server (Paper) with a web console, file browser and volume",
+  "category": "Other",
+  "image": "https://pub-be57d7e4de8e43cbb04106b33b260bf4.r2.dev/minecraft_logo_icon_168974.webp",
+  "keywords": [
+    "minecraft",
+    "minecraft server"
+  ]
+}

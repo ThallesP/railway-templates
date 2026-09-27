@@ -1,0 +1,522 @@
+[
+  {
+    "pos": 1,
+    "code": "minecraft-server-p-1",
+    "name": "Minecraft",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Paper Minecraft server with the world on a volume and a ready address",
+    "live": {
+      "code": "minecraft-server-p-1",
+      "name": "Minecraft",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-25T14:28:40.924Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "Fm2T4D",
+    "name": "Minecraft Server Spigot",
+    "deploymentCount": 35,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy your own minecraft server on spigot",
+    "live": {
+      "code": "Fm2T4D",
+      "name": "Minecraft Server Spigot",
+      "health": 100,
+      "activeProjects": 35,
+      "recentProjects": 58,
+      "projects": 71,
+      "isVerified": false,
+      "createdAt": "2025-05-28T06:40:10.313Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "minecraft-or-paper-server-on-java-25-wit",
+    "name": "Minecraft | Paper Server on Java 25 with a Real Volume",
+    "deploymentCount": 12,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Minecraft on Railway: a real volume, current Java, Hobby plan or above",
+    "live": {
+      "code": "minecraft-or-paper-server-on-java-25-wit",
+      "name": "Minecraft | Paper Server on Java 25 with a Real Volume",
+      "health": 100,
+      "activeProjects": 12,
+      "recentProjects": 23,
+      "projects": 23,
+      "isVerified": false,
+      "createdAt": "2026-07-26T12:57:04.215Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "minecraft-bedrock-server",
+    "name": "Minecraft Bedrock Server",
+    "deploymentCount": 11,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A Minecraft Bedrock server template with UDP Proxied with playit.gg",
+    "live": {
+      "code": "minecraft-bedrock-server",
+      "name": "Minecraft Bedrock Server",
+      "health": 100,
+      "activeProjects": 11,
+      "recentProjects": 22,
+      "projects": 22,
+      "isVerified": false,
+      "createdAt": "2026-07-04T10:55:15.560Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "serverless-minecraft-server",
+    "name": "Minecraft Server (support for Serverless)",
+    "deploymentCount": 27,
+    "healthScore": 89,
+    "isVerified": false,
+    "description": "Minecraft server with support for serverless",
+    "live": {
+      "code": "serverless-minecraft-server",
+      "name": "Minecraft Server (support for Serverless)",
+      "health": 89,
+      "activeProjects": 27,
+      "recentProjects": 19,
+      "projects": 48,
+      "isVerified": false,
+      "createdAt": "2026-03-30T12:02:28.223Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "minecraft-server",
+    "name": "Minecraft Server [Updated Sep '26]",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Minecraft Server [Sep '26] (Paper, Plugin-Compatible) Self Host",
+    "live": {
+      "code": "minecraft-server",
+      "name": "Minecraft Server [Updated Sep '26]",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-03T08:14:43.999Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "minecraft-or-just-updated-paper-server-w",
+    "name": "Minecraft | (Just Updated) Paper Server Whose Heap Fits Your Plan, Auto Backups",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Paper server whose heap fits your plan, plus rotating world backups.",
+    "live": {
+      "code": "minecraft-or-just-updated-paper-server-w",
+      "name": "Minecraft | (Just Updated) Paper Server Whose Heap Fits Your Plan, Auto Backups",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-02T23:33:11.810Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "minecraft-server-1",
+    "name": "Minecraft Server",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Paper Minecraft server with web console and plugins for friends",
+    "live": {
+      "code": "minecraft-server-1",
+      "name": "Minecraft Server",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-09-04T02:37:21.396Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "minecraft-paper-server",
+    "name": "Minecraft Paper Server",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Paper Minecraft server with persistent worlds. EULA acceptance required.",
+    "live": {
+      "code": "minecraft-paper-server",
+      "name": "Minecraft Paper Server",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-07T23:36:59.699Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "minecraft-java",
+    "name": "Minecraft Server | Paper + Crafty Web Panel",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Paper server with Crafty web panel: join in minutes, nightly backups",
+    "live": {
+      "code": "minecraft-java",
+      "name": "Minecraft Server | Paper + Crafty Web Panel",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-22T17:36:15.686Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "BLEtpx",
+    "name": "Minecraft Server (w/ dashboard)",
+    "deploymentCount": 643,
+    "healthScore": 69,
+    "isVerified": false,
+    "description": "Deploy your Minecraft Server",
+    "live": {
+      "code": "BLEtpx",
+      "name": "Minecraft Server (w/ dashboard)",
+      "health": 69,
+      "activeProjects": 643,
+      "recentProjects": 86,
+      "projects": 1526,
+      "isVerified": false,
+      "createdAt": "2023-09-09T17:52:22.344Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "minecraft",
+    "name": "Minecraft Server [Updated Sep ’26] (Open-Source Game Hosting Platform)",
+    "deploymentCount": 118,
+    "healthScore": 29,
+    "isVerified": false,
+    "description": "Minecraft Server [Sep ’26] (Host Multiplayer Worlds & Mods) Self Host",
+    "live": {
+      "code": "minecraft",
+      "name": "Minecraft Server [Updated Sep ’26] (Open-Source Game Hosting Platform)",
+      "health": 29,
+      "activeProjects": 118,
+      "recentProjects": 33,
+      "projects": 220,
+      "isVerified": false,
+      "createdAt": "2025-08-16T18:06:32.606Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "minecraft-server-jav",
+    "name": "Minecraft-Server (Java edition)",
+    "deploymentCount": 26,
+    "healthScore": 33,
+    "isVerified": false,
+    "description": "Ready-to-Deploy Minecraft Server (java edition)",
+    "live": {
+      "code": "minecraft-server-jav",
+      "name": "Minecraft-Server (Java edition)",
+      "health": 33,
+      "activeProjects": 26,
+      "recentProjects": 16,
+      "projects": 57,
+      "isVerified": false,
+      "createdAt": "2025-06-07T04:22:11.372Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "pumpkin-minecraft-server-latest",
+    "name": "Pumpkin Minecraft Server (latest)",
+    "deploymentCount": 3,
+    "healthScore": 67,
+    "isVerified": false,
+    "description": "Fast Rust-based Minecraft server with Java and Bedrock support.",
+    "live": {
+      "code": "pumpkin-minecraft-server-latest",
+      "name": "Pumpkin Minecraft Server (latest)",
+      "health": 67,
+      "activeProjects": 3,
+      "recentProjects": 3,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-08-21T19:38:18.638Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 15,
+    "code": "minecraft-forge",
+    "name": "Minecraft Forge Server on Railway",
+    "deploymentCount": 13,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "Self Host Minecraft Server. Run RLCraft, ATM, or any Forge modpack",
+    "live": {
+      "code": "minecraft-forge",
+      "name": "Minecraft Forge Server on Railway",
+      "health": 0,
+      "activeProjects": 13,
+      "recentProjects": 20,
+      "projects": 29,
+      "isVerified": false,
+      "createdAt": "2026-03-28T16:02:21.161Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 16,
+    "code": "minecraft-12111",
+    "name": "Minecraft 1.21.11",
+    "deploymentCount": 7,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "Deploy and Host Minecraft 1.21.11 with Railway",
+    "live": {
+      "code": "minecraft-12111",
+      "name": "Minecraft 1.21.11",
+      "health": 0,
+      "activeProjects": 7,
+      "recentProjects": 2,
+      "projects": 11,
+      "isVerified": false,
+      "createdAt": "2026-01-12T19:47:59.197Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 17,
+    "code": "minechamp-minecraft-server-12111",
+    "name": "MineChamp Minecraft Server 1.21.11",
+    "deploymentCount": 7,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "Minecraft Server 1.21.11, despliega tu servidor vanilla en 5 minutos",
+    "live": {
+      "code": "minechamp-minecraft-server-12111",
+      "name": "MineChamp Minecraft Server 1.21.11",
+      "health": 0,
+      "activeProjects": 7,
+      "recentProjects": 1,
+      "projects": 13,
+      "isVerified": false,
+      "createdAt": "2026-01-09T00:29:00.518Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 18,
+    "code": "1201-pumpkin-minec-1",
+    "name": "1.20.1 Pumpkin Minecraft Server",
+    "deploymentCount": 12,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A ready-to-use 1.20.1 Minecraft server running the Pumpkin server software.",
+    "live": {
+      "code": "1201-pumpkin-minec-1",
+      "name": "1.20.1 Pumpkin Minecraft Server",
+      "health": null,
+      "activeProjects": 12,
+      "recentProjects": 9,
+      "projects": 16,
+      "isVerified": false,
+      "createdAt": "2026-01-17T15:16:44.802Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 19,
+    "code": "crafty-template",
+    "name": "crafty-template",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Run Minecraft servers from a web panel - Crafty Controller in one click",
+    "live": {
+      "code": "crafty-template",
+      "name": "crafty-template",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 4,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-09-19T12:31:48.657Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 20,
+    "code": "U9ifEK",
+    "name": "quickfire",
+    "deploymentCount": 13,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Quickfire Minecraft Server. Simple and fast.",
+    "live": {
+      "code": "U9ifEK",
+      "name": "quickfire",
+      "health": null,
+      "activeProjects": 13,
+      "recentProjects": 1,
+      "projects": 42,
+      "isVerified": false,
+      "createdAt": "2024-08-09T10:56:53.825Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 21,
+    "code": "eaglercraft",
+    "name": "Eaglercraft",
+    "deploymentCount": 12,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Play Minecraft in the browser — one-click self-hosted server",
+    "live": {
+      "code": "eaglercraft",
+      "name": "Eaglercraft",
+      "health": null,
+      "activeProjects": 12,
+      "recentProjects": 13,
+      "projects": 13,
+      "isVerified": false,
+      "createdAt": "2026-08-24T10:57:00.796Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 22,
+    "code": "pufferpanel",
+    "name": "Pufferpanel",
+    "deploymentCount": 4,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Game server panel for Minecraft, Steam games and 40+ community templates",
+    "live": {
+      "code": "pufferpanel",
+      "name": "Pufferpanel",
+      "health": 100,
+      "activeProjects": 4,
+      "recentProjects": 4,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-09-06T22:15:53.560Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 23,
+    "code": "fsdULq",
+    "name": "Gate",
+    "deploymentCount": 35,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "The Lightweight Minecraft Proxy",
+    "live": {
+      "code": "fsdULq",
+      "name": "Gate",
+      "health": null,
+      "activeProjects": 35,
+      "recentProjects": 0,
+      "projects": 65,
+      "isVerified": false,
+      "createdAt": "2024-05-28T09:35:58.944Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 24,
+    "code": "pelican",
+    "name": "Pelican Panel",
+    "deploymentCount": 3,
+    "healthScore": 75,
+    "isVerified": false,
+    "description": "Pelican Panel - Minecraft, CS2, Valheim - Pterodactyl alt",
+    "live": {
+      "code": "pelican",
+      "name": "Pelican Panel",
+      "health": 75,
+      "activeProjects": 3,
+      "recentProjects": 7,
+      "projects": 7,
+      "isVerified": false,
+      "createdAt": "2026-09-04T08:05:31.394Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 25,
+    "code": "pterodactyl-game-server",
+    "name": "Pterodactyl Panel",
+    "deploymentCount": 13,
+    "healthScore": 48,
+    "isVerified": false,
+    "description": "Game server management UI for Minecraft, Rust, ARK and Source engine titles",
+    "live": {
+      "code": "pterodactyl-game-server",
+      "name": "Pterodactyl Panel",
+      "health": 48,
+      "activeProjects": 13,
+      "recentProjects": 14,
+      "projects": 14,
+      "isVerified": false,
+      "createdAt": "2026-08-08T16:21:27.773Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 26,
+    "code": "mcstatusbot",
+    "name": "MCStatusBot",
+    "deploymentCount": 74,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "A simple Discord.js bot that displays the status of Minecraft servers. ",
+    "live": {
+      "code": "mcstatusbot",
+      "name": "MCStatusBot",
+      "health": 96,
+      "activeProjects": 74,
+      "recentProjects": 36,
+      "projects": 93,
+      "isVerified": false,
+      "createdAt": "2025-10-18T16:29:37.039Z",
+      "category": "Bots"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "code": "postgresql-18",
+  "name": "PostgreSQL 18",
+  "description": "PostgreSQL 18 with SSL on, a persistent volume and a public TCP proxy URL",
+  "category": "Storage",
+  "image": "https://devicons.railway.com/i/postgresql.svg",
+  "keywords": [
+    "postgresql 18",
+    "postgres 18"
+  ]
+}

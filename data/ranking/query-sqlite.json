@@ -1,0 +1,1002 @@
+[
+  {
+    "pos": 1,
+    "code": "sqlite-or-database-on-a-volume-with-a-we",
+    "name": "SQLite | Database on a Volume with a Web UI",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "SQLite on a volume with a web UI, current Python and enforced auth",
+    "live": {
+      "code": "sqlite-or-database-on-a-volume-with-a-we",
+      "name": "SQLite | Database on a Volume with a Web UI",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-26T18:38:56.882Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "sqlite3-railway-template",
+    "name": "sqlite3-railway-template",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "SQLite on persistent storage with a web manager UI - one-click deploy",
+    "live": {
+      "code": "sqlite3-railway-template",
+      "name": "sqlite3-railway-template",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-13T12:56:00.133Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "jOiNFt",
+    "name": "SQLite3",
+    "deploymentCount": 360,
+    "healthScore": 67,
+    "isVerified": false,
+    "description": "SQLite3 is a lightweight database",
+    "live": {
+      "code": "jOiNFt",
+      "name": "SQLite3",
+      "health": 67,
+      "activeProjects": 360,
+      "recentProjects": 15,
+      "projects": 868,
+      "isVerified": false,
+      "createdAt": "2023-08-05T04:18:30.173Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "happyview-2-sqlite-1",
+    "name": "HappyView 2 (SQLite)",
+    "deploymentCount": 15,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A lexicon-driven ATProto AppView.",
+    "live": {
+      "code": "happyview-2-sqlite-1",
+      "name": "HappyView 2 (SQLite)",
+      "health": 100,
+      "activeProjects": 15,
+      "recentProjects": 23,
+      "projects": 44,
+      "isVerified": false,
+      "createdAt": "2026-04-18T02:03:12.224Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "memos-sqlite",
+    "name": "Memos + SQLite",
+    "deploymentCount": 6,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "An open-source, self-hosted note-taking service",
+    "live": {
+      "code": "memos-sqlite",
+      "name": "Memos + SQLite",
+      "health": 100,
+      "activeProjects": 6,
+      "recentProjects": 3,
+      "projects": 10,
+      "isVerified": false,
+      "createdAt": "2026-02-05T09:17:56.243Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "nocodb-sqlite",
+    "name": "NocoDB + SQLite",
+    "deploymentCount": 5,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "[Feb 2026 Update] Convert any database into a no-code platform",
+    "live": {
+      "code": "nocodb-sqlite",
+      "name": "NocoDB + SQLite",
+      "health": 100,
+      "activeProjects": 5,
+      "recentProjects": 4,
+      "projects": 10,
+      "isVerified": false,
+      "createdAt": "2026-02-17T06:51:53.735Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "flask-sqlite-crud",
+    "name": "Flask SQLite CRUD",
+    "deploymentCount": 4,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A Flask + SQLite CRUD app: Search, filter, status toggle, edit & JSON API.",
+    "live": {
+      "code": "flask-sqlite-crud",
+      "name": "Flask SQLite CRUD",
+      "health": 100,
+      "activeProjects": 4,
+      "recentProjects": 3,
+      "projects": 6,
+      "isVerified": false,
+      "createdAt": "2026-02-22T22:31:28.461Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "peekaping",
+    "name": "Peekaping + SQlite",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Open Source & Self-Hosted uptime monitoring tool",
+    "live": {
+      "code": "peekaping",
+      "name": "Peekaping + SQlite",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 6,
+      "isVerified": false,
+      "createdAt": "2025-11-01T20:19:19.900Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "dukafi-sqlite",
+    "name": "Dukafi sqlite",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self hosted commerce CMS with a visula page builder editor",
+    "live": {
+      "code": "dukafi-sqlite",
+      "name": "Dukafi sqlite",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-15T08:06:42.197Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "9VGb60",
+    "name": "Ghost + SQLite",
+    "deploymentCount": 86,
+    "healthScore": 92,
+    "isVerified": false,
+    "description": "Self-hosted Ghost with SQLite and persistent volume.",
+    "live": {
+      "code": "9VGb60",
+      "name": "Ghost + SQLite",
+      "health": 92,
+      "activeProjects": 86,
+      "recentProjects": 1,
+      "projects": 268,
+      "isVerified": false,
+      "createdAt": "2023-07-26T15:02:17.162Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "fizzy",
+    "name": "Fizzy + SQLite",
+    "deploymentCount": 3,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Kanban as it should be. Not as it has been.",
+    "live": {
+      "code": "fizzy",
+      "name": "Fizzy + SQLite",
+      "health": null,
+      "activeProjects": 3,
+      "recentProjects": 0,
+      "projects": 15,
+      "isVerified": false,
+      "createdAt": "2025-12-08T21:43:51.264Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "QZn_BX",
+    "name": "GoToSocial (SQLite)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A fast, fun, and small ActivityPub server for the Fediverse",
+    "live": {
+      "code": "QZn_BX",
+      "name": "GoToSocial (SQLite)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2025-05-15T08:09:38.588Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "fastapi-sqlite-crud",
+    "name": "FastAPI SQLite CRUD",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A FastAPI SQLite CRUD: dark-themed UI, search, stats dashboard, RESTful API",
+    "live": {
+      "code": "fastapi-sqlite-crud",
+      "name": "FastAPI SQLite CRUD",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-02-22T21:45:48.412Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "snackbase-sqlite",
+    "name": "SnackBase - SQLite",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A template to spin SnackBase instance with SQLite db",
+    "live": {
+      "code": "snackbase-sqlite",
+      "name": "SnackBase - SQLite",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-02-21T13:41:20.669Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 15,
+    "code": "rocket-sqlite",
+    "name": "Rocket Sqlite",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Persistent SQLite database with Railway Volumes",
+    "live": {
+      "code": "rocket-sqlite",
+      "name": "Rocket Sqlite",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-06T09:03:21.798Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 16,
+    "code": "aphex-website-sqlite-volume",
+    "name": "Aphex Website (SQLite + Volume)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Aphex Website Template using SQLite and a volume mount",
+    "live": {
+      "code": "aphex-website-sqlite-volume",
+      "name": "Aphex Website (SQLite + Volume)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-09-12T12:48:28.565Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 17,
+    "code": "sqlite-hub",
+    "name": "SQLite Hub",
+    "deploymentCount": 4,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "A centralized SQLite storage service for internal Railway workloads.",
+    "live": {
+      "code": "sqlite-hub",
+      "name": "SQLite Hub",
+      "health": 0,
+      "activeProjects": 4,
+      "recentProjects": 4,
+      "projects": 7,
+      "isVerified": false,
+      "createdAt": "2026-03-02T19:28:57.244Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 18,
+    "code": "instatic-cms-sqlite",
+    "name": "Instatic CMS - SQLite",
+    "deploymentCount": 1091,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Design, build and manage powerful static sites from state-of-the-art CMS",
+    "live": {
+      "code": "instatic-cms-sqlite",
+      "name": "Instatic CMS - SQLite",
+      "health": 100,
+      "activeProjects": 1091,
+      "recentProjects": 1185,
+      "projects": 1281,
+      "isVerified": false,
+      "createdAt": "2026-06-09T17:39:36.836Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 19,
+    "code": "ferro-labs-ai-sqlite-storage",
+    "name": "Ferro Labs AI - SQLite storage",
+    "deploymentCount": 3,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Unified AI Gateway - All your traffic. One gateway - SQLite storage.",
+    "live": {
+      "code": "ferro-labs-ai-sqlite-storage",
+      "name": "Ferro Labs AI - SQLite storage",
+      "health": null,
+      "activeProjects": 3,
+      "recentProjects": 3,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2026-04-09T08:32:48.622Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 20,
+    "code": "inngest-single-node-sqlite",
+    "name": "Inngest Single Node (SQLite)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Platform for running durable, event‑driven workflows and background jobs",
+    "live": {
+      "code": "inngest-single-node-sqlite",
+      "name": "Inngest Single Node (SQLite)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-02-05T04:40:42.551Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 21,
+    "code": "rustpad-persistent",
+    "name": "Rustpad Persistent - Collaborative Editor with SQLite",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Rustpad collaborative editor with SQLite persistence on a volume.",
+    "live": {
+      "code": "rustpad-persistent",
+      "name": "Rustpad Persistent - Collaborative Editor with SQLite",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-05-23T15:12:45.643Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 22,
+    "code": "official-fastapi-backend-sqlite",
+    "name": "official-fastapi-backend-sqlite",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Zero-config FastAPI + SQLite backend, one-click on Railway",
+    "live": {
+      "code": "official-fastapi-backend-sqlite",
+      "name": "official-fastapi-backend-sqlite",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-06T11:41:22.564Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 23,
+    "code": "libsql-standalone-1",
+    "name": "libSQL - Standalone",
+    "deploymentCount": 1,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "SQLite with features like embedded replicas and remote accesses.",
+    "live": {
+      "code": "libsql-standalone-1",
+      "name": "libSQL - Standalone",
+      "health": null,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-01T11:52:21.476Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 24,
+    "code": "libsql-replica-node",
+    "name": "libSQL - Replica Node",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "SQLite with features like embedded replicas and remote access.",
+    "live": {
+      "code": "libsql-replica-node",
+      "name": "libSQL - Replica Node",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-01T11:46:15.863Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 25,
+    "code": "libsql-primary-node",
+    "name": "libSQL - Primary Node",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "SQLite with features like embedded replicas and remote access.",
+    "live": {
+      "code": "libsql-primary-node",
+      "name": "libSQL - Primary Node",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-01T11:24:49.396Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 26,
+    "code": "datasette",
+    "name": "Datasette",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Publishes SQLite databases as a browsable website and JSON API",
+    "live": {
+      "code": "datasette",
+      "name": "Datasette",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-09-04T08:56:19.024Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 27,
+    "code": "p121Tx",
+    "name": "libSQL Server",
+    "deploymentCount": 26,
+    "healthScore": 95,
+    "isVerified": false,
+    "description": "libSQL is SQLite for modern applications",
+    "live": {
+      "code": "p121Tx",
+      "name": "libSQL Server",
+      "health": 95,
+      "activeProjects": 26,
+      "recentProjects": 4,
+      "projects": 87,
+      "isVerified": false,
+      "createdAt": "2024-03-18T22:18:06.660Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 28,
+    "code": "trailbase",
+    "name": "TrailBase",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Open-source backend with SQLite, auth, realtime APIs, and an admin UI",
+    "live": {
+      "code": "trailbase",
+      "name": "TrailBase",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-30T13:06:13.233Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 29,
+    "code": "pocketbase-standalone",
+    "name": "Pocketbase Standalone [Aug 26]",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Open source backend — SQLite, REST API, auth, admin UI · Updated Aug 26",
+    "live": {
+      "code": "pocketbase-standalone",
+      "name": "Pocketbase Standalone [Aug 26]",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-01T20:06:02.662Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 30,
+    "code": "linkace-bookmark-archive",
+    "name": "LinkAce Bookmark Archive",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Bookmarks with SQLite search, persistent storage and protected setup.",
+    "live": {
+      "code": "linkace-bookmark-archive",
+      "name": "LinkAce Bookmark Archive",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-19T07:17:26.133Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 31,
+    "code": "part-db",
+    "name": "Part-DB",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Electronic parts inventory with SQLite, attachments, and persistent media.",
+    "live": {
+      "code": "part-db",
+      "name": "Part-DB",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-19T06:33:49.511Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 32,
+    "code": "faithful-motivation",
+    "name": "Snipe IT Lite",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "IT asset management with SQLite, single container",
+    "live": {
+      "code": "faithful-motivation",
+      "name": "Snipe IT Lite",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-09-23T22:26:52.192Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 33,
+    "code": "n8n-7",
+    "name": "N8N",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "n8n on SQLite in a single service with a volume. Cheapest to run.",
+    "live": {
+      "code": "n8n-7",
+      "name": "N8N",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-25T12:32:26.745Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 34,
+    "code": "nomad",
+    "name": "NOMAD",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-hosted collaborative travel planning with durable SQLite storage.",
+    "live": {
+      "code": "nomad",
+      "name": "NOMAD",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 1,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-03-26T19:54:34.822Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 35,
+    "code": "qdi8HH",
+    "name": "Deno KV | Open Source Key-Value Database for Deno Apps",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-hosted Deno.openKv() backend with SQLite storage",
+    "live": {
+      "code": "qdi8HH",
+      "name": "Deno KV | Open Source Key-Value Database for Deno Apps",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 1,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2024-10-11T19:40:15.507Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 36,
+    "code": "gomodel-lite",
+    "name": "GoModel Lite",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Single-instance AI gateway with SQLite and OpenAI/Anthropic APIs.",
+    "live": {
+      "code": "gomodel-lite",
+      "name": "GoModel Lite",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-09T12:52:56.324Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 37,
+    "code": "convex-1",
+    "name": "Convex",
+    "deploymentCount": 58,
+    "healthScore": 92,
+    "isVerified": false,
+    "description": "Reactive backend and dashboard with persistent SQLite and HTTP actions.",
+    "live": {
+      "code": "convex-1",
+      "name": "Convex",
+      "health": 92,
+      "activeProjects": 58,
+      "recentProjects": 6,
+      "projects": 218,
+      "isVerified": false,
+      "createdAt": "2025-03-07T21:42:19.233Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 38,
+    "code": "pocketbase-firebase-alternative",
+    "name": "PocketBase — Open Source Firebase Alternative",
+    "deploymentCount": 3,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "[Aug'26] Self-hosted PocketBase: SQLite backend, auth & realtime API.",
+    "live": {
+      "code": "pocketbase-firebase-alternative",
+      "name": "PocketBase — Open Source Firebase Alternative",
+      "health": null,
+      "activeProjects": 3,
+      "recentProjects": 0,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-04-30T06:29:35.084Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 39,
+    "code": "wealthfolio",
+    "name": "Wealthfolio",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Personal finance and investment tracking with persistent SQLite storage.",
+    "live": {
+      "code": "wealthfolio",
+      "name": "Wealthfolio",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-07-27T09:06:18.784Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 40,
+    "code": "django",
+    "name": "Django",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Deploy Django on Railway with Gunicorn and SQLite quick-start defaults.",
+    "live": {
+      "code": "django",
+      "name": "Django",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-31T23:36:00.457Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 41,
+    "code": "traggo-time-tracking",
+    "name": "Traggo time tracking",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Private tag-based time tracking with durable SQLite storage.",
+    "live": {
+      "code": "traggo-time-tracking",
+      "name": "Traggo time tracking",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-10T16:38:32.769Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 42,
+    "code": "lldap-directory-server",
+    "name": "LLDAP directory server",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Lightweight LDAP identity management with durable SQLite data.",
+    "live": {
+      "code": "lldap-directory-server",
+      "name": "LLDAP directory server",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-10T19:49:46.070Z",
+      "category": "Authentication"
+    }
+  },
+  {
+    "pos": 43,
+    "code": "blobasaur",
+    "name": "blobasaur",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Redis-protocol blob store backed by sharded SQLite on a volume",
+    "live": {
+      "code": "blobasaur",
+      "name": "blobasaur",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-14T18:41:03.142Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 44,
+    "code": "trailbase-api",
+    "name": "TrailBase",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Single-executable app backend with SQLite, REST APIs and auth",
+    "live": {
+      "code": "trailbase-api",
+      "name": "TrailBase",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-15T11:42:34.207Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 45,
+    "code": "lingarr-subtitle-translation",
+    "name": "Lingarr Subtitle Translation",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A private subtitle translation service with persistent SQLite settings.",
+    "live": {
+      "code": "lingarr-subtitle-translation",
+      "name": "Lingarr Subtitle Translation",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-19T07:17:36.728Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 46,
+    "code": "cooktrace-personal-tracker",
+    "name": "CookTrace Personal Tracker",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Private recipes and meal planning with SQLite and uploads.",
+    "live": {
+      "code": "cooktrace-personal-tracker",
+      "name": "CookTrace Personal Tracker",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-22T06:54:15.009Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 47,
+    "code": "linkora-sync-server",
+    "name": "Linkora Sync Server",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Token-protected Linkora synchronization with persistent SQLite.",
+    "live": {
+      "code": "linkora-sync-server",
+      "name": "Linkora Sync Server",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-22T06:55:31.859Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 48,
+    "code": "trailbase-1",
+    "name": "TrailBase",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "TrailBase 0.33 Rust and SQLite app server with auth, APIs and admin UI.",
+    "live": {
+      "code": "trailbase-1",
+      "name": "TrailBase",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-24T02:07:23.805Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 49,
+    "code": "nutritrace-personal-tracker",
+    "name": "NutriTrace Personal Tracker",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Private nutrition and food records with SQLite and uploads.",
+    "live": {
+      "code": "nutritrace-personal-tracker",
+      "name": "NutriTrace Personal Tracker",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-22T06:55:47.573Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 50,
+    "code": "aircache",
+    "name": "AirBoost",
+    "deploymentCount": 1,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "High-performance SQLite database for Airtable",
+    "live": {
+      "code": "aircache",
+      "name": "AirBoost",
+      "health": 0,
+      "activeProjects": 1,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2025-09-22T11:37:20.752Z",
+      "category": "Storage"
+    }
+  }
+]

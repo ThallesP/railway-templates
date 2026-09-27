@@ -1,0 +1,1002 @@
+[
+  {
+    "pos": 1,
+    "code": "redis",
+    "name": "Redis",
+    "deploymentCount": 16678,
+    "healthScore": 100,
+    "isVerified": true,
+    "description": "Deploy and Host Redis with Railway",
+    "live": {
+      "code": "redis",
+      "name": "Redis",
+      "health": 100,
+      "activeProjects": 16678,
+      "recentProjects": 5411,
+      "projects": 23449,
+      "isVerified": true,
+      "createdAt": "2025-07-29T20:17:37.979Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "redis-1",
+    "name": "Redis",
+    "deploymentCount": 8,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self Host Latest Redis with Railway",
+    "live": {
+      "code": "redis-1",
+      "name": "Redis",
+      "health": 100,
+      "activeProjects": 8,
+      "recentProjects": 8,
+      "projects": 8,
+      "isVerified": false,
+      "createdAt": "2026-07-23T06:02:44.039Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "redis-2",
+    "name": "Redis",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Run Redis 7 on Railway with official image and persistence hints.",
+    "live": {
+      "code": "redis-2",
+      "name": "Redis",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-31T23:36:18.749Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "675ZtP",
+    "name": "Redis Stack",
+    "deploymentCount": 21,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Redis Stack is an enhanced version of Redis. (Legacy)",
+    "live": {
+      "code": "675ZtP",
+      "name": "Redis Stack",
+      "health": 100,
+      "activeProjects": 21,
+      "recentProjects": 2,
+      "projects": 53,
+      "isVerified": false,
+      "createdAt": "2024-10-12T22:08:43.412Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "hBFwO4",
+    "name": "Serverless Redis | Open Source Upstash Alternative with REST API",
+    "deploymentCount": 20,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Redis behind an HTTP REST API — drop-in for @upstash/redis",
+    "live": {
+      "code": "hBFwO4",
+      "name": "Serverless Redis | Open Source Upstash Alternative with REST API",
+      "health": 100,
+      "activeProjects": 20,
+      "recentProjects": 0,
+      "projects": 73,
+      "isVerified": false,
+      "createdAt": "2024-07-05T21:20:41.274Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "VTDMG5",
+    "name": "Redis Stack",
+    "deploymentCount": 4,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Redis Stack is an enhanced version of Redis. Updated template.",
+    "live": {
+      "code": "VTDMG5",
+      "name": "Redis Stack",
+      "health": 100,
+      "activeProjects": 4,
+      "recentProjects": 1,
+      "projects": 15,
+      "isVerified": false,
+      "createdAt": "2025-04-01T14:45:57.857Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "redis-insights-redis-gui",
+    "name": "Redis Insights - Redis UI",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "An official GUI for Redis",
+    "live": {
+      "code": "redis-insights-redis-gui",
+      "name": "Redis Insights - Redis UI",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 0,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2025-08-17T01:26:10.488Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "redis-redis-commander-web-ui",
+    "name": "Redis + Redis Commander Web UI",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "One Click Redis + Redis Commander Web UI with Railway",
+    "live": {
+      "code": "redis-redis-commander-web-ui",
+      "name": "Redis + Redis Commander Web UI",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 0,
+      "projects": 10,
+      "isVerified": false,
+      "createdAt": "2025-07-11T15:47:39.279Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "redis-maintained",
+    "name": "Redis (maintained)",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Redis key-value data store (maintained template)",
+    "live": {
+      "code": "redis-maintained",
+      "name": "Redis (maintained)",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 0,
+      "projects": 6,
+      "isVerified": false,
+      "createdAt": "2026-03-08T16:31:35.674Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "redis-ha",
+    "name": "Redis HA",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Redis HA cluster with colocated Sentinel and HAProxy entry point",
+    "live": {
+      "code": "redis-ha",
+      "name": "Redis HA",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 305,
+      "projects": 305,
+      "isVerified": false,
+      "createdAt": "2026-07-22T18:22:43.373Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "bitnami-redis",
+    "name": "Redis (Bitnami)",
+    "deploymentCount": 9052,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Redis key-value data store",
+    "live": {
+      "code": "bitnami-redis",
+      "name": "Redis (Bitnami)",
+      "health": 96,
+      "activeProjects": 9052,
+      "recentProjects": 23,
+      "projects": 15161,
+      "isVerified": false,
+      "createdAt": "2023-09-08T22:53:30.963Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "73Vsr6",
+    "name": "Redis Metrics Prometheus Exporter",
+    "deploymentCount": 2,
+    "healthScore": 83,
+    "isVerified": false,
+    "description": "A Prometheus exporter for gathering metrics about your Railway Redis DB",
+    "live": {
+      "code": "73Vsr6",
+      "name": "Redis Metrics Prometheus Exporter",
+      "health": 83,
+      "activeProjects": 2,
+      "recentProjects": 1,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2023-10-05T19:32:30.159Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "y5XLWL",
+    "name": "Redis Stack (6.2.6-v19)",
+    "deploymentCount": 2,
+    "healthScore": 80,
+    "isVerified": false,
+    "description": "Redis with extended capabilities.",
+    "live": {
+      "code": "y5XLWL",
+      "name": "Redis Stack (6.2.6-v19)",
+      "health": 80,
+      "activeProjects": 2,
+      "recentProjects": 0,
+      "projects": 6,
+      "isVerified": false,
+      "createdAt": "2025-03-18T15:22:00.799Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "redis-by-bitnami",
+    "name": "Redis by Bitnami",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Secure, persistent Redis powered by Bitnami. Deploy in 1-click 🚀",
+    "live": {
+      "code": "redis-by-bitnami",
+      "name": "Redis by Bitnami",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-29T05:46:26.855Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 15,
+    "code": "redis-insight",
+    "name": "Redis Insight",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Redis UI for real-time monitoring, debugging, and data analysis.",
+    "live": {
+      "code": "redis-insight",
+      "name": "Redis Insight",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-03-27T06:49:53.289Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 16,
+    "code": "redis-migrator",
+    "name": "Redis Migrator",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Migrate data from a source Redis to a target Redis database",
+    "live": {
+      "code": "redis-migrator",
+      "name": "Redis Migrator",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 7,
+      "isVerified": false,
+      "createdAt": "2023-11-03T17:23:25.114Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 17,
+    "code": "redis-ha-cluster-sentinel",
+    "name": "🚀 Redis HA Cluster (Sentinel)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "🚀 High-Availability Redis featuring Master-Replica with Redis Sentinel",
+    "live": {
+      "code": "redis-ha-cluster-sentinel",
+      "name": "🚀 Redis HA Cluster (Sentinel)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 6,
+      "isVerified": false,
+      "createdAt": "2026-01-21T08:20:47.257Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 18,
+    "code": "redis-ha-w-cluster-mode-sharded-33",
+    "name": "Redis HA (w/ Cluster Mode, Sharded 3+3)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "One‑click Redis Cluster (3 nodes + 3 replicas) with automatic failover",
+    "live": {
+      "code": "redis-ha-w-cluster-mode-sharded-33",
+      "name": "Redis HA (w/ Cluster Mode, Sharded 3+3)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2025-12-11T03:54:35.872Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 19,
+    "code": "redis-backuper-s3",
+    "name": "redis-backuper-s3",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "backup your redis db and upload to a s3 bucket",
+    "live": {
+      "code": "redis-backuper-s3",
+      "name": "redis-backuper-s3",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2025-08-20T08:51:43.491Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 20,
+    "code": "JkJ8MG",
+    "name": "Redis : 1$",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "n8n-Optimized Redis Database",
+    "live": {
+      "code": "JkJ8MG",
+      "name": "Redis : 1$",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2025-05-14T11:19:35.632Z",
+      "category": "Queues"
+    }
+  },
+  {
+    "pos": 21,
+    "code": "redis-stack",
+    "name": "Redis with UI",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Run Redis with a powerful visual management UI, ready in just 1 click.",
+    "live": {
+      "code": "redis-stack",
+      "name": "Redis with UI",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-03-27T06:16:23.700Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 22,
+    "code": "redis-latest",
+    "name": "Redis Latest",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "[Aug'26] Deploy and Host Redis Latest with Railway",
+    "live": {
+      "code": "redis-latest",
+      "name": "Redis Latest",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-02-15T13:01:04.166Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 23,
+    "code": "redis-ha-w-sentinel",
+    "name": "Redis HA (w/ Sentinel)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "One-click Redis replica set with Sentinel for automated failover",
+    "live": {
+      "code": "redis-ha-w-sentinel",
+      "name": "Redis HA (w/ Sentinel)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2025-12-10T22:28:27.535Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 24,
+    "code": "redis-bitnami-1",
+    "name": "Redis Bitnami",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Redis key-value store (Bitnami) - cache, sessions, queues, pub/sub",
+    "live": {
+      "code": "redis-bitnami-1",
+      "name": "Redis Bitnami",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-07-21T02:50:21.592Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 25,
+    "code": "redis-ui",
+    "name": "Redis UI",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Manage and explore Redis visually with a powerful web UI, ready in 1 click.",
+    "live": {
+      "code": "redis-ui",
+      "name": "Redis UI",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-20T16:32:04.143Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 26,
+    "code": "redisinsight",
+    "name": "RedisInsight | Official Redis GUI on Railway",
+    "deploymentCount": 6,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-host the Redis GUI. Browse keys, profile memory, run commands",
+    "live": {
+      "code": "redisinsight",
+      "name": "RedisInsight | Official Redis GUI on Railway",
+      "health": 100,
+      "activeProjects": 6,
+      "recentProjects": 1,
+      "projects": 10,
+      "isVerified": false,
+      "createdAt": "2026-03-17T20:51:02.578Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 27,
+    "code": "serverless-redis",
+    "name": "Serverless Redis",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "High Performance HTTP server for Redis with Upstash compatibility.",
+    "live": {
+      "code": "serverless-redis",
+      "name": "Serverless Redis",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2025-11-21T15:38:15.379Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 28,
+    "code": "dragonfly-redis-alternative",
+    "name": "Dragonfly | Redis-Compatible Data Store",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self Host Dragonfly. High-performance Redis-compatible data store",
+    "live": {
+      "code": "dragonfly-redis-alternative",
+      "name": "Dragonfly | Redis-Compatible Data Store",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-04-17T17:36:03.397Z",
+      "category": "Queues"
+    }
+  },
+  {
+    "pos": 29,
+    "code": "upstash-redis-adaptor",
+    "name": "Upstash Redis Adaptor",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-hosted Upstash-compatible Redis HTTP API for edge environments",
+    "live": {
+      "code": "upstash-redis-adaptor",
+      "name": "Upstash Redis Adaptor",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-01-03T18:40:47.359Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 30,
+    "code": "automatisch",
+    "name": "Automatisch - with Redis & Postgres",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Zapier alternative. Build workflow automation without code.",
+    "live": {
+      "code": "automatisch",
+      "name": "Automatisch - with Redis & Postgres",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-03-19T23:50:02.261Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 31,
+    "code": "rubix-redis-bridge",
+    "name": "Rubix Redis Bridge with Redis",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Secure Redis HTTP bridge with Upstash SDK compatibility.",
+    "live": {
+      "code": "rubix-redis-bridge",
+      "name": "Rubix Redis Bridge with Redis",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-16T00:41:48.036Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 32,
+    "code": "lightcrawl-with-redis",
+    "name": "LightCrawl with Redis",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Scalable LightCrawl with Redis backend for distributed queue-based crawling",
+    "live": {
+      "code": "lightcrawl-with-redis",
+      "name": "LightCrawl with Redis",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-06-26T05:27:34.888Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 33,
+    "code": "dragonfly-redis-replacement",
+    "name": "Dragonfly — Redis Replacement, 25x Faster, No Cluster",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host Dragonfly: drop-in Redis replacement, 25x throughput. No cluster.",
+    "live": {
+      "code": "dragonfly-redis-replacement",
+      "name": "Dragonfly — Redis Replacement, 25x Faster, No Cluster",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 3,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-07-01T10:36:38.878Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 34,
+    "code": "wordpress-with-redis",
+    "name": "WordPress with Redis",
+    "deploymentCount": 7,
+    "healthScore": 56,
+    "isVerified": false,
+    "description": "Deploy WordPress with MariaDB and Redis ",
+    "live": {
+      "code": "wordpress-with-redis",
+      "name": "WordPress with Redis",
+      "health": 56,
+      "activeProjects": 7,
+      "recentProjects": 2,
+      "projects": 40,
+      "isVerified": false,
+      "createdAt": "2025-08-11T02:17:04.622Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 35,
+    "code": "openwebui",
+    "name": "Open WebUI [with Postgres & Redis]",
+    "deploymentCount": 91,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-host OpenWebUI; Postgres survives redeploys, Redis scales sessions",
+    "live": {
+      "code": "openwebui",
+      "name": "Open WebUI [with Postgres & Redis]",
+      "health": 100,
+      "activeProjects": 91,
+      "recentProjects": 80,
+      "projects": 155,
+      "isVerified": false,
+      "createdAt": "2026-03-09T20:06:59.337Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 36,
+    "code": "evolution-api-236-with-redis-and-postgre",
+    "name": "Evolution API 2.3.6 with redis and postgresql",
+    "deploymentCount": 14,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host Evolution API 2.3.6 with redis and postgresql with Railway",
+    "live": {
+      "code": "evolution-api-236-with-redis-and-postgre",
+      "name": "Evolution API 2.3.6 with redis and postgresql",
+      "health": 100,
+      "activeProjects": 14,
+      "recentProjects": 17,
+      "projects": 17,
+      "isVerified": false,
+      "createdAt": "2026-07-28T21:02:25.787Z",
+      "category": "Bots"
+    }
+  },
+  {
+    "pos": 37,
+    "code": "directus-with-postgres-redis-and-auto-ba",
+    "name": "Directus with S3, Postgres, Redis, and Auto Backups",
+    "deploymentCount": 6,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy Directus CMS with Postgres, Redis, and Auto Backups in one click!",
+    "live": {
+      "code": "directus-with-postgres-redis-and-auto-ba",
+      "name": "Directus with S3, Postgres, Redis, and Auto Backups",
+      "health": 100,
+      "activeProjects": 6,
+      "recentProjects": 1,
+      "projects": 7,
+      "isVerified": false,
+      "createdAt": "2025-07-24T18:24:03.440Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 38,
+    "code": "vikunja-230-w-paradedb-redis",
+    "name": "Vikunja 2.3.0 (w/ ParadeDB, Redis)",
+    "deploymentCount": 5,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Solid task manager with mobile app",
+    "live": {
+      "code": "vikunja-230-w-paradedb-redis",
+      "name": "Vikunja 2.3.0 (w/ ParadeDB, Redis)",
+      "health": 100,
+      "activeProjects": 5,
+      "recentProjects": 4,
+      "projects": 14,
+      "isVerified": false,
+      "createdAt": "2026-04-19T20:24:52.381Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 39,
+    "code": "wordpress-nginx-ph-1",
+    "name": "Wordpress Nginx PHP-FPM Redis",
+    "deploymentCount": 23,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Production-grade Wordpress 7 on PHP-FPM, mySQL & Redis",
+    "live": {
+      "code": "wordpress-nginx-ph-1",
+      "name": "Wordpress Nginx PHP-FPM Redis",
+      "health": 96,
+      "activeProjects": 23,
+      "recentProjects": 3,
+      "projects": 60,
+      "isVerified": false,
+      "createdAt": "2026-01-02T00:07:04.046Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 40,
+    "code": "openwa-w-dashboard-postgres-redis-and-mi",
+    "name": "OpenWA (w/ Dashboard, Postgres, Redis and MinIO)",
+    "deploymentCount": 11,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Deploy OpenWA on Railway. WhatsApp REST API. One click.",
+    "live": {
+      "code": "openwa-w-dashboard-postgres-redis-and-mi",
+      "name": "OpenWA (w/ Dashboard, Postgres, Redis and MinIO)",
+      "health": 96,
+      "activeProjects": 11,
+      "recentProjects": 9,
+      "projects": 28,
+      "isVerified": false,
+      "createdAt": "2026-05-18T22:42:14.904Z",
+      "category": "Bots"
+    }
+  },
+  {
+    "pos": 41,
+    "code": "n8n-v2-postgres-redis-workers",
+    "name": "n8n v2 (Postgres + Redis + Workers)",
+    "deploymentCount": 10,
+    "healthScore": 88,
+    "isVerified": false,
+    "description": "Distributed n8n v2 setup with Postgres, Redis and worker execution",
+    "live": {
+      "code": "n8n-v2-postgres-redis-workers",
+      "name": "n8n v2 (Postgres + Redis + Workers)",
+      "health": 88,
+      "activeProjects": 10,
+      "recentProjects": 3,
+      "projects": 20,
+      "isVerified": false,
+      "createdAt": "2025-12-18T17:29:04.165Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 42,
+    "code": "n8n-with-ollama-to-build-private-self-ho",
+    "name": "N8N [w/ Postgres + Redis + Ollama] | Pro Stack",
+    "deploymentCount": 6,
+    "healthScore": 89,
+    "isVerified": false,
+    "description": "[Jun '26] Build Automation Workflows Using Self Hosted LLM Models",
+    "live": {
+      "code": "n8n-with-ollama-to-build-private-self-ho",
+      "name": "N8N [w/ Postgres + Redis + Ollama] | Pro Stack",
+      "health": 89,
+      "activeProjects": 6,
+      "recentProjects": 1,
+      "projects": 17,
+      "isVerified": false,
+      "createdAt": "2026-01-12T19:10:12.842Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 43,
+    "code": "laravel-starter-kit-livewire-mysql-redis",
+    "name": "Laravel Starter Kit Livewire (MySQL, Redis)",
+    "deploymentCount": 1,
+    "healthScore": 86,
+    "isVerified": false,
+    "description": "Livewire starter kit powered by FrankenPHP, MySQL and Redis",
+    "live": {
+      "code": "laravel-starter-kit-livewire-mysql-redis",
+      "name": "Laravel Starter Kit Livewire (MySQL, Redis)",
+      "health": 86,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2025-12-08T01:48:45.594Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 44,
+    "code": "n8n-queue-mode-postgresredis-backups",
+    "name": "n8n Queue Mode + Postgres/Redis + Backups",
+    "deploymentCount": 1,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "n8n queue mode with Postgres, Redis, workers, and backups.",
+    "live": {
+      "code": "n8n-queue-mode-postgresredis-backups",
+      "name": "n8n Queue Mode + Postgres/Redis + Backups",
+      "health": null,
+      "activeProjects": 1,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-05-23T20:10:38.545Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 45,
+    "code": "openwa-w-postgres-redis-and-minio",
+    "name": "OpenWA (w/ Postgres, Redis and MinIO)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Deploy OpenWA on Railway. WhatsApp REST API. One click.",
+    "live": {
+      "code": "openwa-w-postgres-redis-and-minio",
+      "name": "OpenWA (w/ Postgres, Redis and MinIO)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-05-18T21:45:48.089Z",
+      "category": "Bots"
+    }
+  },
+  {
+    "pos": 46,
+    "code": "apache-superset-postgresredis",
+    "name": "Apache Superset + Postgres/Redis",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Apache Superset BI with Postgres, Redis, and persistent volumes.",
+    "live": {
+      "code": "apache-superset-postgresredis",
+      "name": "Apache Superset + Postgres/Redis",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-29T16:48:16.599Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 47,
+    "code": "teable-postgres-redis",
+    "name": "Teable + Postgres/Redis - Open-Source Airtable Alternative",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Teable Airtable alternative with Postgres, Redis, assets, and secrets.",
+    "live": {
+      "code": "teable-postgres-redis",
+      "name": "Teable + Postgres/Redis - Open-Source Airtable Alternative",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-05-23T15:06:16.776Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 48,
+    "code": "paperless-ngx-postgres-redis",
+    "name": "Paperless-ngx + Postgres/Redis - Document Archive with OCR",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Paperless-ngx document archive with Postgres, Redis, Tika, and OCR.",
+    "live": {
+      "code": "paperless-ngx-postgres-redis",
+      "name": "Paperless-ngx + Postgres/Redis - Document Archive with OCR",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-05-23T15:10:20.473Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 49,
+    "code": "wordpress-pro",
+    "name": "WordPress Pro | Redis Cache, Nightly Backups, Secure Setup",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "WordPress with Redis object cache, nightly backups and no open installer",
+    "live": {
+      "code": "wordpress-pro",
+      "name": "WordPress Pro | Redis Cache, Nightly Backups, Secure Setup",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-22T23:28:47.848Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 50,
+    "code": "fes8j0",
+    "name": "n8n (workers + internal Redis + webhook processor)",
+    "deploymentCount": 116,
+    "healthScore": 72,
+    "isVerified": false,
+    "description": "n8n w/internal Redis, Postgres, workers, webhook processor. 1-click deploy.",
+    "live": {
+      "code": "fes8j0",
+      "name": "n8n (workers + internal Redis + webhook processor)",
+      "health": 72,
+      "activeProjects": 116,
+      "recentProjects": 0,
+      "projects": 229,
+      "isVerified": false,
+      "createdAt": "2025-03-25T03:10:53.292Z",
+      "category": "Automation"
+    }
+  }
+]

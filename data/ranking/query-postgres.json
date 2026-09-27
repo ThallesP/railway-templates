@@ -1,0 +1,1002 @@
+[
+  {
+    "pos": 1,
+    "code": "postgres",
+    "name": "PostgreSQL",
+    "deploymentCount": 269952,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL database service",
+    "live": {
+      "code": "postgres",
+      "name": "PostgreSQL",
+      "health": 100,
+      "activeProjects": 269952,
+      "recentProjects": 54017,
+      "projects": 376061,
+      "isVerified": false,
+      "createdAt": "2023-09-07T21:56:27.474Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "postgres-with-pgvector-engine",
+    "name": "Postgres with pgVector Engine",
+    "deploymentCount": 73,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "[Jun '26] Host a PostgreSQL database with vector support in under 1 minute",
+    "live": {
+      "code": "postgres-with-pgvector-engine",
+      "name": "Postgres with pgVector Engine",
+      "health": 100,
+      "activeProjects": 73,
+      "recentProjects": 22,
+      "projects": 132,
+      "isVerified": false,
+      "createdAt": "2025-11-30T06:17:16.129Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "postgres-pgbouncer",
+    "name": "Postgres + PgBouncer",
+    "deploymentCount": 30,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy Postgres + PgBouncer for efficient DB pooling",
+    "live": {
+      "code": "postgres-pgbouncer",
+      "name": "Postgres + PgBouncer",
+      "health": 100,
+      "activeProjects": 30,
+      "recentProjects": 9,
+      "projects": 86,
+      "isVerified": false,
+      "createdAt": "2025-09-13T14:16:45.493Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "postgres-17",
+    "name": "postgres-17",
+    "deploymentCount": 11,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host postgres-17 with Railway",
+    "live": {
+      "code": "postgres-17",
+      "name": "postgres-17",
+      "health": 100,
+      "activeProjects": 11,
+      "recentProjects": 1,
+      "projects": 18,
+      "isVerified": false,
+      "createdAt": "2025-07-14T03:24:02.142Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "0c4k7A",
+    "name": "PostgreSQL with PostGIS and H3",
+    "deploymentCount": 8,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Postgres image supporting PostGIS and Uber's H3 extensions.",
+    "live": {
+      "code": "0c4k7A",
+      "name": "PostgreSQL with PostGIS and H3",
+      "health": 100,
+      "activeProjects": 8,
+      "recentProjects": 1,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2025-05-04T14:19:15.059Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "postgres-18",
+    "name": "postgres-18",
+    "deploymentCount": 6,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host PostgreSQL 18 with SSL on Railway",
+    "live": {
+      "code": "postgres-18",
+      "name": "postgres-18",
+      "health": 100,
+      "activeProjects": 6,
+      "recentProjects": 4,
+      "projects": 11,
+      "isVerified": false,
+      "createdAt": "2025-12-23T07:05:23.622Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "postgres-ha",
+    "name": "Postgres HA",
+    "deploymentCount": 6,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A Patroni based High Availability Postgres using etcd",
+    "live": {
+      "code": "postgres-ha",
+      "name": "Postgres HA",
+      "health": 100,
+      "activeProjects": 6,
+      "recentProjects": 2139,
+      "projects": 4716,
+      "isVerified": false,
+      "createdAt": "2025-12-08T23:59:21.432Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "postgres-to-r2-backup",
+    "name": "Postgres Backup to Cloudflare R2 (S3-Compatible)",
+    "deploymentCount": 5,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Automated PostgreSQL backups to S3-compatible storage with encryption",
+    "live": {
+      "code": "postgres-to-r2-backup",
+      "name": "Postgres Backup to Cloudflare R2 (S3-Compatible)",
+      "health": 100,
+      "activeProjects": 5,
+      "recentProjects": 0,
+      "projects": 7,
+      "isVerified": false,
+      "createdAt": "2025-09-13T13:45:37.241Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "railway-postgres-migration",
+    "name": "Postgres Data Migration",
+    "deploymentCount": 5,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Copy data of postgres between services on railway",
+    "live": {
+      "code": "railway-postgres-migration",
+      "name": "Postgres Data Migration",
+      "health": 100,
+      "activeProjects": 5,
+      "recentProjects": 7,
+      "projects": 23,
+      "isVerified": false,
+      "createdAt": "2026-03-26T12:02:55.797Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "postgres-mcp",
+    "name": "Postgres MCP",
+    "deploymentCount": 4,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres MCP with Railway",
+    "live": {
+      "code": "postgres-mcp",
+      "name": "Postgres MCP",
+      "health": 100,
+      "activeProjects": 4,
+      "recentProjects": 4,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2026-04-13T14:28:26.641Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "postgres-17-1",
+    "name": "Postgres 17",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres 17 with Railway",
+    "live": {
+      "code": "postgres-17-1",
+      "name": "Postgres 17",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 0,
+      "projects": 8,
+      "isVerified": false,
+      "createdAt": "2025-08-02T18:35:22.009Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "tqxaEg",
+    "name": "Postgres Backup to GCS",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Postgres backups to Google Cloud Storage (GCS)",
+    "live": {
+      "code": "tqxaEg",
+      "name": "Postgres Backup to GCS",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 0,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2023-10-10T17:57:09.559Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "postgres-logs",
+    "name": "Postgres Logs",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Postgres with structured logs and correct severity levels",
+    "live": {
+      "code": "postgres-logs",
+      "name": "Postgres Logs",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2025-10-25T19:21:12.887Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "postgres-18-postgis-pgvector-ssl-pitr-re",
+    "name": "Postgres 18 + PostGIS + pgvector (SSL, PITR-ready)",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres 18 + PostGIS + pgvector (SSL, PITR-ready)",
+    "live": {
+      "code": "postgres-18-postgis-pgvector-ssl-pitr-re",
+      "name": "Postgres 18 + PostGIS + pgvector (SSL, PITR-ready)",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-07-10T16:46:40.039Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 15,
+    "code": "I4zGrH",
+    "name": "Postgres Backup",
+    "deploymentCount": 260,
+    "healthScore": 92,
+    "isVerified": false,
+    "description": "Cron-based PostgreSQL backup to bucket storage",
+    "live": {
+      "code": "I4zGrH",
+      "name": "Postgres Backup",
+      "health": 92,
+      "activeProjects": 260,
+      "recentProjects": 10,
+      "projects": 870,
+      "isVerified": false,
+      "createdAt": "2022-09-01T15:34:33.490Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 16,
+    "code": "postgres-migrator",
+    "name": "Postgres Migrator",
+    "deploymentCount": 12,
+    "healthScore": 89,
+    "isVerified": false,
+    "description": "PostgreSQL database migrator using native pg_dump/pg_restore",
+    "live": {
+      "code": "postgres-migrator",
+      "name": "Postgres Migrator",
+      "health": 89,
+      "activeProjects": 12,
+      "recentProjects": 3,
+      "projects": 59,
+      "isVerified": false,
+      "createdAt": "2025-10-03T12:55:24.506Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 17,
+    "code": "gDzHrM",
+    "name": "Postgres Metrics Prometheus Exporter",
+    "deploymentCount": 8,
+    "healthScore": 95,
+    "isVerified": false,
+    "description": "A Prometheus exporter for gathering metrics about your Railway Postgres DB",
+    "live": {
+      "code": "gDzHrM",
+      "name": "Postgres Metrics Prometheus Exporter",
+      "health": 95,
+      "activeProjects": 8,
+      "recentProjects": 0,
+      "projects": 19,
+      "isVerified": false,
+      "createdAt": "2023-09-23T23:29:30.884Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 18,
+    "code": "1CQq0n",
+    "name": "PostgreSQL HA Cluster (pgvector)",
+    "deploymentCount": 5,
+    "healthScore": 79,
+    "isVerified": false,
+    "description": "Postgres cluster for high availability and redundancy with pgvector",
+    "live": {
+      "code": "1CQq0n",
+      "name": "PostgreSQL HA Cluster (pgvector)",
+      "health": 79,
+      "activeProjects": 5,
+      "recentProjects": 0,
+      "projects": 16,
+      "isVerified": false,
+      "createdAt": "2025-02-04T01:09:05.897Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 19,
+    "code": "postgres-s3-backup",
+    "name": "Postgres S3 Backup",
+    "deploymentCount": 3,
+    "healthScore": 86,
+    "isVerified": false,
+    "description": "A simple method for postgres backups to a S3 instance on railway",
+    "live": {
+      "code": "postgres-s3-backup",
+      "name": "Postgres S3 Backup",
+      "health": 86,
+      "activeProjects": 3,
+      "recentProjects": 2,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2026-03-11T02:22:32.410Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 20,
+    "code": "UYtPO2",
+    "name": "Postgres HTTP",
+    "deploymentCount": 2,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Turns your postgres db into an REST api",
+    "live": {
+      "code": "UYtPO2",
+      "name": "Postgres HTTP",
+      "health": null,
+      "activeProjects": 2,
+      "recentProjects": 0,
+      "projects": 7,
+      "isVerified": false,
+      "createdAt": "2024-12-09T11:31:10.983Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 21,
+    "code": "eIOwd0",
+    "name": "Postgres S3 Backups",
+    "deploymentCount": 1,
+    "healthScore": 90,
+    "isVerified": false,
+    "description": "Backup your Postgres DB to any S3 storage (Backblaze/Cloudflare)",
+    "live": {
+      "code": "eIOwd0",
+      "name": "Postgres S3 Backups",
+      "health": 90,
+      "activeProjects": 1,
+      "recentProjects": 2,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2025-03-04T17:21:17.569Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 22,
+    "code": "postgres-ha-patroni",
+    "name": "Postgres HA | Highly Available Cluster",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host PostgreSQL HA with 0 downtime, auto failover using Patroni & etcd",
+    "live": {
+      "code": "postgres-ha-patroni",
+      "name": "Postgres HA | Highly Available Cluster",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 6,
+      "isVerified": false,
+      "createdAt": "2026-04-16T18:12:16.157Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 23,
+    "code": "postgres-pgbouncer-pgadmin",
+    "name": "Postgres + PgBouncer + PgAdmin",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres + PgBouncer + PgAdmin with Railway",
+    "live": {
+      "code": "postgres-pgbouncer-pgadmin",
+      "name": "Postgres + PgBouncer + PgAdmin",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2025-12-19T09:44:15.096Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 24,
+    "code": "v4zFIs",
+    "name": "Postgres HTTP (Canary)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Turns your postgres db into an REST api",
+    "live": {
+      "code": "v4zFIs",
+      "name": "Postgres HTTP (Canary)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2024-12-13T10:32:14.735Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 25,
+    "code": "7VQo0T",
+    "name": "Postgres Minio Backups",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A Docker to backup your PostgreSQL database to Minio via a cron.",
+    "live": {
+      "code": "7VQo0T",
+      "name": "Postgres Minio Backups",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2024-11-18T03:09:44.398Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 26,
+    "code": "postgres-s3-backup-1",
+    "name": "Postgres S3 Backup (Fastest)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A simple Bun app to back up your PostgreSQL database to S3 via a cron",
+    "live": {
+      "code": "postgres-s3-backup-1",
+      "name": "Postgres S3 Backup (Fastest)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2025-10-14T19:39:04.597Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 27,
+    "code": "postgres-18-ssl",
+    "name": "Postgres 18 SSL",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres 18 SSL with Railway",
+    "live": {
+      "code": "postgres-18-ssl",
+      "name": "Postgres 18 SSL",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-01-17T06:29:55.501Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 28,
+    "code": "postgres-16-or-any-version",
+    "name": "Postgres 16 or Any Version",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Choose tag Postgres version and deploy - default 16",
+    "live": {
+      "code": "postgres-16-or-any-version",
+      "name": "Postgres 16 or Any Version",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-05-17T23:24:48.932Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 29,
+    "code": "postgres-pitr",
+    "name": "Postgres PITR",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres with WAL archiving to a bucket for PITR",
+    "live": {
+      "code": "postgres-pitr",
+      "name": "Postgres PITR",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-05-05T16:23:45.280Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 30,
+    "code": "postgrespostgispgbouncer",
+    "name": "postgres+postgis+pgbouncer",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres+postgis+pgbouncer",
+    "live": {
+      "code": "postgrespostgispgbouncer",
+      "name": "postgres+postgis+pgbouncer",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-06-11T22:16:56.373Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 31,
+    "code": "postgres-with-pgbouncer",
+    "name": "Postgres with PgBouncer",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Add PgBouncer as a connection pooler in front of Postgres",
+    "live": {
+      "code": "postgres-with-pgbouncer",
+      "name": "Postgres with PgBouncer",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-06-10T20:15:13.170Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 32,
+    "code": "postgres-cdc-or-every-row-change-deliver",
+    "name": "Postgres CDC | Every Row Change, Delivered to a Webhook",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Every row change in Postgres, delivered to a webhook. Debezium, no Kafka.",
+    "live": {
+      "code": "postgres-cdc-or-every-row-change-deliver",
+      "name": "Postgres CDC | Every Row Change, Delivered to a Webhook",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-27T20:23:04.362Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 33,
+    "code": "postgres-s3-backup-2",
+    "name": "Postgres S3 backup",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres S3 backup with Railway",
+    "live": {
+      "code": "postgres-s3-backup-2",
+      "name": "Postgres S3 backup",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-06T14:07:51.601Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 34,
+    "code": "timescale-postgis",
+    "name": "TimescaleDB + PostGIS | Open Source Time-Series and Geospatial Postgres",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres 18, TimescaleDB and PostGIS — time-series and geospatial in one DB",
+    "live": {
+      "code": "timescale-postgis",
+      "name": "TimescaleDB + PostGIS | Open Source Time-Series and Geospatial Postgres",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-09T20:36:50.128Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 35,
+    "code": "postgres-ha-read-replica",
+    "name": "Postgres HA Read Replica",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Highly available PostgreSQL with automated failover and a read replica.",
+    "live": {
+      "code": "postgres-ha-read-replica",
+      "name": "Postgres HA Read Replica",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-24T18:05:29.531Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 36,
+    "code": "mathesar-or-just-updated-postgres-spread",
+    "name": "Mathesar | (Just Updated) Postgres Spreadsheet UI Only You Can Claim",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres spreadsheet UI. Admin seeded per deploy, uploads on a volume.",
+    "live": {
+      "code": "mathesar-or-just-updated-postgres-spread",
+      "name": "Mathesar | (Just Updated) Postgres Spreadsheet UI Only You Can Claim",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-24T23:18:15.274Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 37,
+    "code": "pgvector-or-just-updated-postgres-18-vec",
+    "name": "pgvector | (Just Updated) Postgres 18 Vector DB Where HNSW Indexes Actually Build",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres 18 + pgvector, tuned per plan, HNSW indexes that actually build",
+    "live": {
+      "code": "pgvector-or-just-updated-postgres-18-vec",
+      "name": "pgvector | (Just Updated) Postgres 18 Vector DB Where HNSW Indexes Actually Build",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-07T15:23:05.459Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 38,
+    "code": "postgres-x-duckdb",
+    "name": "Postgres x DuckDB",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres 18 with DuckDB using official duckdb image",
+    "live": {
+      "code": "postgres-x-duckdb",
+      "name": "Postgres x DuckDB",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 3,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-09-12T19:23:40.723Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 39,
+    "code": "postgres-daily-backups",
+    "name": "Postgres 🥇 Daily Backups",
+    "deploymentCount": 4,
+    "healthScore": 64,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres 🥇 Daily Backups with Railway",
+    "live": {
+      "code": "postgres-daily-backups",
+      "name": "Postgres 🥇 Daily Backups",
+      "health": 64,
+      "activeProjects": 4,
+      "recentProjects": 2,
+      "projects": 17,
+      "isVerified": false,
+      "createdAt": "2025-07-21T05:42:49.687Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 40,
+    "code": "sparkling-creation",
+    "name": "postgres-s3-backup",
+    "deploymentCount": 1,
+    "healthScore": 67,
+    "isVerified": false,
+    "description": "Automated PostgreSQL backups to S3 with restore verification",
+    "live": {
+      "code": "sparkling-creation",
+      "name": "postgres-s3-backup",
+      "health": 67,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-02-07T18:40:34.174Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 41,
+    "code": "postgresql-18-ha-cluster-ai-and-gis-read",
+    "name": "🚀 PostgreSQL 18 HA Cluster (AI & GIS Ready)",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "🚀 Postgres 18 HA Cluster with AI, GIS, and Cron Extensions. Ready to scale",
+    "live": {
+      "code": "postgresql-18-ha-cluster-ai-and-gis-read",
+      "name": "🚀 PostgreSQL 18 HA Cluster (AI & GIS Ready)",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 0,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2026-01-20T11:34:17.529Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 42,
+    "code": "daaDbI",
+    "name": "Postgres17 + Extensions",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Railway Postgres 17 + Extensions",
+    "live": {
+      "code": "daaDbI",
+      "name": "Postgres17 + Extensions",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2024-07-25T17:37:04.679Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 43,
+    "code": "postgresql-s3-backups",
+    "name": "PostgreSQL S3 backups",
+    "deploymentCount": 4,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "A simple utility to backup Postgres databases to S3 using Bun.",
+    "live": {
+      "code": "postgresql-s3-backups",
+      "name": "PostgreSQL S3 backups",
+      "health": 96,
+      "activeProjects": 4,
+      "recentProjects": 2,
+      "projects": 6,
+      "isVerified": false,
+      "createdAt": "2025-10-20T17:27:36.331Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 44,
+    "code": "postgrest-1",
+    "name": "PostgREST",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "PostgREST 16.3 instant REST API over Postgres with JWT auth and Swagger UI.",
+    "live": {
+      "code": "postgrest-1",
+      "name": "PostgREST",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-23T21:28:25.886Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 45,
+    "code": "postgresql",
+    "name": "PostgreSQL",
+    "deploymentCount": 20,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL database service",
+    "live": {
+      "code": "postgresql",
+      "name": "PostgreSQL",
+      "health": 100,
+      "activeProjects": 20,
+      "recentProjects": 5,
+      "projects": 24,
+      "isVerified": false,
+      "createdAt": "2025-10-06T16:30:32.906Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 46,
+    "code": "7MJ9UM",
+    "name": "PostgreSQL DuckDB",
+    "deploymentCount": 13,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL database service",
+    "live": {
+      "code": "7MJ9UM",
+      "name": "PostgreSQL DuckDB",
+      "health": 100,
+      "activeProjects": 13,
+      "recentProjects": 0,
+      "projects": 21,
+      "isVerified": false,
+      "createdAt": "2025-01-13T20:01:56.301Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 47,
+    "code": "postgresql-with-pgvectorscale-and-pgtext",
+    "name": "PostgreSQL with pgvectorscale and pg_textsearch",
+    "deploymentCount": 12,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL 18 with pgvectorscale and pg_textsearch extensions.",
+    "live": {
+      "code": "postgresql-with-pgvectorscale-and-pgtext",
+      "name": "PostgreSQL with pgvectorscale and pg_textsearch",
+      "health": 100,
+      "activeProjects": 12,
+      "recentProjects": 2,
+      "projects": 18,
+      "isVerified": false,
+      "createdAt": "2025-12-16T15:35:52.046Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 48,
+    "code": "0cbz2v",
+    "name": "PostgREST",
+    "deploymentCount": 7,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Turn your PostgreSQL database into a RESTful API",
+    "live": {
+      "code": "0cbz2v",
+      "name": "PostgREST",
+      "health": 100,
+      "activeProjects": 7,
+      "recentProjects": 1,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2024-10-21T22:12:58.592Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 49,
+    "code": "postgresql-16-1",
+    "name": "PostgreSQL 16",
+    "deploymentCount": 5,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL 16 - Open source database",
+    "live": {
+      "code": "postgresql-16-1",
+      "name": "PostgreSQL 16",
+      "health": 100,
+      "activeProjects": 5,
+      "recentProjects": 1,
+      "projects": 14,
+      "isVerified": false,
+      "createdAt": "2025-10-22T01:04:57.743Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 50,
+    "code": "postgresql-extensions",
+    "name": "PostgreSQL Extensions",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL + pgvector, postgis, pg_trgm, pgmq, pg_cron, pgcrypto and more.",
+    "live": {
+      "code": "postgresql-extensions",
+      "name": "PostgreSQL Extensions",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 3,
+      "projects": 8,
+      "isVerified": false,
+      "createdAt": "2026-05-28T07:45:36.227Z",
+      "category": "Storage"
+    }
+  }
+]

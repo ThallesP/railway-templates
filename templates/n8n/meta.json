@@ -1,0 +1,12 @@
+{
+  "code": "MRazvG",
+  "name": "n8n",
+  "description": "n8n workflow automation on PostgreSQL, webhooks and secrets preconfigured",
+  "category": "Automation",
+  "image": "https://devicons.railway.app/i/n8n.svg",
+  "keywords": [
+    "n8n",
+    "n8n postgres",
+    "workflow automation"
+  ]
+}

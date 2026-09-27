@@ -1,0 +1,422 @@
+[
+  {
+    "pos": 1,
+    "code": "postgresql-18-2",
+    "name": "PostgreSQL 18",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL version 18, on Alpine Linux",
+    "live": {
+      "code": "postgresql-18-2",
+      "name": "PostgreSQL 18",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-01-10T22:48:05.343Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "postgresql-18-ha-cluster-ai-and-gis-read",
+    "name": "🚀 PostgreSQL 18 HA Cluster (AI & GIS Ready)",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "🚀 Postgres 18 HA Cluster with AI, GIS, and Cron Extensions. Ready to scale",
+    "live": {
+      "code": "postgresql-18-ha-cluster-ai-and-gis-read",
+      "name": "🚀 PostgreSQL 18 HA Cluster (AI & GIS Ready)",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 0,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2026-01-20T11:34:17.529Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "postgresql-18-time-1",
+    "name": "PostgreSQL 18 + TimescaleDB + PostGIS",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL 18, TimescaleDB 2.26 and PostGIS 3.6",
+    "live": {
+      "code": "postgresql-18-time-1",
+      "name": "PostgreSQL 18 + TimescaleDB + PostGIS",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 3,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2026-05-05T06:20:08.110Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "postgres-18",
+    "name": "postgres-18",
+    "deploymentCount": 6,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host PostgreSQL 18 with SSL on Railway",
+    "live": {
+      "code": "postgres-18",
+      "name": "postgres-18",
+      "health": 100,
+      "activeProjects": 6,
+      "recentProjects": 4,
+      "projects": 11,
+      "isVerified": false,
+      "createdAt": "2025-12-23T07:05:23.622Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "postgres-18-postgis-pgvector-ssl-pitr-re",
+    "name": "Postgres 18 + PostGIS + pgvector (SSL, PITR-ready)",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres 18 + PostGIS + pgvector (SSL, PITR-ready)",
+    "live": {
+      "code": "postgres-18-postgis-pgvector-ssl-pitr-re",
+      "name": "Postgres 18 + PostGIS + pgvector (SSL, PITR-ready)",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-07-10T16:46:40.039Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "postgresql-18-1",
+    "name": "PostgreSQL 18",
+    "deploymentCount": 9,
+    "healthScore": 95,
+    "isVerified": false,
+    "description": "Deploy and host PostgreSQL 18 on Railway",
+    "live": {
+      "code": "postgresql-18-1",
+      "name": "PostgreSQL 18",
+      "health": 95,
+      "activeProjects": 9,
+      "recentProjects": 0,
+      "projects": 17,
+      "isVerified": false,
+      "createdAt": "2025-10-25T05:05:16.674Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "postgresql-18-with-timescaledb-postgis-a",
+    "name": "PostgreSQL 18 with TimescaleDB, PostGIS, and SSL",
+    "deploymentCount": 2,
+    "healthScore": 88,
+    "isVerified": false,
+    "description": "PostgreSQL 18 with TimescaleDB, PostGIS, and SSL",
+    "live": {
+      "code": "postgresql-18-with-timescaledb-postgis-a",
+      "name": "PostgreSQL 18 with TimescaleDB, PostGIS, and SSL",
+      "health": 88,
+      "activeProjects": 2,
+      "recentProjects": 2,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-05-02T05:11:07.991Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "postgres-18-ssl",
+    "name": "Postgres 18 SSL",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Deploy and Host Postgres 18 SSL with Railway",
+    "live": {
+      "code": "postgres-18-ssl",
+      "name": "Postgres 18 SSL",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-01-17T06:29:55.501Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "pgvector-or-just-updated-postgres-18-vec",
+    "name": "pgvector | (Just Updated) Postgres 18 Vector DB Where HNSW Indexes Actually Build",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres 18 + pgvector, tuned per plan, HNSW indexes that actually build",
+    "live": {
+      "code": "pgvector-or-just-updated-postgres-18-vec",
+      "name": "pgvector | (Just Updated) Postgres 18 Vector DB Where HNSW Indexes Actually Build",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-07T15:23:05.459Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "bknd-with-postgres-18",
+    "name": "bknd with Postgres 18",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A lightweight, feature-rich backend that embeds into your frontend app",
+    "live": {
+      "code": "bknd-with-postgres-18",
+      "name": "bknd with Postgres 18",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-04-13T09:04:24.347Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "pgduckdb-v111-postgres-18",
+    "name": "pg_duckdb (v1.11 /Postgres 18)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "DuckDB powered Postgres for analytics",
+    "live": {
+      "code": "pgduckdb-v111-postgres-18",
+      "name": "pg_duckdb (v1.11 /Postgres 18)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-05-03T20:14:39.621Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "postgresql-18",
+    "name": "PostgreSQL 18",
+    "deploymentCount": 4,
+    "healthScore": 63,
+    "isVerified": false,
+    "description": "Deploy and Host PostgreSQL 18 on Railway",
+    "live": {
+      "code": "postgresql-18",
+      "name": "PostgreSQL 18",
+      "health": 63,
+      "activeProjects": 4,
+      "recentProjects": 0,
+      "projects": 10,
+      "isVerified": false,
+      "createdAt": "2025-10-23T16:04:00.500Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "postgresql-with-pgvectorscale-and-pgtext",
+    "name": "PostgreSQL with pgvectorscale and pg_textsearch",
+    "deploymentCount": 12,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL 18 with pgvectorscale and pg_textsearch extensions.",
+    "live": {
+      "code": "postgresql-with-pgvectorscale-and-pgtext",
+      "name": "PostgreSQL with pgvectorscale and pg_textsearch",
+      "health": 100,
+      "activeProjects": 12,
+      "recentProjects": 2,
+      "projects": 18,
+      "isVerified": false,
+      "createdAt": "2025-12-16T15:35:52.046Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "postgresql-with-pgvectorscale",
+    "name": "PostgreSQL with pgvectorscale",
+    "deploymentCount": 22,
+    "healthScore": 88,
+    "isVerified": false,
+    "description": "PostgreSQL 18 with pgvector and pgvectorscale extensions.",
+    "live": {
+      "code": "postgresql-with-pgvectorscale",
+      "name": "PostgreSQL with pgvectorscale",
+      "health": 88,
+      "activeProjects": 22,
+      "recentProjects": 0,
+      "projects": 31,
+      "isVerified": false,
+      "createdAt": "2025-10-14T04:51:26.681Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 15,
+    "code": "timescale-postgis",
+    "name": "TimescaleDB + PostGIS | Open Source Time-Series and Geospatial Postgres",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres 18, TimescaleDB and PostGIS — time-series and geospatial in one DB",
+    "live": {
+      "code": "timescale-postgis",
+      "name": "TimescaleDB + PostGIS | Open Source Time-Series and Geospatial Postgres",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-09T20:36:50.128Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 16,
+    "code": "postgres-x-duckdb",
+    "name": "Postgres x DuckDB",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Postgres 18 with DuckDB using official duckdb image",
+    "live": {
+      "code": "postgres-x-duckdb",
+      "name": "Postgres x DuckDB",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 3,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-09-12T19:23:40.723Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 17,
+    "code": "pgvector-pg18",
+    "name": "pgvector-pg18",
+    "deploymentCount": 63,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL 18 vector database for AI: embeddings, RAG, semantic search",
+    "live": {
+      "code": "pgvector-pg18",
+      "name": "pgvector-pg18",
+      "health": 100,
+      "activeProjects": 63,
+      "recentProjects": 14,
+      "projects": 133,
+      "isVerified": false,
+      "createdAt": "2025-11-03T09:19:51.729Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 18,
+    "code": "electric",
+    "name": "Electric",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "ElectricSQL 1.8 Postgres sync engine that streams shapes over HTTP.",
+    "live": {
+      "code": "electric",
+      "name": "Electric",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-24T03:55:34.082Z",
+      "category": "Queues"
+    }
+  },
+  {
+    "pos": 19,
+    "code": "postgres",
+    "name": "PostgreSQL",
+    "deploymentCount": 269952,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL database service",
+    "live": {
+      "code": "postgres",
+      "name": "PostgreSQL",
+      "health": 100,
+      "activeProjects": 269952,
+      "recentProjects": 54017,
+      "projects": 376061,
+      "isVerified": false,
+      "createdAt": "2023-09-07T21:56:27.474Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 20,
+    "code": "postgresql",
+    "name": "PostgreSQL",
+    "deploymentCount": 20,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "PostgreSQL database service",
+    "live": {
+      "code": "postgresql",
+      "name": "PostgreSQL",
+      "health": 100,
+      "activeProjects": 20,
+      "recentProjects": 5,
+      "projects": 24,
+      "isVerified": false,
+      "createdAt": "2025-10-06T16:30:32.906Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 21,
+    "code": "postgresql-1",
+    "name": "PostgreSQL",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Run PostgreSQL 16 on Railway with Docker, volume-ready defaults.",
+    "live": {
+      "code": "postgresql-1",
+      "name": "PostgreSQL",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-31T23:35:23.921Z",
+      "category": "Other"
+    }
+  }
+]

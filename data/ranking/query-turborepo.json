@@ -1,0 +1,42 @@
+[
+  {
+    "pos": 1,
+    "code": "tRFTHR",
+    "name": "Turborepo Remote Cache",
+    "deploymentCount": 26,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Open source implementation of the Turborepo custom remote cache server.",
+    "live": {
+      "code": "tRFTHR",
+      "name": "Turborepo Remote Cache",
+      "health": 100,
+      "activeProjects": 26,
+      "recentProjects": 1,
+      "projects": 66,
+      "isVerified": false,
+      "createdAt": "2024-11-19T06:29:37.897Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "jxlr-boilerplate",
+    "name": "JXLR Boilerplate",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Turborepo Express Start Boilerplate",
+    "live": {
+      "code": "jxlr-boilerplate",
+      "name": "JXLR Boilerplate",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 3,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-08-06T16:56:05.162Z",
+      "category": "Other"
+    }
+  }
+]

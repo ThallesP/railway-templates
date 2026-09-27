@@ -1,0 +1,12 @@
+{
+  "code": "zsaPAU",
+  "name": "ASP.NET Minimal API",
+  "description": "ASP.NET Core minimal API on .NET 9, Dockerfile build, hello-world endpoints",
+  "category": "Starters",
+  "image": "https://devicons.railway.com/i/csharp.svg",
+  "keywords": [
+    "asp.net",
+    "dotnet",
+    "minimal api"
+  ]
+}

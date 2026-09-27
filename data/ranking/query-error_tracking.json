@@ -1,0 +1,282 @@
+[
+  {
+    "pos": 1,
+    "code": "self-hosted-sentry-error-tracking-lean",
+    "name": "Self-Hosted Sentry: Error Tracking (Lean); error-tracking, monitoring, observability, apm.",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Run your own Sentry for error tracking. Lean, private, Postgres-backed.",
+    "live": {
+      "code": "self-hosted-sentry-error-tracking-lean",
+      "name": "Self-Hosted Sentry: Error Tracking (Lean); error-tracking, monitoring, observability, apm.",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 13,
+      "projects": 13,
+      "isVerified": false,
+      "createdAt": "2026-07-29T06:37:02.020Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "glitchtip-error-tracking",
+    "name": "GlitchTip | Open Source Sentry-Compatible Error Tracking",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Sentry-compatible error tracking. No S3 to set up, private-network ingest",
+    "live": {
+      "code": "glitchtip-error-tracking",
+      "name": "GlitchTip | Open Source Sentry-Compatible Error Tracking",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-09T22:23:22.863Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "bugsink-error-trac-1",
+    "name": "Bugsink Error Tracking",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-hosted error tracking with private MySQL and generated admin access.",
+    "live": {
+      "code": "bugsink-error-trac-1",
+      "name": "Bugsink Error Tracking",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-13T18:49:21.091Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "sentry-compatible-error-tracking-or-glit",
+    "name": "Sentry-Compatible Error Tracking | (Just Updated) GlitchTip, Source Maps Survive Redeploys",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Sentry-SDK error tracking in 3 services, not 12. Source maps on a volume.",
+    "live": {
+      "code": "sentry-compatible-error-tracking-or-glit",
+      "name": "Sentry-Compatible Error Tracking | (Just Updated) GlitchTip, Source Maps Survive Redeploys",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-03T19:21:22.229Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "bugsink-error-tracking",
+    "name": "Bugsink",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Error tracking that shows you the stacktrace behind every crash",
+    "live": {
+      "code": "bugsink-error-tracking",
+      "name": "Bugsink",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-08-25T12:43:33.539Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "glitchtip",
+    "name": "GlitchTip",
+    "deploymentCount": 93,
+    "healthScore": 96,
+    "isVerified": true,
+    "description": "Official GlitchTip open source error tracking https://glitchtip.com/",
+    "live": {
+      "code": "glitchtip",
+      "name": "GlitchTip",
+      "health": 96,
+      "activeProjects": 93,
+      "recentProjects": 46,
+      "projects": 133,
+      "isVerified": true,
+      "createdAt": "2026-02-05T16:56:24.999Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "6Md4z2",
+    "name": "Bugsink",
+    "deploymentCount": 18,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Self-hosted Error Tracking",
+    "live": {
+      "code": "6Md4z2",
+      "name": "Bugsink",
+      "health": 96,
+      "activeProjects": 18,
+      "recentProjects": 4,
+      "projects": 36,
+      "isVerified": false,
+      "createdAt": "2025-04-18T06:48:43.731Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "bugsink",
+    "name": "Bugsink",
+    "deploymentCount": 5,
+    "healthScore": 82,
+    "isVerified": false,
+    "description": "Self-hosted Error Tracking. Sentry-SDK compatible",
+    "live": {
+      "code": "bugsink",
+      "name": "Bugsink",
+      "health": 82,
+      "activeProjects": 5,
+      "recentProjects": 5,
+      "projects": 19,
+      "isVerified": false,
+      "createdAt": "2025-02-11T02:06:57.211Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "glitchtip-sentry-alternative",
+    "name": "Replace Sentry Without Changing a Line of Code — GlitchTip on Railway",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host Sentry-compatible error tracking. Change DSN, keep your code.",
+    "live": {
+      "code": "glitchtip-sentry-alternative",
+      "name": "Replace Sentry Without Changing a Line of Code — GlitchTip on Railway",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-06-07T12:54:38.025Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "glitchtip-hardened",
+    "name": "GlitchTip (hardened)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-hosted error tracking, Sentry SDK compatible. Embedded worker.",
+    "live": {
+      "code": "glitchtip-hardened",
+      "name": "GlitchTip (hardened)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-23T13:21:56.433Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "errbit",
+    "name": "Errbit",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Airbrake-compatible error tracking with MongoDB and generated owner access.",
+    "live": {
+      "code": "errbit",
+      "name": "Errbit",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-19T06:33:50.529Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "bugsink-1",
+    "name": "Bugsink",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Bugsink 2.6 self-hosted error tracking that works with Sentry SDKs.",
+    "live": {
+      "code": "bugsink-1",
+      "name": "Bugsink",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-24T08:01:52.184Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "AMx6AD",
+    "name": "GlitchTip",
+    "deploymentCount": 35,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Simple, open source error tracking with Sentry SDK",
+    "live": {
+      "code": "AMx6AD",
+      "name": "GlitchTip",
+      "health": 96,
+      "activeProjects": 35,
+      "recentProjects": 3,
+      "projects": 173,
+      "isVerified": false,
+      "createdAt": "2023-04-17T02:45:54.778Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "glitchtip-railway",
+    "name": "GlitchTip",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Sentry alternative. Error tracking and uptime monitoring",
+    "live": {
+      "code": "glitchtip-railway",
+      "name": "GlitchTip",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-14T21:46:57.056Z",
+      "category": "Observability"
+    }
+  }
+]

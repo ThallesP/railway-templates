@@ -1,0 +1,222 @@
+[
+  {
+    "pos": 1,
+    "code": "umami-analytics",
+    "name": "Umami",
+    "deploymentCount": 1718,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "An open source, privacy-focused alternative to Google Analytics",
+    "live": {
+      "code": "umami-analytics",
+      "name": "Umami",
+      "health": 100,
+      "activeProjects": 1718,
+      "recentProjects": 207,
+      "projects": 4191,
+      "isVerified": false,
+      "createdAt": "2022-04-19T07:02:10.429Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "umami-1",
+    "name": "Umami",
+    "deploymentCount": 12,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy and Host Umami with Railway",
+    "live": {
+      "code": "umami-1",
+      "name": "Umami",
+      "health": 100,
+      "activeProjects": 12,
+      "recentProjects": 7,
+      "projects": 20,
+      "isVerified": false,
+      "createdAt": "2026-04-20T17:39:55.329Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "umami",
+    "name": "Umami [Updated Sep ’26]",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Umami [Sep ’26] (Track Website Visits & Performance) Self Host",
+    "live": {
+      "code": "umami",
+      "name": "Umami [Updated Sep ’26]",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2025-10-22T07:21:53.896Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "umami-2",
+    "name": "Umami",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Umami — privacy-focused web analytics, Google Analytics alternative",
+    "live": {
+      "code": "umami-2",
+      "name": "Umami",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 4,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-07-17T05:40:59.247Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "umami-software",
+    "name": "Umami",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Privacy-first analytics to track website traffic without selling your data",
+    "live": {
+      "code": "umami-software",
+      "name": "Umami",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-18T11:14:01.693Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "umami-railway",
+    "name": "Umami",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Privacy-First Web Analytics",
+    "live": {
+      "code": "umami-railway",
+      "name": "Umami",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-18T17:42:25.746Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "umami-analytics-on-railway-production-se",
+    "name": "Umami on Railway (Production) | Track Website Traffic",
+    "deploymentCount": 13,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "[Jun '26] Open-Source Google Analytics Alternative",
+    "live": {
+      "code": "umami-analytics-on-railway-production-se",
+      "name": "Umami on Railway (Production) | Track Website Traffic",
+      "health": 100,
+      "activeProjects": 13,
+      "recentProjects": 3,
+      "projects": 20,
+      "isVerified": false,
+      "createdAt": "2026-02-14T18:22:40.929Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "umami-postgres-analytics",
+    "name": "Umami — Privacy-First Analytics [PostgreSQL]",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-hosted Google Analytics alternative — no cookies, GDPR-ready",
+    "live": {
+      "code": "umami-postgres-analytics",
+      "name": "Umami — Privacy-First Analytics [PostgreSQL]",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-22T07:40:39.381Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "umami-deploy-sep2026",
+    "name": "Umami - Deploy Sep2026",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Simple self hosted Umami platform.",
+    "live": {
+      "code": "umami-deploy-sep2026",
+      "name": "Umami - Deploy Sep2026",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-09T20:10:25.377Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "umami-updated-jul--1",
+    "name": "Umami [Updated Sep '26]",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Umami [Sep '26] (Privacy-First Google Analytics Alternative) Self Host",
+    "live": {
+      "code": "umami-updated-jul--1",
+      "name": "Umami [Updated Sep '26]",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-07-25T07:18:20.397Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "umami-v320-or-google-analytics-alternati",
+    "name": "Umami | (Just Updated) Google Analytics Alternative, Admin Not admin/umami",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Google Analytics alternative whose admin is not the default admin/umami",
+    "live": {
+      "code": "umami-v320-or-google-analytics-alternati",
+      "name": "Umami | (Just Updated) Google Analytics Alternative, Admin Not admin/umami",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-09T23:12:13.551Z",
+      "category": "Analytics"
+    }
+  }
+]

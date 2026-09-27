@@ -1,0 +1,12 @@
+{
+  "code": "clickstack",
+  "name": "ClickStack",
+  "description": "ClickHouse, HyperDX and OpenTelemetry collector for logs, traces, metrics",
+  "category": "Observability",
+  "image": "https://devicons.railway.com/i/clickhouse.svg",
+  "keywords": [
+    "clickstack",
+    "clickhouse",
+    "observability"
+  ]
+}

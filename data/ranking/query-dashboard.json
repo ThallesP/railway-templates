@@ -1,0 +1,1002 @@
+[
+  {
+    "pos": 1,
+    "code": "traefik-proxy-dashboard",
+    "name": "Traefik with Dashboard",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "[Jul'26] Self-hosted Traefik with dashboard and editable Railway config",
+    "live": {
+      "code": "traefik-proxy-dashboard",
+      "name": "Traefik with Dashboard",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2026-04-15T09:10:53.477Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "openwa-w-dashboard-postgres-redis-and-mi",
+    "name": "OpenWA (w/ Dashboard, Postgres, Redis and MinIO)",
+    "deploymentCount": 11,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Deploy OpenWA on Railway. WhatsApp REST API. One click.",
+    "live": {
+      "code": "openwa-w-dashboard-postgres-redis-and-mi",
+      "name": "OpenWA (w/ Dashboard, Postgres, Redis and MinIO)",
+      "health": 96,
+      "activeProjects": 11,
+      "recentProjects": 9,
+      "projects": 28,
+      "isVerified": false,
+      "createdAt": "2026-05-18T22:42:14.904Z",
+      "category": "Bots"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "uqFsmi",
+    "name": "ZGlance-dashboard",
+    "deploymentCount": 2,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Glance Dashboard with U.S. Stocks, Tech, and F1 news",
+    "live": {
+      "code": "uqFsmi",
+      "name": "ZGlance-dashboard",
+      "health": null,
+      "activeProjects": 2,
+      "recentProjects": 1,
+      "projects": 8,
+      "isVerified": false,
+      "createdAt": "2025-05-06T11:54:25.693Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "simple-flask-dashboard-infra",
+    "name": "Simple Flask Dashboard infra",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Quickly Create Infrastructure for Deploying Flask Based Dashboard Apps",
+    "live": {
+      "code": "simple-flask-dashboard-infra",
+      "name": "Simple Flask Dashboard infra",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-01-12T05:52:15.495Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "cleaned-dashboard-template-next",
+    "name": "cleaned-dashboard-template-next",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Cleaned Dashboard Template for NextJS+Supabase with dark/light mode switch",
+    "live": {
+      "code": "cleaned-dashboard-template-next",
+      "name": "cleaned-dashboard-template-next",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-04-11T20:57:28.533Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "homarr-service-dashboard",
+    "name": "Homarr — Self-Hosted Dashboard for Your Services",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host Homarr — one dashboard for all your apps & integrations",
+    "live": {
+      "code": "homarr-service-dashboard",
+      "name": "Homarr — Self-Hosted Dashboard for Your Services",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-27T10:40:17.351Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "perses-dashboards",
+    "name": "Perses Dashboards",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Observability dashboards with persistent storage and owner access.",
+    "live": {
+      "code": "perses-dashboards",
+      "name": "Perses Dashboards",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-13T18:49:36.268Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "metabase-dashboards",
+    "name": "Metabase Dashboards",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "interactive Metabase dashboards and filters",
+    "live": {
+      "code": "metabase-dashboards",
+      "name": "Metabase Dashboards",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-18T10:22:42.248Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "BLEtpx",
+    "name": "Minecraft Server (w/ dashboard)",
+    "deploymentCount": 643,
+    "healthScore": 69,
+    "isVerified": false,
+    "description": "Deploy your Minecraft Server",
+    "live": {
+      "code": "BLEtpx",
+      "name": "Minecraft Server (w/ dashboard)",
+      "health": 69,
+      "activeProjects": 643,
+      "recentProjects": 86,
+      "projects": 1526,
+      "isVerified": false,
+      "createdAt": "2023-09-09T17:52:22.344Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "hermes-agent-w-dashboard",
+    "name": "Hermes Agent (w/ Dashboard)",
+    "deploymentCount": 6,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Hermes AI agent for Telegram, Discord and Slack with a locked web dashboard",
+    "live": {
+      "code": "hermes-agent-w-dashboard",
+      "name": "Hermes Agent (w/ Dashboard)",
+      "health": 100,
+      "activeProjects": 6,
+      "recentProjects": 10,
+      "projects": 10,
+      "isVerified": false,
+      "createdAt": "2026-09-18T22:10:11.614Z",
+      "category": "Automation"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "inngest-with-protected-dashboard",
+    "name": "Inngest (with protected dashboard)",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Inngest self-hosted with nginx proxy to password-protect the dashboard",
+    "live": {
+      "code": "inngest-with-protected-dashboard",
+      "name": "Inngest (with protected dashboard)",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 2,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-05-18T20:52:08.377Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "hermes-agent-official",
+    "name": "Hermes Agent - Official Dashboard",
+    "deploymentCount": 125,
+    "healthScore": 88,
+    "isVerified": false,
+    "description": "Automate AI agent tasks with an official dashboard and self-hosted runtime.",
+    "live": {
+      "code": "hermes-agent-official",
+      "name": "Hermes Agent - Official Dashboard",
+      "health": 88,
+      "activeProjects": 125,
+      "recentProjects": 191,
+      "projects": 217,
+      "isVerified": false,
+      "createdAt": "2026-06-13T09:06:28.872Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "hermes-agent-with-official-dashboard",
+    "name": "Hermes Agent (with Official Dashboard)",
+    "deploymentCount": 113,
+    "healthScore": 84,
+    "isVerified": false,
+    "description": "Deploy your own Hermes agent with the official Hermes dashboard.",
+    "live": {
+      "code": "hermes-agent-with-official-dashboard",
+      "name": "Hermes Agent (with Official Dashboard)",
+      "health": 84,
+      "activeProjects": 113,
+      "recentProjects": 41,
+      "projects": 188,
+      "isVerified": false,
+      "createdAt": "2026-04-17T18:57:33.352Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "hermes-agent-2",
+    "name": "Hermes Agent - Custom Dashboard",
+    "deploymentCount": 95,
+    "healthScore": 76,
+    "isVerified": false,
+    "description": "Self-Hosted Hermes AI Agent with Telegram, Discord & Slack",
+    "live": {
+      "code": "hermes-agent-2",
+      "name": "Hermes Agent - Custom Dashboard",
+      "health": 76,
+      "activeProjects": 95,
+      "recentProjects": 34,
+      "projects": 139,
+      "isVerified": false,
+      "createdAt": "2026-04-14T02:56:01.831Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 15,
+    "code": "hermes-agent-or-openclaw-alternative-wit",
+    "name": "Hermes Agent | OpenClaw Alternative with Dashboard",
+    "deploymentCount": 47,
+    "healthScore": 86,
+    "isVerified": false,
+    "description": "Self-Hosted Hermes AI Agent for Telegram, Discord & Slack",
+    "live": {
+      "code": "hermes-agent-or-openclaw-alternative-wit",
+      "name": "Hermes Agent | OpenClaw Alternative with Dashboard",
+      "health": 86,
+      "activeProjects": 47,
+      "recentProjects": 39,
+      "projects": 81,
+      "isVerified": false,
+      "createdAt": "2026-05-04T01:53:20.392Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 16,
+    "code": "Wjoi4m",
+    "name": "Railway Template Kickback | Open Source Earnings Dashboard",
+    "deploymentCount": 19,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Publish your Railway template earnings as a public page",
+    "live": {
+      "code": "Wjoi4m",
+      "name": "Railway Template Kickback | Open Source Earnings Dashboard",
+      "health": null,
+      "activeProjects": 19,
+      "recentProjects": 1,
+      "projects": 25,
+      "isVerified": false,
+      "createdAt": "2024-12-13T21:14:58.190Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 17,
+    "code": "typelens-typesense-dashboard",
+    "name": "typelens (typesense + Dashboard)",
+    "deploymentCount": 6,
+    "healthScore": 83,
+    "isVerified": false,
+    "description": "Deploys typesense and typelens, an open source typesense Dashboard UI",
+    "live": {
+      "code": "typelens-typesense-dashboard",
+      "name": "typelens (typesense + Dashboard)",
+      "health": 83,
+      "activeProjects": 6,
+      "recentProjects": 5,
+      "projects": 19,
+      "isVerified": false,
+      "createdAt": "2026-05-18T13:53:02.162Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 18,
+    "code": "mainframe-monitoring-dashboard-alerts",
+    "name": "Mainframe Monitoring Dashboard + Alerts",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Unifi & APC Monitoring Dashboard with Telegram Alerts",
+    "live": {
+      "code": "mainframe-monitoring-dashboard-alerts",
+      "name": "Mainframe Monitoring Dashboard + Alerts",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-02-24T08:49:36.214Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 19,
+    "code": "dashy-homelab-dashboard",
+    "name": "Dashy - Homelab Dashboard",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Deploy a Self-Hosted Services Dashboard for Your Homelab",
+    "live": {
+      "code": "dashy-homelab-dashboard",
+      "name": "Dashy - Homelab Dashboard",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-06-07T11:57:48.206Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 20,
+    "code": "whatsapp-group-analytics",
+    "name": "WhatsApp Group Analytics Dashboard",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-hosted engagement analytics for WhatsApp groups you admin",
+    "live": {
+      "code": "whatsapp-group-analytics",
+      "name": "WhatsApp Group Analytics Dashboard",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-20T06:32:55.228Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 21,
+    "code": "nanobot-llm-gateway",
+    "name": "Nanobot — Multi-LLM Gateway with Dashboard",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Route OpenAI, Gemini & Groq with fallback — Telegram-ready gateway",
+    "live": {
+      "code": "nanobot-llm-gateway",
+      "name": "Nanobot — Multi-LLM Gateway with Dashboard",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-25T11:58:00.581Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 22,
+    "code": "metabase-business-intelligence",
+    "name": "Metabase | Open Source BI and Analytics Dashboard",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Business intelligence and dashboards, backed by a persistent Postgres",
+    "live": {
+      "code": "metabase-business-intelligence",
+      "name": "Metabase | Open Source BI and Analytics Dashboard",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-09T19:15:46.628Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 23,
+    "code": "promptfoo-llm-evals",
+    "name": "Promptfoo — Self-Hosted LLM Eval Dashboard",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host Promptfoo — private dashboard for LLM eval results",
+    "live": {
+      "code": "promptfoo-llm-evals",
+      "name": "Promptfoo — Self-Hosted LLM Eval Dashboard",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-11T11:34:50.935Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 24,
+    "code": "karma-alertmanager-dashboard",
+    "name": "Karma Alertmanager Dashboard",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Group, inspect and silence alerts from your existing Alertmanager.",
+    "live": {
+      "code": "karma-alertmanager-dashboard",
+      "name": "Karma Alertmanager Dashboard",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-22T06:55:27.109Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 25,
+    "code": "metabase-customer-dashboards",
+    "name": "Metabase Customer Dashboards",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "customer-facing analytics embeds",
+    "live": {
+      "code": "metabase-customer-dashboards",
+      "name": "Metabase Customer Dashboards",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-25T10:19:44.865Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 26,
+    "code": "self-host-metabase",
+    "name": "Metabase | Open-Source BI & Dashboard Tool",
+    "deploymentCount": 21,
+    "healthScore": 60,
+    "isVerified": false,
+    "description": "Self-Host Metabase | Self-service analytics, dashboards, and exploration",
+    "live": {
+      "code": "self-host-metabase",
+      "name": "Metabase | Open-Source BI & Dashboard Tool",
+      "health": 60,
+      "activeProjects": 21,
+      "recentProjects": 10,
+      "projects": 34,
+      "isVerified": false,
+      "createdAt": "2026-03-11T05:28:35.422Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 27,
+    "code": "hermes-agent-full-self-improving-ai-agen",
+    "name": "Hermes Agent (Full) — Self-Improving AI Agent with Official Dashboard",
+    "deploymentCount": 6,
+    "healthScore": 75,
+    "isVerified": false,
+    "description": "Self-hosted Hermes AI agent + official Nous dashboard, self-improving",
+    "live": {
+      "code": "hermes-agent-full-self-improving-ai-agen",
+      "name": "Hermes Agent (Full) — Self-Improving AI Agent with Official Dashboard",
+      "health": 75,
+      "activeProjects": 6,
+      "recentProjects": 9,
+      "projects": 9,
+      "isVerified": false,
+      "createdAt": "2026-06-28T10:46:46.760Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 28,
+    "code": "edict-aug-26-multi-agent-dashboard",
+    "name": "Edict [Aug '26] (Multi-Agent Dashboard)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Nine AI agents you monitor from one live dashboard",
+    "live": {
+      "code": "edict-aug-26-multi-agent-dashboard",
+      "name": "Edict [Aug '26] (Multi-Agent Dashboard)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-20T07:53:59.487Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 29,
+    "code": "redash",
+    "name": "Redash [Updated Sep ’26] (Open-Source Data Visualization & Dashboard Tool)",
+    "deploymentCount": 1,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Redash [Sep ’26] (Query, Visualize & Share Data Insights) Self Host",
+    "live": {
+      "code": "redash",
+      "name": "Redash [Updated Sep ’26] (Open-Source Data Visualization & Dashboard Tool)",
+      "health": null,
+      "activeProjects": 1,
+      "recentProjects": 0,
+      "projects": 10,
+      "isVerified": false,
+      "createdAt": "2025-10-20T19:07:46.232Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 30,
+    "code": "grafana-dashboards",
+    "name": "Grafana",
+    "deploymentCount": 1,
+    "healthScore": 88,
+    "isVerified": false,
+    "description": "Datadog Alternative. Dashboards, alerts, PromQL, SQL, Loki, PNG export",
+    "live": {
+      "code": "grafana-dashboards",
+      "name": "Grafana",
+      "health": 88,
+      "activeProjects": 1,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-08-14T22:18:45.150Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 31,
+    "code": "grafana-monitoring-dashboard",
+    "name": "Grafana | Open-Source Observability Platform",
+    "deploymentCount": 6,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self Host Grafana: Metrics, logs, traces from 100+ data sources",
+    "live": {
+      "code": "grafana-monitoring-dashboard",
+      "name": "Grafana | Open-Source Observability Platform",
+      "health": 100,
+      "activeProjects": 6,
+      "recentProjects": 4,
+      "projects": 10,
+      "isVerified": false,
+      "createdAt": "2026-04-16T15:03:23.403Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 32,
+    "code": "hermes-official-dashboard",
+    "name": "Hermes Agent by Nous Research",
+    "deploymentCount": 8,
+    "healthScore": 88,
+    "isVerified": false,
+    "description": "A self-hosted Hermes Agent using Nous Research's official Docker image",
+    "live": {
+      "code": "hermes-official-dashboard",
+      "name": "Hermes Agent by Nous Research",
+      "health": 88,
+      "activeProjects": 8,
+      "recentProjects": 13,
+      "projects": 13,
+      "isVerified": false,
+      "createdAt": "2026-08-05T02:51:36.283Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 33,
+    "code": "metabase-bi-dashboards",
+    "name": "Metabase [Updated Sep'26]",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host Metabase — dashboards, SQL, unlimited users, Postgres app DB",
+    "live": {
+      "code": "metabase-bi-dashboards",
+      "name": "Metabase [Updated Sep'26]",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-23T18:21:02.267Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 34,
+    "code": "coolify",
+    "name": "Coolify",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Dashboard that deploys apps and databases to your own servers",
+    "live": {
+      "code": "coolify",
+      "name": "Coolify",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 6,
+      "projects": 6,
+      "isVerified": false,
+      "createdAt": "2026-08-26T15:13:34.888Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 35,
+    "code": "briefer",
+    "name": "Briefer",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Dashboard visualizations with Jupyter notebooks, Python, SQL",
+    "live": {
+      "code": "briefer",
+      "name": "Briefer",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 29,
+      "isVerified": false,
+      "createdAt": "2025-01-21T19:57:19.277Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 36,
+    "code": "beszel-hub",
+    "name": "Beszel",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Dashboard that tracks CPU, memory and disk across your servers",
+    "live": {
+      "code": "beszel-hub",
+      "name": "Beszel",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-27T21:03:42.621Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 37,
+    "code": "dashfy",
+    "name": "Dashfy",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Dashboards for developers",
+    "live": {
+      "code": "dashfy",
+      "name": "Dashfy",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-23T13:19:00.902Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 38,
+    "code": "bull-board",
+    "name": "Bull Board",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "BullMQ dashboard with auto-discovery, multi-Redis & auth",
+    "live": {
+      "code": "bull-board",
+      "name": "Bull Board",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 0,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-03-29T15:07:24.325Z",
+      "category": "Queues"
+    }
+  },
+  {
+    "pos": 39,
+    "code": "homar",
+    "name": "Homar",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Custom dashboard with 40+ integrations, auth, 20K+ icons, no YAML",
+    "live": {
+      "code": "homar",
+      "name": "Homar",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-22T04:36:44.170Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 40,
+    "code": "homepage-template",
+    "name": "homepage-template",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Homepage dashboard on Railway - built-in auth, widgets, one-click deploy",
+    "live": {
+      "code": "homepage-template",
+      "name": "homepage-template",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-18T19:58:37.059Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 41,
+    "code": "heimdall-template",
+    "name": "heimdall-template",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Heimdall dashboard on Railway - auth-protected, persistent, one click",
+    "live": {
+      "code": "heimdall-template",
+      "name": "heimdall-template",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-19T12:12:27.812Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 42,
+    "code": "grafana-2",
+    "name": "grafana",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Beautiful dashboards and alerting for metrics, logs and traces",
+    "live": {
+      "code": "grafana-2",
+      "name": "grafana",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-12T02:14:55.767Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 43,
+    "code": "hermes-agent-nousresearch",
+    "name": "Hermes Agent 🤖",
+    "deploymentCount": 61,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "An OpenClaw alternative with dashboard. Self-host, deploy in 1-click 🚀",
+    "live": {
+      "code": "hermes-agent-nousresearch",
+      "name": "Hermes Agent 🤖",
+      "health": 100,
+      "activeProjects": 61,
+      "recentProjects": 55,
+      "projects": 109,
+      "isVerified": false,
+      "createdAt": "2026-05-08T03:24:32.741Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 44,
+    "code": "ZHBnkG",
+    "name": "Glance",
+    "deploymentCount": 14,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "A self-hosted dashboard that puts all your feeds in one place",
+    "live": {
+      "code": "ZHBnkG",
+      "name": "Glance",
+      "health": 100,
+      "activeProjects": 14,
+      "recentProjects": 4,
+      "projects": 36,
+      "isVerified": false,
+      "createdAt": "2025-03-05T16:44:17.115Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 45,
+    "code": "worldmonitor",
+    "name": "worldmonitor",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Real-time global intelligence dashboard with interactive map",
+    "live": {
+      "code": "worldmonitor",
+      "name": "worldmonitor",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 2,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-04-21T12:18:56.262Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 46,
+    "code": "hermes-studio",
+    "name": "hermes-studio",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-hosted Hermes Agent dashboard with persistent state",
+    "live": {
+      "code": "hermes-studio",
+      "name": "hermes-studio",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 5,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2026-06-28T09:16:46.468Z",
+      "category": "AI/ML"
+    }
+  },
+  {
+    "pos": 47,
+    "code": "homepage",
+    "name": "Homepage",
+    "deploymentCount": 3,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Homepage — modern self-hosted dashboard with 100+ service integrations",
+    "live": {
+      "code": "homepage",
+      "name": "Homepage",
+      "health": 100,
+      "activeProjects": 3,
+      "recentProjects": 7,
+      "projects": 7,
+      "isVerified": false,
+      "createdAt": "2026-07-14T22:00:52.172Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 48,
+    "code": "homarr",
+    "name": "Homarr [Updated Sep ’26]",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Homarr [Sep ’26] (Customizable Dashboard & App Integrations) Self Host",
+    "live": {
+      "code": "homarr",
+      "name": "Homarr [Updated Sep ’26]",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 0,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2025-09-04T14:24:38.921Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 49,
+    "code": "databasement-source-034djlcv",
+    "name": "Databasement",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Database backup and restore dashboard, ready to self-host on Railway.",
+    "live": {
+      "code": "databasement-source-034djlcv",
+      "name": "Databasement",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-25T14:37:02.909Z",
+      "category": "Storage"
+    }
+  },
+  {
+    "pos": 50,
+    "code": "green-vast",
+    "name": "green-vast",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Kalshi auto-trader with dashboard. Use your own API keys.",
+    "live": {
+      "code": "green-vast",
+      "name": "green-vast",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-12T08:56:18.873Z",
+      "category": "Bots"
+    }
+  }
+]

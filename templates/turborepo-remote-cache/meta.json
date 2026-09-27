@@ -1,0 +1,11 @@
+{
+  "code": "tRFTHR",
+  "name": "Turborepo Remote Cache",
+  "description": "Self-hosted Turborepo remote cache with a generated token and a volume",
+  "category": "Other",
+  "image": "https://pub-be57d7e4de8e43cbb04106b33b260bf4.r2.dev/turborepo.svg",
+  "keywords": [
+    "turborepo",
+    "remote cache"
+  ]
+}

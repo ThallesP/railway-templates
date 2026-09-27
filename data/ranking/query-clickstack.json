@@ -1,0 +1,42 @@
+[
+  {
+    "pos": 1,
+    "code": "clickstack-1",
+    "name": "ClickStack",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Open source observability for OpenTelemetry at scale",
+    "live": {
+      "code": "clickstack-1",
+      "name": "ClickStack",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 1,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-03-31T03:46:01.371Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "clickstack",
+    "name": "ClickStack",
+    "deploymentCount": 7,
+    "healthScore": 92,
+    "isVerified": false,
+    "description": "A High-Performance OSS Observability Stack on ClickHouse",
+    "live": {
+      "code": "clickstack",
+      "name": "ClickStack",
+      "health": 92,
+      "activeProjects": 7,
+      "recentProjects": 2,
+      "projects": 33,
+      "isVerified": false,
+      "createdAt": "2025-06-20T23:37:01.927Z",
+      "category": "Observability"
+    }
+  }
+]

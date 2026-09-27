@@ -1,0 +1,62 @@
+[
+  {
+    "pos": 1,
+    "code": "tFqAVW",
+    "name": "Interval",
+    "deploymentCount": 13,
+    "healthScore": 94,
+    "isVerified": false,
+    "description": "The simplest way to build internal tools without building UIs",
+    "live": {
+      "code": "tFqAVW",
+      "name": "Interval",
+      "health": 94,
+      "activeProjects": 13,
+      "recentProjects": 0,
+      "projects": 25,
+      "isVerified": false,
+      "createdAt": "2024-10-30T02:54:40.418Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "tkbFsY",
+    "name": "Interval Spotify Manager",
+    "deploymentCount": 5,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Example Interval app for browsing your Spotify playlists.",
+    "live": {
+      "code": "tkbFsY",
+      "name": "Interval Spotify Manager",
+      "health": null,
+      "activeProjects": 5,
+      "recentProjects": 0,
+      "projects": 11,
+      "isVerified": false,
+      "createdAt": "2023-05-21T17:07:50.198Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "uptime-kuma-monitoring",
+    "name": "Uptime Kuma — Self-Hosted UptimeRobot Alternative",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Unlimited monitors, 20s intervals, free status pages. No commercial-use ban",
+    "live": {
+      "code": "uptime-kuma-monitoring",
+      "name": "Uptime Kuma — Self-Hosted UptimeRobot Alternative",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 3,
+      "projects": 3,
+      "isVerified": false,
+      "createdAt": "2026-07-03T09:12:02.343Z",
+      "category": "Observability"
+    }
+  }
+]

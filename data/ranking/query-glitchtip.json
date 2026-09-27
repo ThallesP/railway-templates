@@ -1,0 +1,142 @@
+[
+  {
+    "pos": 1,
+    "code": "glitchtip",
+    "name": "GlitchTip",
+    "deploymentCount": 93,
+    "healthScore": 96,
+    "isVerified": true,
+    "description": "Official GlitchTip open source error tracking https://glitchtip.com/",
+    "live": {
+      "code": "glitchtip",
+      "name": "GlitchTip",
+      "health": 96,
+      "activeProjects": 93,
+      "recentProjects": 46,
+      "projects": 133,
+      "isVerified": true,
+      "createdAt": "2026-02-05T16:56:24.999Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "AMx6AD",
+    "name": "GlitchTip",
+    "deploymentCount": 35,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Simple, open source error tracking with Sentry SDK",
+    "live": {
+      "code": "AMx6AD",
+      "name": "GlitchTip",
+      "health": 96,
+      "activeProjects": 35,
+      "recentProjects": 3,
+      "projects": 173,
+      "isVerified": false,
+      "createdAt": "2023-04-17T02:45:54.778Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "glitchtip-railway",
+    "name": "GlitchTip",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Sentry alternative. Error tracking and uptime monitoring",
+    "live": {
+      "code": "glitchtip-railway",
+      "name": "GlitchTip",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-14T21:46:57.056Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "glitchtip-sentry-alternative",
+    "name": "Replace Sentry Without Changing a Line of Code — GlitchTip on Railway",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host Sentry-compatible error tracking. Change DSN, keep your code.",
+    "live": {
+      "code": "glitchtip-sentry-alternative",
+      "name": "Replace Sentry Without Changing a Line of Code — GlitchTip on Railway",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-06-07T12:54:38.025Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "glitchtip-error-tracking",
+    "name": "GlitchTip | Open Source Sentry-Compatible Error Tracking",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Sentry-compatible error tracking. No S3 to set up, private-network ingest",
+    "live": {
+      "code": "glitchtip-error-tracking",
+      "name": "GlitchTip | Open Source Sentry-Compatible Error Tracking",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-09T22:23:22.863Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "glitchtip-hardened",
+    "name": "GlitchTip (hardened)",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-hosted error tracking, Sentry SDK compatible. Embedded worker.",
+    "live": {
+      "code": "glitchtip-hardened",
+      "name": "GlitchTip (hardened)",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-23T13:21:56.433Z",
+      "category": "Observability"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "sentry-compatible-error-tracking-or-glit",
+    "name": "Sentry-Compatible Error Tracking | (Just Updated) GlitchTip, Source Maps Survive Redeploys",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Sentry-SDK error tracking in 3 services, not 12. Source maps on a volume.",
+    "live": {
+      "code": "sentry-compatible-error-tracking-or-glit",
+      "name": "Sentry-Compatible Error Tracking | (Just Updated) GlitchTip, Source Maps Survive Redeploys",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-03T19:21:22.229Z",
+      "category": "Observability"
+    }
+  }
+]

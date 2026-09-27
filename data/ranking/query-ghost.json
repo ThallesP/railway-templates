@@ -1,0 +1,522 @@
+[
+  {
+    "pos": 1,
+    "code": "AGPkfv",
+    "name": "Ghost",
+    "deploymentCount": 85,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Deploy Ghost to Railway with ease. Almost no configuration needed.",
+    "live": {
+      "code": "AGPkfv",
+      "name": "Ghost",
+      "health": 100,
+      "activeProjects": 85,
+      "recentProjects": 25,
+      "projects": 126,
+      "isVerified": false,
+      "createdAt": "2024-12-21T18:57:10.847Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 2,
+    "code": "ghost-cms",
+    "name": "Ghost",
+    "deploymentCount": 2,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Substack alternative. Publishing, email newsletters and Stripe memberships",
+    "live": {
+      "code": "ghost-cms",
+      "name": "Ghost",
+      "health": 100,
+      "activeProjects": 2,
+      "recentProjects": 5,
+      "projects": 5,
+      "isVerified": false,
+      "createdAt": "2026-08-14T22:12:26.692Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 3,
+    "code": "ghost-3",
+    "name": "Ghost",
+    "deploymentCount": 1,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Ghost — self-hosted publishing platform for blogs and newsletters",
+    "live": {
+      "code": "ghost-3",
+      "name": "Ghost",
+      "health": 100,
+      "activeProjects": 1,
+      "recentProjects": 4,
+      "projects": 4,
+      "isVerified": false,
+      "createdAt": "2026-07-29T03:33:11.292Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 4,
+    "code": "ghost-2",
+    "name": "Ghost",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Professional publishing platform for blogs, newsletters, and memberships.",
+    "live": {
+      "code": "ghost-2",
+      "name": "Ghost",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-28T18:59:47.418Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 5,
+    "code": "ghost-1",
+    "name": "Ghost",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Ghost 6 with MySQL, your owner account created at deploy",
+    "live": {
+      "code": "ghost-1",
+      "name": "Ghost",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 2,
+      "projects": 2,
+      "isVerified": false,
+      "createdAt": "2026-09-26T12:15:10.616Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 6,
+    "code": "ghost",
+    "name": "Ghost",
+    "deploymentCount": 316,
+    "healthScore": 52,
+    "isVerified": false,
+    "description": "Turn your audience into a business.",
+    "live": {
+      "code": "ghost",
+      "name": "Ghost",
+      "health": 52,
+      "activeProjects": 316,
+      "recentProjects": 17,
+      "projects": 1340,
+      "isVerified": false,
+      "createdAt": "2022-03-15T06:29:15.395Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 7,
+    "code": "tcsVLc",
+    "name": "Ghost + MySQL",
+    "deploymentCount": 585,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-hosted Ghost with MySQL and persistent volume.",
+    "live": {
+      "code": "tcsVLc",
+      "name": "Ghost + MySQL",
+      "health": 100,
+      "activeProjects": 585,
+      "recentProjects": 32,
+      "projects": 1457,
+      "isVerified": false,
+      "createdAt": "2023-07-22T12:47:02.295Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 8,
+    "code": "ghost-cms-deploy",
+    "name": "Ghost CMS with MySQL | One-Click Deploy",
+    "deploymentCount": 15,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self Host Ghost CMS + MySQL + SMTP — publishing platform on Railway",
+    "live": {
+      "code": "ghost-cms-deploy",
+      "name": "Ghost CMS with MySQL | One-Click Deploy",
+      "health": 100,
+      "activeProjects": 15,
+      "recentProjects": 5,
+      "projects": 29,
+      "isVerified": false,
+      "createdAt": "2026-03-09T20:58:48.131Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 9,
+    "code": "_tnMWG",
+    "name": "Deploy Ghost on Railway",
+    "deploymentCount": 113,
+    "healthScore": 88,
+    "isVerified": false,
+    "description": "Ghost allows you to build a website, publish content, newsletters & more.",
+    "live": {
+      "code": "_tnMWG",
+      "name": "Deploy Ghost on Railway",
+      "health": 88,
+      "activeProjects": 113,
+      "recentProjects": 4,
+      "projects": 196,
+      "isVerified": false,
+      "createdAt": "2024-05-17T16:42:58.115Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 10,
+    "code": "9VGb60",
+    "name": "Ghost + SQLite",
+    "deploymentCount": 86,
+    "healthScore": 92,
+    "isVerified": false,
+    "description": "Self-hosted Ghost with SQLite and persistent volume.",
+    "live": {
+      "code": "9VGb60",
+      "name": "Ghost + SQLite",
+      "health": 92,
+      "activeProjects": 86,
+      "recentProjects": 1,
+      "projects": 268,
+      "isVerified": false,
+      "createdAt": "2023-07-26T15:02:17.162Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 11,
+    "code": "ZQcedl",
+    "name": "Ghost CMS 6",
+    "deploymentCount": 47,
+    "healthScore": 90,
+    "isVerified": false,
+    "description": "Ready to use right after launch! No setup required.",
+    "live": {
+      "code": "ZQcedl",
+      "name": "Ghost CMS 6",
+      "health": 90,
+      "activeProjects": 47,
+      "recentProjects": 2,
+      "projects": 182,
+      "isVerified": false,
+      "createdAt": "2024-03-22T10:30:34.126Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 12,
+    "code": "ghost-cms-mysql",
+    "name": "Ghost CMS + MySQL",
+    "deploymentCount": 17,
+    "healthScore": 96,
+    "isVerified": false,
+    "description": "Ghost 6 with MySQL 8, volumes, private networking, and safer startup.",
+    "live": {
+      "code": "ghost-cms-mysql",
+      "name": "Ghost CMS + MySQL",
+      "health": 96,
+      "activeProjects": 17,
+      "recentProjects": 4,
+      "projects": 24,
+      "isVerified": false,
+      "createdAt": "2026-04-09T00:05:51.462Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 13,
+    "code": "ghost-multilingual",
+    "name": "Ghost Multilingual",
+    "deploymentCount": 1,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "1-Click deploy multilingual Ghost with 2 separate instances",
+    "live": {
+      "code": "ghost-multilingual",
+      "name": "Ghost Multilingual",
+      "health": null,
+      "activeProjects": 1,
+      "recentProjects": 0,
+      "projects": 20,
+      "isVerified": false,
+      "createdAt": "2025-10-01T03:55:44.819Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 14,
+    "code": "ghost-substack-medium-alternativebold-bl",
+    "name": "Ghost (Substack / Medium Alternative)",
+    "deploymentCount": 1,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-hosted publishing & newsletter platform. Own your audience.",
+    "live": {
+      "code": "ghost-substack-medium-alternativebold-bl",
+      "name": "Ghost (Substack / Medium Alternative)",
+      "health": null,
+      "activeProjects": 1,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-08-19T19:05:10.012Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 15,
+    "code": "ghostdocker",
+    "name": "ghost_docker",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "A template for ghost with mysql on railway that uses api for email delivery",
+    "live": {
+      "code": "ghostdocker",
+      "name": "ghost_docker",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2025-10-06T20:07:08.989Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 16,
+    "code": "ghost-with-mysql",
+    "name": "Ghost with MySQL",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Modern publishing platform with built-in newsletters and subscriptions",
+    "live": {
+      "code": "ghost-with-mysql",
+      "name": "Ghost with MySQL",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-06-07T13:22:47.630Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 17,
+    "code": "ghost-substack-alternative",
+    "name": "Ghost — Self-Hosted Substack Alternative, 0% Fees",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host Ghost: newsletters & memberships. 0% fees, unlike Substack.",
+    "live": {
+      "code": "ghost-substack-alternative",
+      "name": "Ghost — Self-Hosted Substack Alternative, 0% Fees",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-07-10T11:14:30.245Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 18,
+    "code": "ghost-or-publishing-platform-with-mysql-",
+    "name": "Ghost | Publishing Platform with MySQL and a Real Volume",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Self-host Ghost on Railway: pinned release, MySQL, content that persists",
+    "live": {
+      "code": "ghost-or-publishing-platform-with-mysql-",
+      "name": "Ghost | Publishing Platform with MySQL and a Real Volume",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-07-26T12:25:43.493Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 19,
+    "code": "ghost-or-just-updated-substack-alternati",
+    "name": "Ghost | (Just Updated) Substack Alternative With a Login Nobody Can Steal",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Own your newsletter. Admin seeded before boot, nobody can hijack the site.",
+    "live": {
+      "code": "ghost-or-just-updated-substack-alternati",
+      "name": "Ghost | (Just Updated) Substack Alternative With a Login Nobody Can Steal",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-28T23:48:21.694Z",
+      "category": "Blogs"
+    }
+  },
+  {
+    "pos": 20,
+    "code": "ghostfolio",
+    "name": "Ghostfolio | Open Source Sharesight Alternative on Railway",
+    "deploymentCount": 11,
+    "healthScore": 100,
+    "isVerified": false,
+    "description": "Self-host Ghostfolio. Wealth Dashboard - Track stocks, ETFs, crypto",
+    "live": {
+      "code": "ghostfolio",
+      "name": "Ghostfolio | Open Source Sharesight Alternative on Railway",
+      "health": 100,
+      "activeProjects": 11,
+      "recentProjects": 4,
+      "projects": 16,
+      "isVerified": false,
+      "createdAt": "2026-04-29T16:46:57.841Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 21,
+    "code": "ghostfolio-1",
+    "name": "Ghostfolio",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Personal finance portfolio tracker for stocks, ETFs, and crypto.",
+    "live": {
+      "code": "ghostfolio-1",
+      "name": "Ghostfolio",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-08-02T20:51:57.696Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 22,
+    "code": "ghostfolio-railway",
+    "name": "Ghostfolio",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "Portfolio tracker for your stocks, ETFs and cryptocurrencies",
+    "live": {
+      "code": "ghostfolio-railway",
+      "name": "Ghostfolio",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 1,
+      "projects": 1,
+      "isVerified": false,
+      "createdAt": "2026-09-02T20:34:17.476Z",
+      "category": "Other"
+    }
+  },
+  {
+    "pos": 23,
+    "code": "ghost-multilingual-reverse-proxy",
+    "name": "Ghost Multilingual Nginx Proxy",
+    "deploymentCount": 10,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "Nginx proxy for multi-language Ghost blogs with subdirectory routing",
+    "live": {
+      "code": "ghost-multilingual-reverse-proxy",
+      "name": "Ghost Multilingual Nginx Proxy",
+      "health": 0,
+      "activeProjects": 10,
+      "recentProjects": 0,
+      "projects": 11,
+      "isVerified": false,
+      "createdAt": "2025-09-29T18:13:00.168Z",
+      "category": "Starters"
+    }
+  },
+  {
+    "pos": 24,
+    "code": "ghost-680-and-n8n-11192-latest-for-progr",
+    "name": "Ghost 6.8.0 and n8n 1.119.2 (latest) for Programmatic SEO",
+    "deploymentCount": 2,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "Perfect for pSEO (blog posts): generate in n8n and auto-publish in Ghost.",
+    "live": {
+      "code": "ghost-680-and-n8n-11192-latest-for-progr",
+      "name": "Ghost 6.8.0 and n8n 1.119.2 (latest) for Programmatic SEO",
+      "health": 0,
+      "activeProjects": 2,
+      "recentProjects": 0,
+      "projects": 8,
+      "isVerified": false,
+      "createdAt": "2025-11-16T03:31:02.647Z",
+      "category": "CMS"
+    }
+  },
+  {
+    "pos": 25,
+    "code": "koSYWQ",
+    "name": "Ghostfolio",
+    "deploymentCount": 11,
+    "healthScore": 0,
+    "isVerified": false,
+    "description": "An open source wealth management software built with web technology",
+    "live": {
+      "code": "koSYWQ",
+      "name": "Ghostfolio",
+      "health": 0,
+      "activeProjects": 11,
+      "recentProjects": 0,
+      "projects": 38,
+      "isVerified": false,
+      "createdAt": "2023-12-15T06:10:19.992Z",
+      "category": "Analytics"
+    }
+  },
+  {
+    "pos": 26,
+    "code": "typesense-cms-search",
+    "name": "Typesense CMS Search",
+    "deploymentCount": 0,
+    "healthScore": null,
+    "isVerified": false,
+    "description": "search WordPress, Ghost, or headless CMS",
+    "live": {
+      "code": "typesense-cms-search",
+      "name": "Typesense CMS Search",
+      "health": null,
+      "activeProjects": 0,
+      "recentProjects": 0,
+      "projects": 0,
+      "isVerified": false,
+      "createdAt": "2026-09-15T09:58:33.174Z",
+      "category": "Analytics"
+    }
+  }
+]

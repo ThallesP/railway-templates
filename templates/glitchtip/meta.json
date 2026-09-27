@@ -1,0 +1,12 @@
+{
+  "code": "AMx6AD",
+  "name": "GlitchTip",
+  "description": "Sentry-compatible open source error tracking with PostgreSQL and Redis",
+  "category": "Observability",
+  "image": "https://gitlab.com/uploads/-/system/group/avatar/6475477/glitchtip_g.png",
+  "keywords": [
+    "glitchtip",
+    "error tracking",
+    "sentry"
+  ]
+}
