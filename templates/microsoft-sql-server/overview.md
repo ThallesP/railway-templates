@@ -1,4 +1,4 @@
-# Deploy and Host Microsoft SQL Server on Railway
+# Deploy and Host Microsoft SQL Server (MSSQL) on Railway
 
 Microsoft SQL Server (MSSQL) is Microsoft's relational database, the one behind many .NET, ERP and reporting workloads, with T-SQL, SQL Server Management Studio and Azure Data Studio as its tooling. This template runs the official Linux container image on Railway with persistent storage, lets you choose the version and edition at deploy time, and generates a compliant `sa` password.
 

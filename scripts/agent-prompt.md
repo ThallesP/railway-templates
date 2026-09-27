@@ -10,7 +10,7 @@ Then, for each template, decide whether an edit is justified. An edit is justifi
 - a fact on the page is wrong or outdated (a version, a variable, a port, a price, a link that no longer resolves);
 - the report shows a new reply on the template's Central Station thread with a question the page does not answer (fetch https://station-server.railway.com/api/threads/<slug>?format=md to read it);
 - validation checks in data/latest.json failed and the page should tell users what to expect or do;
-- the description does not contain the words people search for according to the tracked keywords, or exceeds 120 characters;
+- the description does not contain the words people search for according to the tracked keywords, or exceeds 75 characters;
 - a required section from the guidelines is missing.
 
 Do not edit a page to reword it, to add keywords, or to make it look updated. If nothing qualifies, make no edits and say so.
@@ -18,7 +18,7 @@ Do not edit a page to reword it, to add keywords, or to make it look updated. If
 When you edit:
 - verify each new fact against the upstream project's documentation, the template's source repository, or Railway's documentation (WebFetch is available), and mention the source in your final summary;
 - keep the section order from the guidelines and keep the FAQ grounded in real user questions;
-- never change meta.json "code" or "keywords"; you may change "description" and "image" within the rules; a "name" change is a recommendation for a human, put it in your summary instead of editing;
+- never change meta.json "code" or "keywords"; you may change "description" and "image" within the rules; do not change "name" (a rename changes the URL slug, the title and the search ranking, so it is a human decision; recommend it in your summary instead);
 - run `bun run scripts/check.ts` at the end and fix anything it reports.
 
 Finish with a short summary: which templates you changed and why, with sources, and which templates need a human (renames, config fixes in the Railway dashboard, source repository bugs). If a template's validation is failing because of its configuration or source code rather than its page, describe the likely cause and stop; do not try to fix repositories from here.

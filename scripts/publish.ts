@@ -31,7 +31,7 @@ const main = async () => {
       console.log(`${meta.code}: status ${live.status}, skipping`)
       continue
     }
-    if (live.name !== meta.name) console.log(`${meta.code}: name is "${live.name}", target "${meta.name}" (rename manually at https://railway.com/workspace/templates)`)
+    if (live.name !== meta.name) console.log(`${meta.code}: name is "${live.name}", target "${meta.name}" (run scripts/rename.ts)`)
 
     const changes: string[] = []
     if ((live.description ?? '') !== meta.description) changes.push('description')

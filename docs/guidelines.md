@@ -16,7 +16,7 @@ Measured on 2026-09-27 against live `railway.com/deploy/<code>` pages.
 
 Railway already emits canonical, Open Graph, Twitter, BreadcrumbList, HowTo and SoftwareApplication/WebApplication structured data. Nothing to add there.
 
-Name cannot be changed through the CLI or API (`TemplatePublishInput` has category, description, image, readme, demoProjectId only). Renames happen in the dashboard at railway.com/workspace/templates. Old `slug--code` URLs keep resolving and canonicalize to the new slug.
+Name is not in `TemplatePublishInput` (the public CLI/API surface), but the template editor renames through a change set on backboard's `/graphql/internal` endpoint: `templateChangeSetStage(templateId, patch: {metadata: {name}})` then `templateChangeSetApply(changeSetId)`. `scripts/rename.ts` does exactly that and verifies every other field is untouched. Old `slug--code` URLs keep resolving and canonicalize to the new slug. Measured 2026-09-27: renaming `n8n (w/ postgres)` to `n8n` moved it from #19 to #2 for the query `n8n` within seconds.
 
 ## Marketplace search ranking (reverse engineered)
 

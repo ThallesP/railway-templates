@@ -26,6 +26,7 @@ else
     > "reports/agent-$(date -u +%F).log" 2>&1 || log "agent exited non-zero, see reports/agent-$(date -u +%F).log"
 
   if bun run scripts/check.ts; then
+    bun run scripts/rename.ts
     bun run scripts/publish.ts
   else
     log "check failed, not publishing; reverting template edits"

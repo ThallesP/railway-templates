@@ -18,10 +18,12 @@ bun run scripts/report.ts              # reports/<date>.md from the last two sna
 bun run scripts/check.ts               # lint metadata and overviews, resolve every link
 bun run scripts/publish.ts --dry-run   # show what differs from Railway
 bun run scripts/publish.ts             # railway templates update ... for templates that differ
+bun run scripts/rename.ts --dry-run    # names that differ from meta.json
+bun run scripts/rename.ts              # apply them via the template editor's change-set API
 scripts/run.sh                         # the daily job
 ```
 
-Publishing uses the Railway CLI's stored login. Template names cannot be changed through the CLI or API; the scripts report a mismatch and a person renames the template at railway.com/workspace/templates.
+Publishing uses the Railway CLI's stored login. `scripts/rename.ts` applies name changes through the same change-set mutations the dashboard's template editor uses (internal endpoint, same token); the agent never edits names, a person changes `meta.json` and the next run applies it.
 
 ## Daily job
 

@@ -43,7 +43,7 @@ const main = async () => {
       `| ${t.live.name} (${meta.code}) | ${t.live.health ?? '-'}${delta(t.live.health, p?.live.health)} | ${t.live.activeProjects}${delta(t.live.activeProjects, p?.live.activeProjects)} | ${t.live.recentProjects}${delta(t.live.recentProjects, p?.live.recentProjects)} | ${validation} | ${ranks} |`,
     )
 
-    if (t.live.name !== meta.name) attention.push(`${meta.code}: live name is "${t.live.name}", target is "${meta.name}" (rename in the dashboard, not available through the API)`)
+    if (t.live.name !== meta.name) attention.push(`${meta.code}: live name is "${t.live.name}", target is "${meta.name}" (scripts/rename.ts will apply it on the next run)`)
     if (t.manifest.failedChecks.length) attention.push(`${meta.code}: validation failing: ${t.manifest.failedChecks.join('; ')}`)
     if (t.live.health !== null && t.live.health < 70) attention.push(`${meta.code}: health ${t.live.health} puts it in the lowest search tier`)
     if (t.icon.url && t.icon.status !== 200) attention.push(`${meta.code}: icon ${t.icon.url} returns ${t.icon.status}`)

@@ -10,7 +10,7 @@ GlitchTip is a Django application. It needs PostgreSQL 14 or newer for issues, e
 
 The **glitchtip-web** service runs the official `glitchtip/glitchtip` image, applies database migrations on start, serves the dashboard and the event ingestion endpoints on a public domain, and has a health check on `/login` so traffic only reaches a deploy that is up. `SECRET_KEY` is generated at deploy time, `GLITCHTIP_DOMAIN` is set to the service's public URL so DSNs and email links are correct, and `ENABLE_USER_REGISTRATION=false` means the first person to open the site registers and every later signup is refused. Email is optional: leave `EMAIL_URL` empty and GlitchTip skips email verification; fill it with an SMTP URL later to get alert emails.
 
-Recent GlitchTip releases run the task worker inside the web process. The template still lists a separate **glitchtip-worker** service from the days when a Celery worker was required; see the FAQ if it shows as crashed.
+Recent GlitchTip releases run the task worker inside the web process, so the template is those three services and nothing else.
 
 ## Common Use Cases
 
@@ -53,9 +53,9 @@ The three services, their volumes and their private connections are created toge
 
 ## Frequently Asked Questions
 
-### The glitchtip-worker service is crashed. Is something broken?
+### I deployed this earlier and have a crashed glitchtip-worker service. Is something broken?
 
-No. GlitchTip 6 runs the worker inside the web process and removed the standalone worker script, so that service has nothing to run. Delete the `glitchtip-worker` service from your project; the web service handles the task queue on its own.
+No. GlitchTip 6 runs the worker inside the web process and removed the standalone worker script, so that service has nothing to run. Delete the `glitchtip-worker` service from your project; the web service handles the task queue on its own. New deploys of the template no longer include it.
 
 ### Where do I find the DSN?
 

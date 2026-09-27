@@ -1,6 +1,6 @@
 {
   "code": "microsoftsql-server-mssql",
-  "name": "Microsoft SQL Server",
+  "name": "Microsoft SQL Server (MSSQL)",
   "description": "SQL Server 2025, 2022 or 2019 (MSSQL) on a volume, edition set at deploy",
   "category": "Storage",
   "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg",
