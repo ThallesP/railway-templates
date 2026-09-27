@@ -1,0 +1,11 @@
+{
+  "name": "railway-templates",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "snapshot": "bun run scripts/snapshot.ts",
+    "publish": "bun run scripts/publish.ts",
+    "report": "bun run scripts/report.ts",
+    "check": "bun run scripts/check.ts"
+  }
+}
