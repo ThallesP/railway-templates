@@ -3,7 +3,7 @@
   "name": "MillionSend",
   "description": "Open source email API and broadcasts on your own AWS SES, Resend compatible",
   "category": "Other",
-  "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/millionsend.png",
+  "image": "https://cdn.jsdelivr.net/gh/ThallesP/railway-templates@main/assets/millionsend.svg",
   "keywords": [
     "millionsend",
     "resend",
